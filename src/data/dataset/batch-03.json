@@ -1,0 +1,944 @@
+[
+  {
+    "id": "multiply-strings",
+    "title": "Multiply Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "Math / Simulation",
+    "pattern": "String",
+    "tags": [
+      "math",
+      "string",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "fraction-to-recurring-decimal",
+    "title": "Fraction to Recurring Decimal",
+    "leetcodeUrl": "https://leetcode.com/problems/fraction-to-recurring-decimal/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "Hash Table / Math",
+    "pattern": "String",
+    "tags": [
+      "hash-table",
+      "math",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "bulls-and-cows",
+    "title": "Bulls and Cows",
+    "leetcodeUrl": "https://leetcode.com/problems/bulls-and-cows/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "Hash Table / Counting",
+    "pattern": "String",
+    "tags": [
+      "hash-table",
+      "string",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "valid-number",
+    "title": "Valid Number",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-number/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "valid-anagram",
+    "title": "Valid Anagram",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+    "difficulty": "Easy",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Hash Table / String",
+    "pattern": "Sorting",
+    "tags": [
+      "hash-table",
+      "string",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "third-maximum-number",
+    "title": "Third Maximum Number",
+    "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+    "difficulty": "Easy",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "maximum-product-of-three-numbers",
+    "title": "Maximum Product of Three Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+    "difficulty": "Easy",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array / Math",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "math",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "largest-number-at-least-twice-of-others",
+    "title": "Largest Number At Least Twice of Others",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-number-at-least-twice-of-others/",
+    "difficulty": "Easy",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "matrix-cells-in-distance-order",
+    "title": "Matrix Cells in Distance Order",
+    "leetcodeUrl": "https://leetcode.com/problems/matrix-cells-in-distance-order/",
+    "difficulty": "Easy",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array / Math",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "math",
+      "geometry",
+      "sorting",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "height-checker",
+    "title": "Height Checker",
+    "leetcodeUrl": "https://leetcode.com/problems/height-checker/",
+    "difficulty": "Easy",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array / Counting Sort",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "sorting",
+      "counting-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "group-anagrams",
+    "title": "Group Anagrams",
+    "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "insertion-sort-list",
+    "title": "Insertion Sort List",
+    "leetcodeUrl": "https://leetcode.com/problems/insertion-sort-list/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Linked List",
+    "pattern": "Sorting",
+    "tags": [
+      "linked-list",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "maximum-gap",
+    "title": "Maximum Gap",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-gap/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array / Bucket Sort",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "sorting",
+      "bucket-sort",
+      "radix-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "h-index",
+    "title": "H-Index",
+    "leetcodeUrl": "https://leetcode.com/problems/h-index/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array / Counting Sort",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "sorting",
+      "counting-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "minimum-moves-to-equal-array-elements-ii",
+    "title": "Minimum Moves to Equal Array Elements II",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array / Math",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "math",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "minimum-time-difference",
+    "title": "Minimum Time Difference",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-time-difference/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array / Math",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "math",
+      "string",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "custom-sort-string",
+    "title": "Custom Sort String",
+    "leetcodeUrl": "https://leetcode.com/problems/custom-sort-string/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Hash Table / String",
+    "pattern": "Sorting",
+    "tags": [
+      "hash-table",
+      "string",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "find-and-replace-in-string",
+    "title": "Find And Replace in String",
+    "leetcodeUrl": "https://leetcode.com/problems/find-and-replace-in-string/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "car-fleet",
+    "title": "Car Fleet",
+    "leetcodeUrl": "https://leetcode.com/problems/car-fleet/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array / Stack",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "stack",
+      "sorting",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "number-of-atoms",
+    "title": "Number of Atoms",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-atoms/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Hash Table / String",
+    "pattern": "Sorting",
+    "tags": [
+      "hash-table",
+      "string",
+      "stack",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "sum-of-subsequence-widths",
+    "title": "Sum of Subsequence Widths",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-subsequence-widths/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "sorting",
+    "categoryName": "Sorting",
+    "subcategory": "Array / Math",
+    "pattern": "Sorting",
+    "tags": [
+      "array",
+      "math",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "search-insert-position",
+    "title": "Search Insert Position",
+    "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+    "difficulty": "Easy",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Array",
+    "pattern": "Binary Search",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "first-bad-version",
+    "title": "First Bad Version",
+    "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+    "difficulty": "Easy",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Interactive",
+    "pattern": "Binary Search",
+    "tags": [
+      "binary-search",
+      "interactive"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "valid-perfect-square",
+    "title": "Valid Perfect Square",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-perfect-square/",
+    "difficulty": "Easy",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Math",
+    "pattern": "Binary Search",
+    "tags": [
+      "math",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "guess-number-higher-or-lower",
+    "title": "Guess Number Higher or Lower",
+    "leetcodeUrl": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+    "difficulty": "Easy",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Interactive",
+    "pattern": "Binary Search",
+    "tags": [
+      "binary-search",
+      "interactive"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "arranging-coins",
+    "title": "Arranging Coins",
+    "leetcodeUrl": "https://leetcode.com/problems/arranging-coins/",
+    "difficulty": "Easy",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Math",
+    "pattern": "Binary Search",
+    "tags": [
+      "math",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "binary-search",
+    "title": "Binary Search",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+    "difficulty": "Easy",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Array",
+    "pattern": "Binary Search",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "find-first-and-last-position-of-element-in-sorted-array",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Array",
+    "pattern": "Binary Search",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "search-a-2d-matrix",
+    "title": "Search a 2D Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Array / Matrix",
+    "pattern": "Binary Search",
+    "tags": [
+      "array",
+      "binary-search",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "search-in-rotated-sorted-array-ii",
+    "title": "Search in Rotated Sorted Array II",
+    "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Array",
+    "pattern": "Binary Search",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "find-peak-element",
+    "title": "Find Peak Element",
+    "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Array",
+    "pattern": "Binary Search",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "search-a-2d-matrix-ii",
+    "title": "Search a 2D Matrix II",
+    "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Array / Divide and Conquer",
+    "pattern": "Binary Search",
+    "tags": [
+      "array",
+      "binary-search",
+      "divide-and-conquer",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "h-index-ii",
+    "title": "H-Index II",
+    "leetcodeUrl": "https://leetcode.com/problems/h-index-ii/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Array",
+    "pattern": "Binary Search",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "nth-digit",
+    "title": "Nth Digit",
+    "leetcodeUrl": "https://leetcode.com/problems/nth-digit/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Math",
+    "pattern": "Binary Search",
+    "tags": [
+      "math",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "132-pattern",
+    "title": "132 Pattern",
+    "leetcodeUrl": "https://leetcode.com/problems/132-pattern/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Array / Stack",
+    "pattern": "Binary Search",
+    "tags": [
+      "array",
+      "binary-search",
+      "stack",
+      "monotonic-stack",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "random-point-in-non-overlapping-rectangles",
+    "title": "Random Point in Non-overlapping Rectangles",
+    "leetcodeUrl": "https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Array / Math",
+    "pattern": "Binary Search",
+    "tags": [
+      "array",
+      "math",
+      "binary-search",
+      "reservoir-sampling",
+      "prefix-sum",
+      "ordered-set",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "median-of-two-sorted-arrays",
+    "title": "Median of Two Sorted Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Array / Divide and Conquer",
+    "pattern": "Binary Search",
+    "tags": [
+      "array",
+      "binary-search",
+      "divide-and-conquer"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "find-minimum-in-rotated-sorted-array-ii",
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Array",
+    "pattern": "Binary Search",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "data-stream-as-disjoint-intervals",
+    "title": "Data Stream as Disjoint Intervals",
+    "leetcodeUrl": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Design / Ordered Set",
+    "pattern": "Binary Search",
+    "tags": [
+      "binary-search",
+      "design",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "remove-duplicates-from-sorted-array",
+    "title": "Remove Duplicates from Sorted Array",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Array",
+    "pattern": "Two Pointers",
+    "tags": [
+      "array",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "remove-element",
+    "title": "Remove Element",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Array",
+    "pattern": "Two Pointers",
+    "tags": [
+      "array",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "merge-sorted-array",
+    "title": "Merge Sorted Array",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Array / Sorting",
+    "pattern": "Two Pointers",
+    "tags": [
+      "array",
+      "two-pointers",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "valid-palindrome",
+    "title": "Valid Palindrome",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "String",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "linked-list-cycle",
+    "title": "Linked List Cycle",
+    "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Hash Table / Linked List",
+    "pattern": "Two Pointers",
+    "tags": [
+      "hash-table",
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "intersection-of-two-linked-lists",
+    "title": "Intersection of Two Linked Lists",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Hash Table / Linked List",
+    "pattern": "Two Pointers",
+    "tags": [
+      "hash-table",
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "longest-substring-without-repeating-characters",
+    "title": "Longest Substring Without Repeating Characters",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Hash Table / String",
+    "pattern": "Sliding Window",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "remove-nth-node-from-end-of-list",
+    "title": "Remove Nth Node From End of List",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Linked List",
+    "pattern": "Two Pointers",
+    "tags": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "rotate-list",
+    "title": "Rotate List",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Linked List",
+    "pattern": "Two Pointers",
+    "tags": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "sort-colors",
+    "title": "Sort Colors",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Array / Sorting",
+    "pattern": "Two Pointers",
+    "tags": [
+      "array",
+      "two-pointers",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "remove-duplicates-from-sorted-array-ii",
+    "title": "Remove Duplicates from Sorted Array II",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Array",
+    "pattern": "Two Pointers",
+    "tags": [
+      "array",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  }
+]

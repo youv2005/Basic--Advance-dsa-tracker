@@ -1,0 +1,943 @@
+[
+  {
+    "id": "remove-duplicates-from-sorted-list-ii",
+    "title": "Remove Duplicates from Sorted List II",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Linked List",
+    "pattern": "Two Pointers",
+    "tags": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "partition-list",
+    "title": "Partition List",
+    "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Linked List",
+    "pattern": "Two Pointers",
+    "tags": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "linked-list-cycle-ii",
+    "title": "Linked List Cycle II",
+    "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Hash Table / Linked List",
+    "pattern": "Two Pointers",
+    "tags": [
+      "hash-table",
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "reorder-list",
+    "title": "Reorder List",
+    "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Linked List / Stack",
+    "pattern": "Two Pointers",
+    "tags": [
+      "linked-list",
+      "two-pointers",
+      "stack",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "substring-with-concatenation-of-all-words",
+    "title": "Substring with Concatenation of All Words",
+    "leetcodeUrl": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Hash Table / String",
+    "pattern": "Sliding Window",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "minimum-window-substring",
+    "title": "Minimum Window Substring",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Hash Table / String",
+    "pattern": "Sliding Window",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "contains-duplicate-iii",
+    "title": "Contains Duplicate III",
+    "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-iii/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "sliding-window-two-pointer",
+    "categoryName": "Sliding Window / Two Pointer",
+    "subcategory": "Array / Sorting",
+    "pattern": "Sliding Window",
+    "tags": [
+      "array",
+      "sliding-window",
+      "sorting",
+      "bucket-sort",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "reverse-bits",
+    "title": "Reverse Bits",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Divide and Conquer",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "divide-and-conquer",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "number-of-1-bits",
+    "title": "Number of 1 Bits",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Divide and Conquer",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "divide-and-conquer",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "convert-a-number-to-hexadecimal",
+    "title": "Convert a Number to Hexadecimal",
+    "leetcodeUrl": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Math / String",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "math",
+      "string",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "hamming-distance",
+    "title": "Hamming Distance",
+    "leetcodeUrl": "https://leetcode.com/problems/hamming-distance/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Manipulation",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "number-complement",
+    "title": "Number Complement",
+    "leetcodeUrl": "https://leetcode.com/problems/number-complement/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Manipulation",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "set-mismatch",
+    "title": "Set Mismatch",
+    "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "array",
+      "hash-table",
+      "bit-manipulation",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "divide-two-integers",
+    "title": "Divide Two Integers",
+    "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Math",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "single-number-ii",
+    "title": "Single Number II",
+    "leetcodeUrl": "https://leetcode.com/problems/single-number-ii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Array",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "array",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "bitwise-and-of-numbers-range",
+    "title": "Bitwise AND of Numbers Range",
+    "leetcodeUrl": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Manipulation",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "single-number-iii",
+    "title": "Single Number III",
+    "leetcodeUrl": "https://leetcode.com/problems/single-number-iii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Array",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "array",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "maximum-product-of-word-lengths",
+    "title": "Maximum Product of Word Lengths",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-word-lengths/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Array / String",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "array",
+      "string",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "sum-of-two-integers",
+    "title": "Sum of Two Integers",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-two-integers/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Math",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "utf-8-validation",
+    "title": "UTF-8 Validation",
+    "leetcodeUrl": "https://leetcode.com/problems/utf-8-validation/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Array",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "array",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "total-hamming-distance",
+    "title": "Total Hamming Distance",
+    "leetcodeUrl": "https://leetcode.com/problems/total-hamming-distance/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Array / Math",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "array",
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "transform-to-chessboard",
+    "title": "Transform to Chessboard",
+    "leetcodeUrl": "https://leetcode.com/problems/transform-to-chessboard/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Array / Math",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "array",
+      "math",
+      "bit-manipulation",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "chalkboard-xor-game",
+    "title": "Chalkboard XOR Game",
+    "leetcodeUrl": "https://leetcode.com/problems/chalkboard-xor-game/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Array / Math",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "array",
+      "math",
+      "bit-manipulation",
+      "brainteaser",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "unique-3-digit-even-numbers",
+    "title": "Unique 3-Digit Even Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+    "difficulty": "Easy",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Recursion",
+    "tags": [
+      "array",
+      "hash-table",
+      "recursion",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "powx-n",
+    "title": "Pow(x, n)",
+    "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Math",
+    "pattern": "Recursion",
+    "tags": [
+      "math",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "elimination-game",
+    "title": "Elimination Game",
+    "leetcodeUrl": "https://leetcode.com/problems/elimination-game/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Math",
+    "pattern": "Recursion",
+    "tags": [
+      "math",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "find-kth-bit-in-nth-binary-string",
+    "title": "Find Kth Bit in Nth Binary String",
+    "leetcodeUrl": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "String / Simulation",
+    "pattern": "Recursion",
+    "tags": [
+      "string",
+      "recursion",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "count-good-numbers",
+    "title": "Count Good Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Math",
+    "pattern": "Recursion",
+    "tags": [
+      "math",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "count-collisions-of-monkeys-on-a-polygon",
+    "title": "Count Collisions of Monkeys on a Polygon",
+    "leetcodeUrl": "https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Math",
+    "pattern": "Recursion",
+    "tags": [
+      "math",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "permutation-sequence",
+    "title": "Permutation Sequence",
+    "leetcodeUrl": "https://leetcode.com/problems/permutation-sequence/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Math",
+    "pattern": "Recursion",
+    "tags": [
+      "math",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "integer-to-english-words",
+    "title": "Integer to English Words",
+    "leetcodeUrl": "https://leetcode.com/problems/integer-to-english-words/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Math / String",
+    "pattern": "Recursion",
+    "tags": [
+      "math",
+      "string",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "special-binary-string",
+    "title": "Special Binary String",
+    "leetcodeUrl": "https://leetcode.com/problems/special-binary-string/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "String",
+    "pattern": "Recursion",
+    "tags": [
+      "string",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "binary-tree-paths",
+    "title": "Binary Tree Paths",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+    "difficulty": "Easy",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Tree",
+    "pattern": "Backtracking",
+    "tags": [
+      "string",
+      "backtracking",
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "binary-watch",
+    "title": "Binary Watch",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-watch/",
+    "difficulty": "Easy",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Bit Manipulation",
+    "pattern": "Backtracking",
+    "tags": [
+      "backtracking",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "sum-of-all-subset-xor-totals",
+    "title": "Sum of All Subset XOR Totals",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
+    "difficulty": "Easy",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Array / Math",
+    "pattern": "Backtracking",
+    "tags": [
+      "array",
+      "math",
+      "backtracking",
+      "bit-manipulation",
+      "combinatorics",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "letter-combinations-of-a-phone-number",
+    "title": "Letter Combinations of a Phone Number",
+    "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Hash Table / String",
+    "pattern": "Backtracking",
+    "tags": [
+      "hash-table",
+      "string",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "combination-sum",
+    "title": "Combination Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Array",
+    "pattern": "Backtracking",
+    "tags": [
+      "array",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "combination-sum-ii",
+    "title": "Combination Sum II",
+    "leetcodeUrl": "https://leetcode.com/problems/combination-sum-ii/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Array",
+    "pattern": "Backtracking",
+    "tags": [
+      "array",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "permutations",
+    "title": "Permutations",
+    "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Array",
+    "pattern": "Backtracking",
+    "tags": [
+      "array",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "permutations-ii",
+    "title": "Permutations II",
+    "leetcodeUrl": "https://leetcode.com/problems/permutations-ii/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Array / Sorting",
+    "pattern": "Backtracking",
+    "tags": [
+      "array",
+      "backtracking",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "combinations",
+    "title": "Combinations",
+    "leetcodeUrl": "https://leetcode.com/problems/combinations/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Backtracking",
+    "pattern": "Backtracking",
+    "tags": [
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "subsets",
+    "title": "Subsets",
+    "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Array / Bit Manipulation",
+    "pattern": "Backtracking",
+    "tags": [
+      "array",
+      "backtracking",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "word-search",
+    "title": "Word Search",
+    "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Array / String",
+    "pattern": "Backtracking",
+    "tags": [
+      "array",
+      "string",
+      "backtracking",
+      "depth-first-search",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "sudoku-solver",
+    "title": "Sudoku Solver",
+    "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Backtracking",
+    "tags": [
+      "array",
+      "hash-table",
+      "backtracking",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "n-queens",
+    "title": "N-Queens",
+    "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Array",
+    "pattern": "Backtracking",
+    "tags": [
+      "array",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "n-queens-ii",
+    "title": "N-Queens II",
+    "leetcodeUrl": "https://leetcode.com/problems/n-queens-ii/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Backtracking",
+    "pattern": "Backtracking",
+    "tags": [
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "word-ladder-ii",
+    "title": "Word Ladder II",
+    "leetcodeUrl": "https://leetcode.com/problems/word-ladder-ii/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Hash Table / String",
+    "pattern": "Backtracking",
+    "tags": [
+      "hash-table",
+      "string",
+      "backtracking",
+      "breadth-first-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "word-search-ii",
+    "title": "Word Search II",
+    "leetcodeUrl": "https://leetcode.com/problems/word-search-ii/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Array / String",
+    "pattern": "Backtracking",
+    "tags": [
+      "array",
+      "string",
+      "backtracking",
+      "trie",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "binary-tree-inorder-traversal",
+    "title": "Binary Tree Inorder Traversal",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "difficulty": "Easy",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Stack / Tree",
+    "pattern": "Binary Tree",
+    "tags": [
+      "stack",
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "same-tree",
+    "title": "Same Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+    "difficulty": "Easy",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Tree / Depth-First Search",
+    "pattern": "Binary Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  }
+]

@@ -1,0 +1,995 @@
+[
+  {
+    "id": "best-time-to-buy-and-sell-stock-with-cooldown",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "super-ugly-number",
+    "title": "Super Ugly Number",
+    "leetcodeUrl": "https://leetcode.com/problems/super-ugly-number/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array / Math",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "math",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "coin-change",
+    "title": "Coin Change",
+    "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array / Breadth-First Search",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "breadth-first-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "house-robber-iii",
+    "title": "House Robber III",
+    "leetcodeUrl": "https://leetcode.com/problems/house-robber-iii/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Tree / Depth-First Search",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming",
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "integer-break",
+    "title": "Integer Break",
+    "leetcodeUrl": "https://leetcode.com/problems/integer-break/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Math",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "math",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "regular-expression-matching",
+    "title": "Regular Expression Matching",
+    "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String / Recursion",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "string",
+      "dynamic-programming",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "longest-valid-parentheses",
+    "title": "Longest Valid Parentheses",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String / Stack",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "string",
+      "dynamic-programming",
+      "stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "wildcard-matching",
+    "title": "Wildcard Matching",
+    "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String / Greedy",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "string",
+      "dynamic-programming",
+      "greedy",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "maximal-rectangle",
+    "title": "Maximal Rectangle",
+    "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array / Stack",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "stack",
+      "matrix",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "scramble-string",
+    "title": "Scramble String",
+    "leetcodeUrl": "https://leetcode.com/problems/scramble-string/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "distinct-subsequences",
+    "title": "Distinct Subsequences",
+    "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "best-time-to-buy-and-sell-stock-iii",
+    "title": "Best Time to Buy and Sell Stock III",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "binary-tree-maximum-path-sum",
+    "title": "Binary Tree Maximum Path Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Tree / Depth-First Search",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming",
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "palindrome-partitioning-ii",
+    "title": "Palindrome Partitioning II",
+    "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "word-break-ii",
+    "title": "Word Break II",
+    "leetcodeUrl": "https://leetcode.com/problems/word-break-ii/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "dynamic-programming",
+      "backtracking",
+      "trie",
+      "memoization"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "dungeon-game",
+    "title": "Dungeon Game",
+    "leetcodeUrl": "https://leetcode.com/problems/dungeon-game/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array / Matrix",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "best-time-to-buy-and-sell-stock-iv",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "number-of-digit-one",
+    "title": "Number of Digit One",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-digit-one/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Math / Recursion",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "burst-balloons",
+    "title": "Burst Balloons",
+    "leetcodeUrl": "https://leetcode.com/problems/burst-balloons/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "russian-doll-envelopes",
+    "title": "Russian Doll Envelopes",
+    "leetcodeUrl": "https://leetcode.com/problems/russian-doll-envelopes/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array / Binary Search",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "frog-jump",
+    "title": "Frog Jump",
+    "leetcodeUrl": "https://leetcode.com/problems/frog-jump/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "split-array-largest-sum",
+    "title": "Split Array Largest Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array / Binary Search",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming",
+      "greedy",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "arithmetic-slices-ii-subsequence",
+    "title": "Arithmetic Slices II - Subsequence",
+    "leetcodeUrl": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Array",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "poor-pigs",
+    "title": "Poor Pigs",
+    "leetcodeUrl": "https://leetcode.com/problems/poor-pigs/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Math / Combinatorics",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "combinatorics"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "longest-common-prefix",
+    "title": "Longest Common Prefix",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+    "difficulty": "Easy",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Array / String",
+    "pattern": "Trie",
+    "tags": [
+      "array",
+      "string",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "maximum-strong-pair-xor-i",
+    "title": "Maximum Strong Pair XOR I",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-strong-pair-xor-i/",
+    "difficulty": "Easy",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Trie",
+    "tags": [
+      "array",
+      "hash-table",
+      "bit-manipulation",
+      "trie",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "implement-trie-prefix-tree",
+    "title": "Implement Trie (Prefix Tree)",
+    "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Hash Table / String",
+    "pattern": "Trie",
+    "tags": [
+      "hash-table",
+      "string",
+      "design",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "design-add-and-search-words-data-structure",
+    "title": "Design Add and Search Words Data Structure",
+    "leetcodeUrl": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "String / Depth-First Search",
+    "pattern": "Trie",
+    "tags": [
+      "string",
+      "depth-first-search",
+      "design",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "lexicographical-numbers",
+    "title": "Lexicographical Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/lexicographical-numbers/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Depth-First Search",
+    "pattern": "Trie",
+    "tags": [
+      "depth-first-search",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "maximum-xor-of-two-numbers-in-an-array",
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Trie",
+    "tags": [
+      "array",
+      "hash-table",
+      "bit-manipulation",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "replace-words",
+    "title": "Replace Words",
+    "leetcodeUrl": "https://leetcode.com/problems/replace-words/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Trie",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "palindrome-pairs",
+    "title": "Palindrome Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/palindrome-pairs/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Trie",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "k-th-smallest-in-lexicographical-order",
+    "title": "K-th Smallest in Lexicographical Order",
+    "leetcodeUrl": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Trie",
+    "pattern": "Trie",
+    "tags": [
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "fruits-into-baskets-ii",
+    "title": "Fruits Into Baskets II",
+    "leetcodeUrl": "https://leetcode.com/problems/fruits-into-baskets-ii/",
+    "difficulty": "Easy",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Array / Binary Search",
+    "pattern": "Segment Tree",
+    "tags": [
+      "array",
+      "binary-search",
+      "segment-tree",
+      "simulation",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "range-sum-query-mutable",
+    "title": "Range Sum Query - Mutable",
+    "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-mutable/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Array / Design",
+    "pattern": "Segment Tree",
+    "tags": [
+      "array",
+      "design",
+      "binary-indexed-tree",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "queue-reconstruction-by-height",
+    "title": "Queue Reconstruction by Height",
+    "leetcodeUrl": "https://leetcode.com/problems/queue-reconstruction-by-height/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Array / Binary Indexed Tree",
+    "pattern": "Segment Tree",
+    "tags": [
+      "array",
+      "binary-indexed-tree",
+      "segment-tree",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "number-of-longest-increasing-subsequence",
+    "title": "Number of Longest Increasing Subsequence",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Array / Dynamic Programming",
+    "pattern": "Segment Tree",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "binary-indexed-tree",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "my-calendar-i",
+    "title": "My Calendar I",
+    "leetcodeUrl": "https://leetcode.com/problems/my-calendar-i/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Array / Binary Search",
+    "pattern": "Segment Tree",
+    "tags": [
+      "array",
+      "binary-search",
+      "design",
+      "segment-tree",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "the-skyline-problem",
+    "title": "The Skyline Problem",
+    "leetcodeUrl": "https://leetcode.com/problems/the-skyline-problem/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Array / Divide and Conquer",
+    "pattern": "Segment Tree",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "binary-indexed-tree",
+      "segment-tree",
+      "line-sweep",
+      "heap-priority-queue",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "count-of-smaller-numbers-after-self",
+    "title": "Count of Smaller Numbers After Self",
+    "leetcodeUrl": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Array / Binary Search",
+    "pattern": "Segment Tree",
+    "tags": [
+      "array",
+      "binary-search",
+      "divide-and-conquer",
+      "binary-indexed-tree",
+      "segment-tree",
+      "merge-sort",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "count-of-range-sum",
+    "title": "Count of Range Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/count-of-range-sum/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Array / Binary Search",
+    "pattern": "Segment Tree",
+    "tags": [
+      "array",
+      "binary-search",
+      "divide-and-conquer",
+      "binary-indexed-tree",
+      "segment-tree",
+      "merge-sort",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "find-if-path-exists-in-graph",
+    "title": "Find if Path Exists in Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+    "difficulty": "Easy",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set (Union-Find)",
+    "subcategory": "Depth-First Search / Breadth-First Search",
+    "pattern": "Union Find",
+    "tags": [
+      "depth-first-search",
+      "breadth-first-search",
+      "union-find",
+      "graph"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "longest-consecutive-sequence",
+    "title": "Longest Consecutive Sequence",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set (Union-Find)",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Union Find",
+    "tags": [
+      "array",
+      "hash-table",
+      "union-find"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "surrounded-regions",
+    "title": "Surrounded Regions",
+    "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set (Union-Find)",
+    "subcategory": "Array / Depth-First Search",
+    "pattern": "Union Find",
+    "tags": [
+      "array",
+      "depth-first-search",
+      "breadth-first-search",
+      "union-find",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "number-of-islands",
+    "title": "Number of Islands",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set (Union-Find)",
+    "subcategory": "Array / Depth-First Search",
+    "pattern": "Union Find",
+    "tags": [
+      "array",
+      "depth-first-search",
+      "breadth-first-search",
+      "union-find",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "evaluate-division",
+    "title": "Evaluate Division",
+    "leetcodeUrl": "https://leetcode.com/problems/evaluate-division/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set (Union-Find)",
+    "subcategory": "Array / String",
+    "pattern": "Union Find",
+    "tags": [
+      "array",
+      "string",
+      "depth-first-search",
+      "breadth-first-search",
+      "union-find",
+      "graph",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "redundant-connection-ii",
+    "title": "Redundant Connection II",
+    "leetcodeUrl": "https://leetcode.com/problems/redundant-connection-ii/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set (Union-Find)",
+    "subcategory": "Depth-First Search / Breadth-First Search",
+    "pattern": "Union Find",
+    "tags": [
+      "depth-first-search",
+      "breadth-first-search",
+      "union-find",
+      "graph"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "couples-holding-hands",
+    "title": "Couples Holding Hands",
+    "leetcodeUrl": "https://leetcode.com/problems/couples-holding-hands/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set (Union-Find)",
+    "subcategory": "Greedy / Depth-First Search",
+    "pattern": "Union Find",
+    "tags": [
+      "greedy",
+      "depth-first-search",
+      "breadth-first-search",
+      "union-find",
+      "graph"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "swim-in-rising-water",
+    "title": "Swim in Rising Water",
+    "leetcodeUrl": "https://leetcode.com/problems/swim-in-rising-water/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set (Union-Find)",
+    "subcategory": "Array / Binary Search",
+    "pattern": "Union Find",
+    "tags": [
+      "array",
+      "binary-search",
+      "depth-first-search",
+      "breadth-first-search",
+      "union-find",
+      "heap-priority-queue",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "network-delay-time",
+    "title": "Network Delay Time",
+    "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Depth-First Search / Breadth-First Search",
+    "pattern": "Shortest Path",
+    "tags": [
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  }
+]

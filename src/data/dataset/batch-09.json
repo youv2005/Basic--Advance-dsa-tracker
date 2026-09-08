@@ -1,0 +1,998 @@
+[
+  {
+    "id": "cheapest-flights-within-k-stops",
+    "title": "Cheapest Flights Within K Stops",
+    "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Dynamic Programming / Depth-First Search",
+    "pattern": "Shortest Path",
+    "tags": [
+      "dynamic-programming",
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+    "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Dynamic Programming / Graph",
+    "pattern": "Shortest Path",
+    "tags": [
+      "dynamic-programming",
+      "graph",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "path-with-maximum-probability",
+    "title": "Path with Maximum Probability",
+    "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-probability/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Array / Graph",
+    "pattern": "Shortest Path",
+    "tags": [
+      "array",
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "number-of-restricted-paths-from-first-to-last-node",
+    "title": "Number of Restricted Paths From First to Last Node",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Dynamic Programming / Graph",
+    "pattern": "Shortest Path",
+    "tags": [
+      "dynamic-programming",
+      "graph",
+      "topological-sort",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "number-of-ways-to-arrive-at-destination",
+    "title": "Number of Ways to Arrive at Destination",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Dynamic Programming / Graph",
+    "pattern": "Shortest Path",
+    "tags": [
+      "dynamic-programming",
+      "graph",
+      "topological-sort",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "reconstruct-itinerary",
+    "title": "Reconstruct Itinerary",
+    "leetcodeUrl": "https://leetcode.com/problems/reconstruct-itinerary/",
+    "difficulty": "Hard",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Depth-First Search / Graph",
+    "pattern": "Eulerian Circuit",
+    "tags": [
+      "depth-first-search",
+      "graph",
+      "eulerian-circuit"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "cracking-the-safe",
+    "title": "Cracking the Safe",
+    "leetcodeUrl": "https://leetcode.com/problems/cracking-the-safe/",
+    "difficulty": "Hard",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Depth-First Search / Graph",
+    "pattern": "Eulerian Circuit",
+    "tags": [
+      "depth-first-search",
+      "graph",
+      "eulerian-circuit"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "reachable-nodes-in-subdivided-graph",
+    "title": "Reachable Nodes In Subdivided Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/",
+    "difficulty": "Hard",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Graph / Heap (Priority Queue)",
+    "pattern": "Shortest Path",
+    "tags": [
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "critical-connections-in-a-network",
+    "title": "Critical Connections in a Network",
+    "leetcodeUrl": "https://leetcode.com/problems/critical-connections-in-a-network/",
+    "difficulty": "Hard",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Depth-First Search / Graph",
+    "pattern": "Biconnected Component",
+    "tags": [
+      "depth-first-search",
+      "graph",
+      "biconnected-component"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/",
+    "difficulty": "Hard",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Array / Breadth-First Search",
+    "pattern": "Shortest Path",
+    "tags": [
+      "array",
+      "breadth-first-search",
+      "graph",
+      "heap-priority-queue",
+      "matrix",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "minimum-number-of-days-to-disconnect-island",
+    "title": "Minimum Number of Days to Disconnect Island",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/",
+    "difficulty": "Hard",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Array / Depth-First Search",
+    "pattern": "Strongly Connected Component",
+    "tags": [
+      "array",
+      "depth-first-search",
+      "breadth-first-search",
+      "matrix",
+      "strongly-connected-component"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "add-digits",
+    "title": "Add Digits",
+    "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math / Simulation",
+    "pattern": "Number Theory",
+    "tags": [
+      "math",
+      "simulation",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "nim-game",
+    "title": "Nim Game",
+    "leetcodeUrl": "https://leetcode.com/problems/nim-game/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math / Brainteaser",
+    "pattern": "Game Theory",
+    "tags": [
+      "math",
+      "brainteaser",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "largest-triangle-area",
+    "title": "Largest Triangle Area",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-triangle-area/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Array / Math",
+    "pattern": "Geometry",
+    "tags": [
+      "array",
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "rectangle-area",
+    "title": "Rectangle Area",
+    "leetcodeUrl": "https://leetcode.com/problems/rectangle-area/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math",
+    "pattern": "Geometry",
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "super-pow",
+    "title": "Super Pow",
+    "leetcodeUrl": "https://leetcode.com/problems/super-pow/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math",
+    "pattern": "Divide and Conquer",
+    "tags": [
+      "math",
+      "divide-and-conquer"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "valid-square",
+    "title": "Valid Square",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-square/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math",
+    "pattern": "Geometry",
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "mirror-reflection",
+    "title": "Mirror Reflection",
+    "leetcodeUrl": "https://leetcode.com/problems/mirror-reflection/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math / Geometry",
+    "pattern": "Number Theory",
+    "tags": [
+      "math",
+      "geometry",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "max-points-on-a-line",
+    "title": "Max Points on a Line",
+    "leetcodeUrl": "https://leetcode.com/problems/max-points-on-a-line/",
+    "difficulty": "Hard",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Geometry",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "find-the-index-of-the-first-occurrence-in-a-string",
+    "title": "Find the Index of the First Occurrence in a String",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+    "difficulty": "Easy",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "Two Pointers / String",
+    "pattern": "String Matching",
+    "tags": [
+      "two-pointers",
+      "string",
+      "string-matching"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "repeated-substring-pattern",
+    "title": "Repeated Substring Pattern",
+    "leetcodeUrl": "https://leetcode.com/problems/repeated-substring-pattern/",
+    "difficulty": "Easy",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "String",
+    "pattern": "String Matching",
+    "tags": [
+      "string",
+      "string-matching"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "subtree-of-another-tree",
+    "title": "Subtree of Another Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+    "difficulty": "Easy",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "Tree / Depth-First Search",
+    "pattern": "String Matching",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "string-matching",
+      "binary-tree",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "rotate-string",
+    "title": "Rotate String",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
+    "difficulty": "Easy",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "String",
+    "pattern": "String Matching",
+    "tags": [
+      "string",
+      "string-matching"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "string-matching-in-an-array",
+    "title": "String Matching in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/string-matching-in-an-array/",
+    "difficulty": "Easy",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "Array / String",
+    "pattern": "String Matching",
+    "tags": [
+      "array",
+      "string",
+      "string-matching"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "repeated-dna-sequences",
+    "title": "Repeated DNA Sequences",
+    "leetcodeUrl": "https://leetcode.com/problems/repeated-dna-sequences/",
+    "difficulty": "Medium",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "Hash Table / String",
+    "pattern": "Rolling Hash",
+    "tags": [
+      "hash-table",
+      "string",
+      "bit-manipulation",
+      "sliding-window",
+      "rolling-hash",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "repeated-string-match",
+    "title": "Repeated String Match",
+    "leetcodeUrl": "https://leetcode.com/problems/repeated-string-match/",
+    "difficulty": "Medium",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "String",
+    "pattern": "String Matching",
+    "tags": [
+      "string",
+      "string-matching"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "maximum-length-of-repeated-subarray",
+    "title": "Maximum Length of Repeated Subarray",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/",
+    "difficulty": "Medium",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "Array / Binary Search",
+    "pattern": "Rolling Hash",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming",
+      "sliding-window",
+      "rolling-hash",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "camelcase-matching",
+    "title": "Camelcase Matching",
+    "leetcodeUrl": "https://leetcode.com/problems/camelcase-matching/",
+    "difficulty": "Medium",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "Array / Two Pointers",
+    "pattern": "String Matching",
+    "tags": [
+      "array",
+      "two-pointers",
+      "string",
+      "trie",
+      "string-matching"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "check-if-a-string-contains-all-binary-codes-of-size-k",
+    "title": "Check If a String Contains All Binary Codes of Size K",
+    "leetcodeUrl": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
+    "difficulty": "Medium",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "Hash Table / String",
+    "pattern": "Rolling Hash",
+    "tags": [
+      "hash-table",
+      "string",
+      "bit-manipulation",
+      "rolling-hash",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "form-array-by-concatenating-subarrays-of-another-array",
+    "title": "Form Array by Concatenating Subarrays of Another Array",
+    "leetcodeUrl": "https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/",
+    "difficulty": "Medium",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "Array / Two Pointers",
+    "pattern": "String Matching",
+    "tags": [
+      "array",
+      "two-pointers",
+      "greedy",
+      "string-matching"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "k-divisible-elements-subarrays",
+    "title": "K Divisible Elements Subarrays",
+    "leetcodeUrl": "https://leetcode.com/problems/k-divisible-elements-subarrays/",
+    "difficulty": "Medium",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Rolling Hash",
+    "tags": [
+      "array",
+      "hash-table",
+      "trie",
+      "rolling-hash",
+      "hash-function",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "find-beautiful-indices-in-the-given-array-i",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "leetcodeUrl": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/",
+    "difficulty": "Medium",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "Two Pointers / String",
+    "pattern": "String Matching",
+    "tags": [
+      "two-pointers",
+      "string",
+      "binary-search",
+      "rolling-hash",
+      "string-matching",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "shortest-palindrome",
+    "title": "Shortest Palindrome",
+    "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome/",
+    "difficulty": "Hard",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "String / Rolling Hash",
+    "pattern": "String Matching",
+    "tags": [
+      "string",
+      "rolling-hash",
+      "string-matching",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "longest-duplicate-substring",
+    "title": "Longest Duplicate Substring",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-duplicate-substring/",
+    "difficulty": "Hard",
+    "level": "string-algorithms",
+    "levelName": "String Algorithms",
+    "category": "string-algorithms",
+    "categoryName": "String Algorithms",
+    "subcategory": "String / Binary Search",
+    "pattern": "Rolling Hash",
+    "tags": [
+      "string",
+      "binary-search",
+      "sliding-window",
+      "rolling-hash",
+      "suffix-array",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "range-sum-query-immutable",
+    "title": "Range Sum Query - Immutable",
+    "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+    "difficulty": "Easy",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Array / Prefix Sum",
+    "pattern": "Design",
+    "tags": [
+      "array",
+      "design",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "design-parking-system",
+    "title": "Design Parking System",
+    "leetcodeUrl": "https://leetcode.com/problems/design-parking-system/",
+    "difficulty": "Easy",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Simulation / Counting",
+    "pattern": "Design",
+    "tags": [
+      "design",
+      "simulation",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "design-an-ordered-stream",
+    "title": "Design an Ordered Stream",
+    "leetcodeUrl": "https://leetcode.com/problems/design-an-ordered-stream/",
+    "difficulty": "Easy",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Design",
+    "tags": [
+      "array",
+      "hash-table",
+      "design",
+      "data-stream"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "design-neighbor-sum-service",
+    "title": "Design Neighbor Sum Service",
+    "leetcodeUrl": "https://leetcode.com/problems/design-neighbor-sum-service/",
+    "difficulty": "Easy",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Design",
+    "tags": [
+      "array",
+      "hash-table",
+      "design",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "peeking-iterator",
+    "title": "Peeking Iterator",
+    "leetcodeUrl": "https://leetcode.com/problems/peeking-iterator/",
+    "difficulty": "Medium",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Array / Iterator",
+    "pattern": "Design",
+    "tags": [
+      "array",
+      "design",
+      "iterator"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "range-sum-query-2d-immutable",
+    "title": "Range Sum Query 2D - Immutable",
+    "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+    "difficulty": "Medium",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Array / Matrix",
+    "pattern": "Design",
+    "tags": [
+      "array",
+      "design",
+      "matrix",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "insert-delete-getrandom-o1",
+    "title": "Insert Delete GetRandom O(1)",
+    "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+    "difficulty": "Medium",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Design",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "design",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "shuffle-an-array",
+    "title": "Shuffle an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/shuffle-an-array/",
+    "difficulty": "Medium",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Array / Math",
+    "pattern": "Design",
+    "tags": [
+      "array",
+      "math",
+      "design",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "random-pick-index",
+    "title": "Random Pick Index",
+    "leetcodeUrl": "https://leetcode.com/problems/random-pick-index/",
+    "difficulty": "Medium",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Hash Table / Math",
+    "pattern": "Randomized",
+    "tags": [
+      "hash-table",
+      "math",
+      "reservoir-sampling",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "implement-rand10-using-rand7",
+    "title": "Implement Rand10() Using Rand7()",
+    "leetcodeUrl": "https://leetcode.com/problems/implement-rand10-using-rand7/",
+    "difficulty": "Medium",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Math / Rejection Sampling",
+    "pattern": "Randomized",
+    "tags": [
+      "math",
+      "rejection-sampling",
+      "randomized",
+      "probability-and-statistics"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "generate-random-point-in-a-circle",
+    "title": "Generate Random Point in a Circle",
+    "leetcodeUrl": "https://leetcode.com/problems/generate-random-point-in-a-circle/",
+    "difficulty": "Medium",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Math / Geometry",
+    "pattern": "Randomized",
+    "tags": [
+      "math",
+      "geometry",
+      "rejection-sampling",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "random-flip-matrix",
+    "title": "Random Flip Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/random-flip-matrix/",
+    "difficulty": "Medium",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Hash Table / Math",
+    "pattern": "Randomized",
+    "tags": [
+      "hash-table",
+      "math",
+      "reservoir-sampling",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "insert-delete-getrandom-o1-duplicates-allowed",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
+    "difficulty": "Hard",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Array / Hash Table",
+    "pattern": "Design",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "design",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "guess-the-word",
+    "title": "Guess the Word",
+    "leetcodeUrl": "https://leetcode.com/problems/guess-the-word/",
+    "difficulty": "Hard",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Array / Math",
+    "pattern": "Interactive",
+    "tags": [
+      "array",
+      "math",
+      "string",
+      "interactive",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "best-position-for-a-service-centre",
+    "title": "Best Position for a Service Centre",
+    "leetcodeUrl": "https://leetcode.com/problems/best-position-for-a-service-centre/",
+    "difficulty": "Hard",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Array / Math",
+    "pattern": "Randomized",
+    "tags": [
+      "array",
+      "math",
+      "geometry",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  },
+  {
+    "id": "minimum-reverse-operations",
+    "title": "Minimum Reverse Operations",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-reverse-operations/",
+    "difficulty": "Hard",
+    "level": "cp-interview-prep",
+    "levelName": "Competitive Programming / Interview Prep",
+    "category": "cp-interview-prep",
+    "categoryName": "Interview & CP Practice",
+    "subcategory": "Array / Breadth-First Search",
+    "pattern": "Ordered Set",
+    "tags": [
+      "array",
+      "breadth-first-search",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0
+  }
+]
