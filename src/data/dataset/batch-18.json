@@ -1,0 +1,1427 @@
+[
+  {
+    "id": "increasing-triplet-subsequence",
+    "title": "Increasing Triplet Subsequence",
+    "leetcodeUrl": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+        "problemId": "334"
+      }
+    ]
+  },
+  {
+    "id": "largest-number",
+    "title": "Largest Number",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-number/",
+        "problemId": "179"
+      }
+    ]
+  },
+  {
+    "id": "largest-values-from-labels",
+    "title": "Largest Values From Labels",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-values-from-labels/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "greedy",
+      "sorting",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-values-from-labels/",
+        "problemId": "1090"
+      }
+    ]
+  },
+  {
+    "id": "max-chunks-to-make-sorted",
+    "title": "Max Chunks To Make Sorted",
+    "leetcodeUrl": "https://leetcode.com/problems/max-chunks-to-make-sorted/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "stack",
+      "greedy",
+      "sorting",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/max-chunks-to-make-sorted/",
+        "problemId": "769"
+      }
+    ]
+  },
+  {
+    "id": "max-increase-to-keep-city-skyline",
+    "title": "Max Increase to Keep City Skyline",
+    "leetcodeUrl": "https://leetcode.com/problems/max-increase-to-keep-city-skyline/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/max-increase-to-keep-city-skyline/",
+        "problemId": "807"
+      }
+    ]
+  },
+  {
+    "id": "maximum-distance-in-arrays",
+    "title": "Maximum Distance in Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-distance-in-arrays/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-distance-in-arrays/",
+        "problemId": "624"
+      }
+    ]
+  },
+  {
+    "id": "maximum-swap",
+    "title": "Maximum Swap",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-swap/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-swap/",
+        "problemId": "670"
+      }
+    ]
+  },
+  {
+    "id": "minimum-add-to-make-parentheses-valid",
+    "title": "Minimum Add to Make Parentheses Valid",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+        "problemId": "921"
+      }
+    ]
+  },
+  {
+    "id": "minimum-domino-rotations-for-equal-row",
+    "title": "Minimum Domino Rotations For Equal Row",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/",
+        "problemId": "1007"
+      }
+    ]
+  },
+  {
+    "id": "minimum-increment-to-make-array-unique",
+    "title": "Minimum Increment to Make Array Unique",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-increment-to-make-array-unique/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "sorting",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-increment-to-make-array-unique/",
+        "problemId": "945"
+      }
+    ]
+  },
+  {
+    "id": "minimum-number-of-arrows-to-burst-balloons",
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+        "problemId": "452"
+      }
+    ]
+  },
+  {
+    "id": "minimum-swaps-to-make-strings-equal",
+    "title": "Minimum Swaps to Make Strings Equal",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/",
+        "problemId": "1247"
+      }
+    ]
+  },
+  {
+    "id": "monotone-increasing-digits",
+    "title": "Monotone Increasing Digits",
+    "leetcodeUrl": "https://leetcode.com/problems/monotone-increasing-digits/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/monotone-increasing-digits/",
+        "problemId": "738"
+      }
+    ]
+  },
+  {
+    "id": "most-profit-assigning-work",
+    "title": "Most Profit Assigning Work",
+    "leetcodeUrl": "https://leetcode.com/problems/most-profit-assigning-work/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "binary-search",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/most-profit-assigning-work/",
+        "problemId": "826"
+      }
+    ]
+  },
+  {
+    "id": "pancake-sorting",
+    "title": "Pancake Sorting",
+    "leetcodeUrl": "https://leetcode.com/problems/pancake-sorting/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/pancake-sorting/",
+        "problemId": "969"
+      }
+    ]
+  },
+  {
+    "id": "partition-labels",
+    "title": "Partition Labels",
+    "leetcodeUrl": "https://leetcode.com/problems/partition-labels/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "two-pointers",
+      "string",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/partition-labels/",
+        "problemId": "763"
+      }
+    ]
+  },
+  {
+    "id": "previous-permutation-with-one-swap",
+    "title": "Previous Permutation With One Swap",
+    "leetcodeUrl": "https://leetcode.com/problems/previous-permutation-with-one-swap/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/previous-permutation-with-one-swap/",
+        "problemId": "1053"
+      }
+    ]
+  },
+  {
+    "id": "rabbits-in-forest",
+    "title": "Rabbits in Forest",
+    "leetcodeUrl": "https://leetcode.com/problems/rabbits-in-forest/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/rabbits-in-forest/",
+        "problemId": "781"
+      }
+    ]
+  },
+  {
+    "id": "reconstruct-a-2-row-binary-matrix",
+    "title": "Reconstruct a 2-Row Binary Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/",
+        "problemId": "1253"
+      }
+    ]
+  },
+  {
+    "id": "remove-duplicate-letters",
+    "title": "Remove Duplicate Letters",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack",
+      "greedy",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-duplicate-letters/",
+        "problemId": "316"
+      }
+    ]
+  },
+  {
+    "id": "remove-k-digits",
+    "title": "Remove K Digits",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack",
+      "greedy",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-k-digits/",
+        "problemId": "402"
+      }
+    ]
+  },
+  {
+    "id": "score-after-flipping-matrix",
+    "title": "Score After Flipping Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/score-after-flipping-matrix/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "bit-manipulation",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/score-after-flipping-matrix/",
+        "problemId": "861"
+      }
+    ]
+  },
+  {
+    "id": "shortest-unsorted-continuous-subarray",
+    "title": "Shortest Unsorted Continuous Subarray",
+    "leetcodeUrl": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "stack",
+      "greedy",
+      "sorting",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/",
+        "problemId": "581"
+      }
+    ]
+  },
+  {
+    "id": "smallest-range-ii",
+    "title": "Smallest Range II",
+    "leetcodeUrl": "https://leetcode.com/problems/smallest-range-ii/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/smallest-range-ii/",
+        "problemId": "910"
+      }
+    ]
+  },
+  {
+    "id": "smallest-subsequence-of-distinct-characters",
+    "title": "Smallest Subsequence of Distinct Characters",
+    "leetcodeUrl": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack",
+      "greedy",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/",
+        "problemId": "1081"
+      }
+    ]
+  },
+  {
+    "id": "string-without-aaa-or-bbb",
+    "title": "String Without AAA or BBB",
+    "leetcodeUrl": "https://leetcode.com/problems/string-without-aaa-or-bbb/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/string-without-aaa-or-bbb/",
+        "problemId": "984"
+      }
+    ]
+  },
+  {
+    "id": "two-city-scheduling",
+    "title": "Two City Scheduling",
+    "leetcodeUrl": "https://leetcode.com/problems/two-city-scheduling/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/two-city-scheduling/",
+        "problemId": "1029"
+      }
+    ]
+  },
+  {
+    "id": "valid-triangle-number",
+    "title": "Valid Triangle Number",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-triangle-number/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "binary-search",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/valid-triangle-number/",
+        "problemId": "611"
+      }
+    ]
+  },
+  {
+    "id": "wiggle-sort-ii",
+    "title": "Wiggle Sort II",
+    "leetcodeUrl": "https://leetcode.com/problems/wiggle-sort-ii/",
+    "difficulty": "Medium",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "greedy",
+      "sorting",
+      "quickselect"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/wiggle-sort-ii/",
+        "problemId": "324"
+      }
+    ]
+  },
+  {
+    "id": "building-boxes",
+    "title": "Building Boxes",
+    "leetcodeUrl": "https://leetcode.com/problems/building-boxes/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "binary-search",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/building-boxes/",
+        "problemId": "1739"
+      }
+    ]
+  },
+  {
+    "id": "candy",
+    "title": "Candy",
+    "leetcodeUrl": "https://leetcode.com/problems/candy/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/candy/",
+        "problemId": "135"
+      }
+    ]
+  },
+  {
+    "id": "check-if-string-is-transformable-with-substring-sort-operations",
+    "title": "Check If String Is Transformable With Substring Sort Operations",
+    "leetcodeUrl": "https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/",
+        "problemId": "1585"
+      }
+    ]
+  },
+  {
+    "id": "create-maximum-number",
+    "title": "Create Maximum Number",
+    "leetcodeUrl": "https://leetcode.com/problems/create-maximum-number/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "stack",
+      "greedy",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/create-maximum-number/",
+        "problemId": "321"
+      }
+    ]
+  },
+  {
+    "id": "max-chunks-to-make-sorted-ii",
+    "title": "Max Chunks To Make Sorted II",
+    "leetcodeUrl": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "stack",
+      "greedy",
+      "sorting",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii/",
+        "problemId": "768"
+      }
+    ]
+  },
+  {
+    "id": "maximum-number-of-non-overlapping-substrings",
+    "title": "Maximum Number of Non-Overlapping Substrings",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
+        "problemId": "1520"
+      }
+    ]
+  },
+  {
+    "id": "minimum-adjacent-swaps-for-k-consecutive-ones",
+    "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/",
+        "problemId": "1703"
+      }
+    ]
+  },
+  {
+    "id": "minimum-initial-energy-to-finish-tasks",
+    "title": "Minimum Initial Energy to Finish Tasks",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/",
+        "problemId": "1665"
+      }
+    ]
+  },
+  {
+    "id": "minimum-operations-to-make-a-subsequence",
+    "title": "Minimum Operations to Make a Subsequence",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "binary-search",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/",
+        "problemId": "1713"
+      }
+    ]
+  },
+  {
+    "id": "patching-array",
+    "title": "Patching Array",
+    "leetcodeUrl": "https://leetcode.com/problems/patching-array/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/patching-array/",
+        "problemId": "330"
+      }
+    ]
+  },
+  {
+    "id": "reverse-subarray-to-maximize-array-value",
+    "title": "Reverse Subarray To Maximize Array Value",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/",
+        "problemId": "1330"
+      }
+    ]
+  },
+  {
+    "id": "set-intersection-size-at-least-two",
+    "title": "Set Intersection Size At Least Two",
+    "leetcodeUrl": "https://leetcode.com/problems/set-intersection-size-at-least-two/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/set-intersection-size-at-least-two/",
+        "problemId": "757"
+      }
+    ]
+  },
+  {
+    "id": "stamping-the-sequence",
+    "title": "Stamping The Sequence",
+    "leetcodeUrl": "https://leetcode.com/problems/stamping-the-sequence/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack",
+      "greedy",
+      "queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/stamping-the-sequence/",
+        "problemId": "936"
+      }
+    ]
+  },
+  {
+    "id": "super-washing-machines",
+    "title": "Super Washing Machines",
+    "leetcodeUrl": "https://leetcode.com/problems/super-washing-machines/",
+    "difficulty": "Hard",
+    "level": "greedy",
+    "levelName": "Greedy Algorithms",
+    "category": "greedy",
+    "categoryName": "Greedy Algorithms",
+    "subcategory": "Greedy Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/super-washing-machines/",
+        "problemId": "517"
+      }
+    ]
+  },
+  {
+    "id": "average-of-levels-in-binary-tree",
+    "title": "Average of Levels in Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/average-of-levels-in-binary-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/average-of-levels-in-binary-tree/",
+        "problemId": "637"
+      }
+    ]
+  },
+  {
+    "id": "balanced-binary-tree",
+    "title": "Balanced Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/balanced-binary-tree/",
+        "problemId": "110"
+      }
+    ]
+  },
+  {
+    "id": "binary-tree-inorder-traversal",
+    "title": "Binary Tree Inorder Traversal",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Stack",
+    "tags": [
+      "stack",
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "problemId": "94"
+      }
+    ]
+  },
+  {
+    "id": "binary-tree-paths",
+    "title": "Binary Tree Paths",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "backtracking",
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-tree-paths/",
+        "problemId": "257"
+      }
+    ]
+  },
+  {
+    "id": "binary-tree-postorder-traversal",
+    "title": "Binary Tree Postorder Traversal",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Stack",
+    "tags": [
+      "stack",
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "problemId": "145"
+      }
+    ]
+  },
+  {
+    "id": "binary-tree-preorder-traversal",
+    "title": "Binary Tree Preorder Traversal",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Stack",
+    "tags": [
+      "stack",
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "problemId": "144"
+      }
+    ]
+  },
+  {
+    "id": "binary-tree-tilt",
+    "title": "Binary Tree Tilt",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-tilt/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-tree-tilt/",
+        "problemId": "563"
+      }
+    ]
+  }
+]

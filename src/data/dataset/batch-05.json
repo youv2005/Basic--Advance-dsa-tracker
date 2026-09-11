@@ -1,1026 +1,1374 @@
 [
   {
-    "id": "symmetric-tree",
-    "title": "Symmetric Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "maximum-depth-of-binary-tree",
-    "title": "Maximum Depth of Binary Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "balanced-binary-tree",
-    "title": "Balanced Binary Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "minimum-depth-of-binary-tree",
-    "title": "Minimum Depth of Binary Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "path-sum",
-    "title": "Path Sum",
-    "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "binary-tree-preorder-traversal",
-    "title": "Binary Tree Preorder Traversal",
-    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Stack / Tree",
-    "pattern": "Binary Tree",
-    "tags": [
-      "stack",
-      "tree",
-      "depth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "binary-tree-postorder-traversal",
-    "title": "Binary Tree Postorder Traversal",
-    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Stack / Tree",
-    "pattern": "Binary Tree",
-    "tags": [
-      "stack",
-      "tree",
-      "depth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "binary-tree-level-order-traversal",
-    "title": "Binary Tree Level Order Traversal",
-    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "id": "minimum-absolute-difference-queries",
+    "title": "Minimum Absolute Difference Queries",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-queries/",
     "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Tree / Breadth-First Search",
-    "pattern": "Binary Tree",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
     "tags": [
-      "tree",
-      "breadth-first-search",
-      "binary-tree"
+      "array",
+      "hash-table"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-absolute-difference-queries/",
+        "problemId": "1906"
+      }
+    ]
   },
   {
-    "id": "binary-tree-zigzag-level-order-traversal",
-    "title": "Binary Tree Zigzag Level Order Traversal",
-    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "id": "number-of-boomerangs",
+    "title": "Number of Boomerangs",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-boomerangs/",
     "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Tree / Breadth-First Search",
-    "pattern": "Binary Tree",
-    "tags": [
-      "tree",
-      "breadth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "construct-binary-tree-from-preorder-and-inorder-traversal",
-    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
-    "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Binary Tree",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
     "tags": [
       "array",
       "hash-table",
-      "divide-and-conquer",
-      "tree",
-      "binary-tree"
+      "math"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-boomerangs/",
+        "problemId": "447"
+      }
+    ]
   },
   {
-    "id": "construct-binary-tree-from-inorder-and-postorder-traversal",
-    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
-    "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+    "id": "pairs-of-songs-with-total-durations-divisible-by-60",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "leetcodeUrl": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/",
     "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Binary Tree",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
     "tags": [
       "array",
       "hash-table",
-      "divide-and-conquer",
-      "tree",
-      "binary-tree"
+      "counting"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/",
+        "problemId": "1010"
+      }
+    ]
   },
   {
-    "id": "binary-tree-level-order-traversal-ii",
-    "title": "Binary Tree Level Order Traversal II",
-    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/",
+    "id": "powerful-integers",
+    "title": "Powerful Integers",
+    "leetcodeUrl": "https://leetcode.com/problems/powerful-integers/",
     "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Tree / Breadth-First Search",
-    "pattern": "Binary Tree",
-    "tags": [
-      "tree",
-      "breadth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "flatten-binary-tree-to-linked-list",
-    "title": "Flatten Binary Tree to Linked List",
-    "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Linked List / Stack",
-    "pattern": "Binary Tree",
-    "tags": [
-      "linked-list",
-      "stack",
-      "tree",
-      "depth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "populating-next-right-pointers-in-each-node",
-    "title": "Populating Next Right Pointers in Each Node",
-    "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Linked List / Tree",
-    "pattern": "Binary Tree",
-    "tags": [
-      "linked-list",
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "populating-next-right-pointers-in-each-node-ii",
-    "title": "Populating Next Right Pointers in Each Node II",
-    "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Linked List / Tree",
-    "pattern": "Binary Tree",
-    "tags": [
-      "linked-list",
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "sum-root-to-leaf-numbers",
-    "title": "Sum Root to Leaf Numbers",
-    "leetcodeUrl": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "binary-tree-right-side-view",
-    "title": "Binary Tree Right Side View",
-    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "lowest-common-ancestor-of-a-binary-tree",
-    "title": "Lowest Common Ancestor of a Binary Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "verify-preorder-serialization-of-a-binary-tree",
-    "title": "Verify Preorder Serialization of a Binary Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "String / Stack",
-    "pattern": "Binary Tree",
-    "tags": [
-      "string",
-      "stack",
-      "tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "flatten-nested-list-iterator",
-    "title": "Flatten Nested List Iterator",
-    "leetcodeUrl": "https://leetcode.com/problems/flatten-nested-list-iterator/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Stack / Depth-First Search",
-    "pattern": "Tree",
-    "tags": [
-      "stack",
-      "tree",
-      "depth-first-search",
-      "design",
-      "queue",
-      "iterator"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "serialize-and-deserialize-binary-tree",
-    "title": "Serialize and Deserialize Binary Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
-    "difficulty": "Hard",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "String / Tree",
-    "pattern": "Binary Tree",
-    "tags": [
-      "string",
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "design",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "vertical-order-traversal-of-a-binary-tree",
-    "title": "Vertical Order Traversal of a Binary Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
-    "difficulty": "Hard",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Hash Table / Tree",
-    "pattern": "Binary Tree",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Hash Table",
     "tags": [
       "hash-table",
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "sorting",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "recover-a-tree-from-preorder-traversal",
-    "title": "Recover a Tree From Preorder Traversal",
-    "leetcodeUrl": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/",
-    "difficulty": "Hard",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "String / Tree",
-    "pattern": "Binary Tree",
-    "tags": [
-      "string",
-      "tree",
-      "depth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "tree-of-coprimes",
-    "title": "Tree of Coprimes",
-    "leetcodeUrl": "https://leetcode.com/problems/tree-of-coprimes/",
-    "difficulty": "Hard",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Array / Math",
-    "pattern": "Tree",
-    "tags": [
-      "array",
       "math",
-      "tree",
-      "depth-first-search",
-      "number-theory"
+      "enumeration"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/powerful-integers/",
+        "problemId": "970"
+      }
+    ]
   },
   {
-    "id": "convert-sorted-array-to-binary-search-tree",
-    "title": "Convert Sorted Array to Binary Search Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Array / Divide and Conquer",
-    "pattern": "Binary Search Tree",
+    "id": "replace-elements-in-an-array",
+    "title": "Replace Elements in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/replace-elements-in-an-array/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
     "tags": [
       "array",
-      "divide-and-conquer",
-      "tree",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "find-mode-in-binary-search-tree",
-    "title": "Find Mode in Binary Search Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/find-mode-in-binary-search-tree/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Search Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "minimum-absolute-difference-in-bst",
-    "title": "Minimum Absolute Difference in BST",
-    "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Search Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "two-sum-iv-input-is-a-bst",
-    "title": "Two Sum IV - Input is a BST",
-    "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Hash Table / Two Pointers",
-    "pattern": "Binary Search Tree",
-    "tags": [
       "hash-table",
-      "two-pointers",
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "binary-search-tree",
-      "binary-tree"
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/replace-elements-in-an-array/",
+        "problemId": "2295"
+      }
+    ]
   },
   {
-    "id": "search-in-a-binary-search-tree",
-    "title": "Search in a Binary Search Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Tree / Binary Tree",
-    "pattern": "Binary Search Tree",
-    "tags": [
-      "tree",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "validate-binary-search-tree",
-    "title": "Validate Binary Search Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "id": "set-matrix-zeroes",
+    "title": "Set Matrix Zeroes",
+    "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
     "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Search Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "recover-binary-search-tree",
-    "title": "Recover Binary Search Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Search Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "convert-sorted-list-to-binary-search-tree",
-    "title": "Convert Sorted List to Binary Search Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Linked List / Divide and Conquer",
-    "pattern": "Binary Search Tree",
-    "tags": [
-      "linked-list",
-      "divide-and-conquer",
-      "tree",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "binary-search-tree-iterator",
-    "title": "Binary Search Tree Iterator",
-    "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-iterator/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Stack / Tree",
-    "pattern": "Binary Search Tree",
-    "tags": [
-      "stack",
-      "tree",
-      "design",
-      "binary-search-tree",
-      "binary-tree",
-      "iterator"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "kth-smallest-element-in-a-bst",
-    "title": "Kth Smallest Element in a BST",
-    "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Search Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "lowest-common-ancestor-of-a-binary-search-tree",
-    "title": "Lowest Common Ancestor of a Binary Search Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Search Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "serialize-and-deserialize-bst",
-    "title": "Serialize and Deserialize BST",
-    "leetcodeUrl": "https://leetcode.com/problems/serialize-and-deserialize-bst/",
-    "difficulty": "Medium",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "String / Tree",
-    "pattern": "Binary Search Tree",
-    "tags": [
-      "string",
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "design",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "kth-largest-element-in-a-stream",
-    "title": "Kth Largest Element in a Stream",
-    "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Tree / Design",
-    "pattern": "Binary Search Tree",
-    "tags": [
-      "tree",
-      "design",
-      "binary-search-tree",
-      "heap-priority-queue",
-      "binary-tree",
-      "data-stream"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "minimum-distance-between-bst-nodes",
-    "title": "Minimum Distance Between BST Nodes",
-    "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/",
-    "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-search-trees",
-    "categoryName": "Binary Search Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Search Tree",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "relative-ranks",
-    "title": "Relative Ranks",
-    "leetcodeUrl": "https://leetcode.com/problems/relative-ranks/",
-    "difficulty": "Easy",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Array / Sorting",
-    "pattern": "Heap (Priority Queue)",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
     "tags": [
       "array",
-      "sorting",
-      "heap-priority-queue"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "last-stone-weight",
-    "title": "Last Stone Weight",
-    "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
-    "difficulty": "Easy",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Array",
-    "pattern": "Heap (Priority Queue)",
-    "tags": [
-      "array",
-      "heap-priority-queue"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "the-k-weakest-rows-in-a-matrix",
-    "title": "The K Weakest Rows in a Matrix",
-    "leetcodeUrl": "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/",
-    "difficulty": "Easy",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Array / Binary Search",
-    "pattern": "Heap (Priority Queue)",
-    "tags": [
-      "array",
-      "binary-search",
-      "sorting",
-      "heap-priority-queue",
+      "hash-table",
       "matrix"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "problemId": "73"
+      }
+    ]
   },
   {
-    "id": "maximum-product-of-two-elements-in-an-array",
-    "title": "Maximum Product of Two Elements in an Array",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
-    "difficulty": "Easy",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Array / Sorting",
-    "pattern": "Heap (Priority Queue)",
+    "id": "smallest-integer-divisible-by-k",
+    "title": "Smallest Integer Divisible by K",
+    "leetcodeUrl": "https://leetcode.com/problems/smallest-integer-divisible-by-k/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Hash Table",
     "tags": [
-      "array",
-      "sorting",
-      "heap-priority-queue"
+      "hash-table",
+      "math"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/smallest-integer-divisible-by-k/",
+        "problemId": "1015"
+      }
+    ]
   },
   {
-    "id": "find-subsequence-of-length-k-with-the-largest-sum",
-    "title": "Find Subsequence of Length K With the Largest Sum",
-    "leetcodeUrl": "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/",
-    "difficulty": "Easy",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Heap (Priority Queue)",
+    "id": "task-scheduler-ii",
+    "title": "Task Scheduler II",
+    "leetcodeUrl": "https://leetcode.com/problems/task-scheduler-ii/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
     "tags": [
       "array",
       "hash-table",
-      "sorting",
-      "heap-priority-queue"
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/task-scheduler-ii/",
+        "problemId": "2365"
+      }
+    ]
   },
   {
-    "id": "kth-largest-element-in-an-array",
-    "title": "Kth Largest Element in an Array",
-    "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "id": "tuple-with-same-product",
+    "title": "Tuple with Same Product",
+    "leetcodeUrl": "https://leetcode.com/problems/tuple-with-same-product/",
     "difficulty": "Medium",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Array / Divide and Conquer",
-    "pattern": "Heap (Priority Queue)",
-    "tags": [
-      "array",
-      "divide-and-conquer",
-      "sorting",
-      "heap-priority-queue",
-      "quickselect"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "top-k-frequent-elements",
-    "title": "Top K Frequent Elements",
-    "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
-    "difficulty": "Medium",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Heap (Priority Queue)",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
     "tags": [
       "array",
       "hash-table",
-      "divide-and-conquer",
-      "sorting",
-      "heap-priority-queue",
-      "bucket-sort",
-      "counting",
-      "quickselect"
+      "counting"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/tuple-with-same-product/",
+        "problemId": "1726"
+      }
+    ]
   },
   {
-    "id": "design-twitter",
-    "title": "Design Twitter",
-    "leetcodeUrl": "https://leetcode.com/problems/design-twitter/",
+    "id": "valid-sudoku",
+    "title": "Valid Sudoku",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
     "difficulty": "Medium",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Hash Table / Linked List",
-    "pattern": "Heap (Priority Queue)",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
     "tags": [
+      "array",
       "hash-table",
-      "linked-list",
-      "design",
-      "heap-priority-queue"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "find-k-pairs-with-smallest-sums",
-    "title": "Find K Pairs with Smallest Sums",
-    "leetcodeUrl": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
-    "difficulty": "Medium",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Array",
-    "pattern": "Heap (Priority Queue)",
-    "tags": [
-      "array",
-      "heap-priority-queue"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "kth-smallest-element-in-a-sorted-matrix",
-    "title": "Kth Smallest Element in a Sorted Matrix",
-    "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
-    "difficulty": "Medium",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Array / Binary Search",
-    "pattern": "Heap (Priority Queue)",
-    "tags": [
-      "array",
-      "binary-search",
-      "sorting",
-      "heap-priority-queue",
       "matrix"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/valid-sudoku/",
+        "problemId": "36"
+      }
+    ]
   },
   {
-    "id": "sort-characters-by-frequency",
-    "title": "Sort Characters By Frequency",
-    "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+    "id": "walking-robot-simulation",
+    "title": "Walking Robot Simulation",
+    "leetcodeUrl": "https://leetcode.com/problems/walking-robot-simulation/",
     "difficulty": "Medium",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Hash Table / String",
-    "pattern": "Heap (Priority Queue)",
-    "tags": [
-      "hash-table",
-      "string",
-      "sorting",
-      "heap-priority-queue",
-      "bucket-sort",
-      "counting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "task-scheduler",
-    "title": "Task Scheduler",
-    "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
-    "difficulty": "Medium",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Heap (Priority Queue)",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
     "tags": [
       "array",
       "hash-table",
-      "greedy",
-      "sorting",
-      "heap-priority-queue",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/walking-robot-simulation/",
+        "problemId": "874"
+      }
+    ]
+  },
+  {
+    "id": "first-missing-positive",
+    "title": "First Missing Positive",
+    "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/first-missing-positive/",
+        "problemId": "41"
+      }
+    ]
+  },
+  {
+    "id": "grid-illumination",
+    "title": "Grid Illumination",
+    "leetcodeUrl": "https://leetcode.com/problems/grid-illumination/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/grid-illumination/",
+        "problemId": "1001"
+      }
+    ]
+  },
+  {
+    "id": "maximum-equal-frequency",
+    "title": "Maximum Equal Frequency",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-equal-frequency/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-equal-frequency/",
+        "problemId": "1224"
+      }
+    ]
+  },
+  {
+    "id": "buddy-strings",
+    "title": "Buddy Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/buddy-strings/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/buddy-strings/",
+        "problemId": "859"
+      }
+    ]
+  },
+  {
+    "id": "day-of-the-year",
+    "title": "Day of the Year",
+    "leetcodeUrl": "https://leetcode.com/problems/day-of-the-year/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/day-of-the-year/",
+        "problemId": "1154"
+      }
+    ]
+  },
+  {
+    "id": "defanging-an-ip-address",
+    "title": "Defanging an IP Address",
+    "leetcodeUrl": "https://leetcode.com/problems/defanging-an-ip-address/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/defanging-an-ip-address/",
+        "problemId": "1108"
+      }
+    ]
+  },
+  {
+    "id": "delete-columns-to-make-sorted",
+    "title": "Delete Columns to Make Sorted",
+    "leetcodeUrl": "https://leetcode.com/problems/delete-columns-to-make-sorted/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/delete-columns-to-make-sorted/",
+        "problemId": "944"
+      }
+    ]
+  },
+  {
+    "id": "find-common-characters",
+    "title": "Find Common Characters",
+    "leetcodeUrl": "https://leetcode.com/problems/find-common-characters/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-common-characters/",
+        "problemId": "1002"
+      }
+    ]
+  },
+  {
+    "id": "find-words-that-can-be-formed-by-characters",
+    "title": "Find Words That Can Be Formed by Characters",
+    "leetcodeUrl": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
       "counting"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/",
+        "problemId": "1160"
+      }
+    ]
+  },
+  {
+    "id": "goat-latin",
+    "title": "Goat Latin",
+    "leetcodeUrl": "https://leetcode.com/problems/goat-latin/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/goat-latin/",
+        "problemId": "824"
+      }
+    ]
+  },
+  {
+    "id": "greatest-common-divisor-of-strings",
+    "title": "Greatest Common Divisor of Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+        "problemId": "1071"
+      }
+    ]
+  },
+  {
+    "id": "jewels-and-stones",
+    "title": "Jewels and Stones",
+    "leetcodeUrl": "https://leetcode.com/problems/jewels-and-stones/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/jewels-and-stones/",
+        "problemId": "771"
+      }
+    ]
+  },
+  {
+    "id": "minimum-index-sum-of-two-lists",
+    "title": "Minimum Index Sum of Two Lists",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-index-sum-of-two-lists/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-index-sum-of-two-lists/",
+        "problemId": "599"
+      }
+    ]
+  },
+  {
+    "id": "most-common-word",
+    "title": "Most Common Word",
+    "leetcodeUrl": "https://leetcode.com/problems/most-common-word/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/most-common-word/",
+        "problemId": "819"
+      }
+    ]
+  },
+  {
+    "id": "number-of-lines-to-write-string",
+    "title": "Number of Lines To Write String",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-lines-to-write-string/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-lines-to-write-string/",
+        "problemId": "806"
+      }
+    ]
+  },
+  {
+    "id": "occurrences-after-bigram",
+    "title": "Occurrences After Bigram",
+    "leetcodeUrl": "https://leetcode.com/problems/occurrences-after-bigram/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/occurrences-after-bigram/",
+        "problemId": "1078"
+      }
+    ]
+  },
+  {
+    "id": "positions-of-large-groups",
+    "title": "Positions of Large Groups",
+    "leetcodeUrl": "https://leetcode.com/problems/positions-of-large-groups/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/positions-of-large-groups/",
+        "problemId": "830"
+      }
+    ]
+  },
+  {
+    "id": "robot-return-to-origin",
+    "title": "Robot Return to Origin",
+    "leetcodeUrl": "https://leetcode.com/problems/robot-return-to-origin/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/robot-return-to-origin/",
+        "problemId": "657"
+      }
+    ]
+  },
+  {
+    "id": "shortest-completing-word",
+    "title": "Shortest Completing Word",
+    "leetcodeUrl": "https://leetcode.com/problems/shortest-completing-word/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/shortest-completing-word/",
+        "problemId": "748"
+      }
+    ]
+  },
+  {
+    "id": "to-lower-case",
+    "title": "To Lower Case",
+    "leetcodeUrl": "https://leetcode.com/problems/to-lower-case/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/to-lower-case/",
+        "problemId": "709"
+      }
+    ]
+  },
+  {
+    "id": "uncommon-words-from-two-sentences",
+    "title": "Uncommon Words from Two Sentences",
+    "leetcodeUrl": "https://leetcode.com/problems/uncommon-words-from-two-sentences/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/uncommon-words-from-two-sentences/",
+        "problemId": "884"
+      }
+    ]
+  },
+  {
+    "id": "unique-email-addresses",
+    "title": "Unique Email Addresses",
+    "leetcodeUrl": "https://leetcode.com/problems/unique-email-addresses/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/unique-email-addresses/",
+        "problemId": "929"
+      }
+    ]
+  },
+  {
+    "id": "unique-morse-code-words",
+    "title": "Unique Morse Code Words",
+    "leetcodeUrl": "https://leetcode.com/problems/unique-morse-code-words/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/unique-morse-code-words/",
+        "problemId": "804"
+      }
+    ]
+  },
+  {
+    "id": "verifying-an-alien-dictionary",
+    "title": "Verifying an Alien Dictionary",
+    "leetcodeUrl": "https://leetcode.com/problems/verifying-an-alien-dictionary/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/verifying-an-alien-dictionary/",
+        "problemId": "953"
+      }
+    ]
+  },
+  {
+    "id": "alphabet-board-path",
+    "title": "Alphabet Board Path",
+    "leetcodeUrl": "https://leetcode.com/problems/alphabet-board-path/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/alphabet-board-path/",
+        "problemId": "1138"
+      }
+    ]
+  },
+  {
+    "id": "bulls-and-cows",
+    "title": "Bulls and Cows",
+    "leetcodeUrl": "https://leetcode.com/problems/bulls-and-cows/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/bulls-and-cows/",
+        "problemId": "299"
+      }
+    ]
+  },
+  {
+    "id": "can-convert-string-in-k-moves",
+    "title": "Can Convert String in K Moves",
+    "leetcodeUrl": "https://leetcode.com/problems/can-convert-string-in-k-moves/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/can-convert-string-in-k-moves/",
+        "problemId": "1540"
+      }
+    ]
+  },
+  {
+    "id": "complex-number-multiplication",
+    "title": "Complex Number Multiplication",
+    "leetcodeUrl": "https://leetcode.com/problems/complex-number-multiplication/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/complex-number-multiplication/",
+        "problemId": "537"
+      }
+    ]
+  },
+  {
+    "id": "count-and-say",
+    "title": "Count and Say",
+    "leetcodeUrl": "https://leetcode.com/problems/count-and-say/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-and-say/",
+        "problemId": "38"
+      }
+    ]
+  },
+  {
+    "id": "find-and-replace-pattern",
+    "title": "Find and Replace Pattern",
+    "leetcodeUrl": "https://leetcode.com/problems/find-and-replace-pattern/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-and-replace-pattern/",
+        "problemId": "890"
+      }
+    ]
+  },
+  {
+    "id": "find-duplicate-file-in-system",
+    "title": "Find Duplicate File in System",
+    "leetcodeUrl": "https://leetcode.com/problems/find-duplicate-file-in-system/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-duplicate-file-in-system/",
+        "problemId": "609"
+      }
+    ]
+  },
+  {
+    "id": "fraction-addition-and-subtraction",
+    "title": "Fraction Addition and Subtraction",
+    "leetcodeUrl": "https://leetcode.com/problems/fraction-addition-and-subtraction/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/fraction-addition-and-subtraction/",
+        "problemId": "592"
+      }
+    ]
+  },
+  {
+    "id": "fraction-to-recurring-decimal",
+    "title": "Fraction to Recurring Decimal",
+    "leetcodeUrl": "https://leetcode.com/problems/fraction-to-recurring-decimal/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "math",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/fraction-to-recurring-decimal/",
+        "problemId": "166"
+      }
+    ]
+  },
+  {
+    "id": "html-entity-parser",
+    "title": "HTML Entity Parser",
+    "leetcodeUrl": "https://leetcode.com/problems/html-entity-parser/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/html-entity-parser/",
+        "problemId": "1410"
+      }
+    ]
+  },
+  {
+    "id": "integer-to-roman",
+    "title": "Integer to Roman",
+    "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "math",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/integer-to-roman/",
+        "problemId": "12"
+      }
+    ]
+  },
+  {
+    "id": "making-file-names-unique",
+    "title": "Making File Names Unique",
+    "leetcodeUrl": "https://leetcode.com/problems/making-file-names-unique/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/making-file-names-unique/",
+        "problemId": "1487"
+      }
+    ]
+  },
+  {
+    "id": "masking-personal-information",
+    "title": "Masking Personal Information",
+    "leetcodeUrl": "https://leetcode.com/problems/masking-personal-information/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/masking-personal-information/",
+        "problemId": "831"
+      }
+    ]
+  },
+  {
+    "id": "minimum-number-of-frogs-croaking",
+    "title": "Minimum Number of Frogs Croaking",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-frogs-croaking/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-number-of-frogs-croaking/",
+        "problemId": "1419"
+      }
+    ]
+  },
+  {
+    "id": "minimum-number-of-steps-to-make-two-strings-anagram",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/",
+        "problemId": "1347"
+      }
+    ]
   }
 ]

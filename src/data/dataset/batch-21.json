@@ -1,0 +1,1501 @@
+[
+  {
+    "id": "course-schedule",
+    "title": "Course Schedule",
+    "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/course-schedule/",
+        "problemId": "207"
+      }
+    ]
+  },
+  {
+    "id": "course-schedule-ii",
+    "title": "Course Schedule II",
+    "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/course-schedule-ii/",
+        "problemId": "210"
+      }
+    ]
+  },
+  {
+    "id": "course-schedule-iv",
+    "title": "Course Schedule IV",
+    "leetcodeUrl": "https://leetcode.com/problems/course-schedule-iv/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/course-schedule-iv/",
+        "problemId": "1462"
+      }
+    ]
+  },
+  {
+    "id": "find-all-possible-recipes-from-given-supplies",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/",
+        "problemId": "2115"
+      }
+    ]
+  },
+  {
+    "id": "find-eventual-safe-states",
+    "title": "Find Eventual Safe States",
+    "leetcodeUrl": "https://leetcode.com/problems/find-eventual-safe-states/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-eventual-safe-states/",
+        "problemId": "802"
+      }
+    ]
+  },
+  {
+    "id": "loud-and-rich",
+    "title": "Loud and Rich",
+    "leetcodeUrl": "https://leetcode.com/problems/loud-and-rich/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "depth-first-search",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/loud-and-rich/",
+        "problemId": "851"
+      }
+    ]
+  },
+  {
+    "id": "minimum-height-trees",
+    "title": "Minimum Height Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-height-trees/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-height-trees/",
+        "problemId": "310"
+      }
+    ]
+  },
+  {
+    "id": "build-a-matrix-with-conditions",
+    "title": "Build a Matrix With Conditions",
+    "leetcodeUrl": "https://leetcode.com/problems/build-a-matrix-with-conditions/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "graph",
+      "topological-sort",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/build-a-matrix-with-conditions/",
+        "problemId": "2392"
+      }
+    ]
+  },
+  {
+    "id": "cat-and-mouse",
+    "title": "Cat and Mouse",
+    "leetcodeUrl": "https://leetcode.com/problems/cat-and-mouse/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "graph",
+      "topological-sort",
+      "memoization",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/cat-and-mouse/",
+        "problemId": "913"
+      }
+    ]
+  },
+  {
+    "id": "cat-and-mouse-ii",
+    "title": "Cat and Mouse II",
+    "leetcodeUrl": "https://leetcode.com/problems/cat-and-mouse-ii/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "dynamic-programming",
+      "graph",
+      "topological-sort",
+      "memoization",
+      "matrix",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/cat-and-mouse-ii/",
+        "problemId": "1728"
+      }
+    ]
+  },
+  {
+    "id": "collect-coins-in-a-tree",
+    "title": "Collect Coins in a Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/collect-coins-in-a-tree/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "tree",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/collect-coins-in-a-tree/",
+        "problemId": "2603"
+      }
+    ]
+  },
+  {
+    "id": "count-ways-to-build-rooms-in-an-ant-colony",
+    "title": "Count Ways to Build Rooms in an Ant Colony",
+    "leetcodeUrl": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "tree",
+      "graph",
+      "topological-sort",
+      "combinatorics"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/",
+        "problemId": "1916"
+      }
+    ]
+  },
+  {
+    "id": "frequencies-of-shortest-supersequences",
+    "title": "Frequencies of Shortest Supersequences",
+    "leetcodeUrl": "https://leetcode.com/problems/frequencies-of-shortest-supersequences/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "bit-manipulation",
+      "graph",
+      "topological-sort",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/frequencies-of-shortest-supersequences/",
+        "problemId": "3435"
+      }
+    ]
+  },
+  {
+    "id": "largest-color-value-in-a-directed-graph",
+    "title": "Largest Color Value in a Directed Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "dynamic-programming",
+      "graph",
+      "topological-sort",
+      "memoization",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph/",
+        "problemId": "1857"
+      }
+    ]
+  },
+  {
+    "id": "longest-cycle-in-a-graph",
+    "title": "Longest Cycle in a Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-cycle-in-a-graph/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-cycle-in-a-graph/",
+        "problemId": "2360"
+      }
+    ]
+  },
+  {
+    "id": "longest-increasing-path-in-a-matrix",
+    "title": "Longest Increasing Path in a Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "topological-sort",
+      "memoization",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+        "problemId": "329"
+      }
+    ]
+  },
+  {
+    "id": "longest-path-with-different-adjacent-characters",
+    "title": "Longest Path With Different Adjacent Characters",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "tree",
+      "depth-first-search",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters/",
+        "problemId": "2246"
+      }
+    ]
+  },
+  {
+    "id": "maximum-employees-to-be-invited-to-a-meeting",
+    "title": "Maximum Employees to Be Invited to a Meeting",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/",
+        "problemId": "2127"
+      }
+    ]
+  },
+  {
+    "id": "maximum-profit-from-valid-topological-order-in-dag",
+    "title": "Maximum Profit from Valid Topological Order in DAG",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "bit-manipulation",
+      "graph",
+      "topological-sort",
+      "bitmask"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/",
+        "problemId": "3530"
+      }
+    ]
+  },
+  {
+    "id": "number-of-increasing-paths-in-a-grid",
+    "title": "Number of Increasing Paths in a Grid",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "topological-sort",
+      "memoization",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/",
+        "problemId": "2328"
+      }
+    ]
+  },
+  {
+    "id": "parallel-courses-iii",
+    "title": "Parallel Courses III",
+    "leetcodeUrl": "https://leetcode.com/problems/parallel-courses-iii/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/parallel-courses-iii/",
+        "problemId": "2050"
+      }
+    ]
+  },
+  {
+    "id": "rank-transform-of-a-matrix",
+    "title": "Rank Transform of a Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/rank-transform-of-a-matrix/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "union-find",
+      "graph",
+      "topological-sort",
+      "sorting",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/rank-transform-of-a-matrix/",
+        "problemId": "1632"
+      }
+    ]
+  },
+  {
+    "id": "sort-items-by-groups-respecting-dependencies",
+    "title": "Sort Items by Groups Respecting Dependencies",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "topological-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/",
+        "problemId": "1203"
+      }
+    ]
+  },
+  {
+    "id": "strange-printer-ii",
+    "title": "Strange Printer II",
+    "leetcodeUrl": "https://leetcode.com/problems/strange-printer-ii/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "topological-sort",
+    "categoryName": "Topological Sort",
+    "subcategory": "Topological Sort",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "graph",
+      "topological-sort",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/strange-printer-ii/",
+        "problemId": "1591"
+      }
+    ]
+  },
+  {
+    "id": "cheapest-flights-within-k-stops",
+    "title": "Cheapest Flights Within K Stops",
+    "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming",
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+        "problemId": "787"
+      }
+    ]
+  },
+  {
+    "id": "digit-operations-to-make-two-integers-equal",
+    "title": "Digit Operations to Make Two Integers Equal",
+    "leetcodeUrl": "https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "graph",
+      "heap-priority-queue",
+      "number-theory",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/",
+        "problemId": "3377"
+      }
+    ]
+  },
+  {
+    "id": "evaluate-division",
+    "title": "Evaluate Division",
+    "leetcodeUrl": "https://leetcode.com/problems/evaluate-division/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "depth-first-search",
+      "breadth-first-search",
+      "union-find",
+      "graph",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/evaluate-division/",
+        "problemId": "399"
+      }
+    ]
+  },
+  {
+    "id": "find-a-safe-walk-through-a-grid",
+    "title": "Find a Safe Walk Through a Grid",
+    "leetcodeUrl": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "breadth-first-search",
+      "graph",
+      "heap-priority-queue",
+      "matrix",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+        "problemId": "3286"
+      }
+    ]
+  },
+  {
+    "id": "find-minimum-time-to-reach-last-room-i",
+    "title": "Find Minimum Time to Reach Last Room I",
+    "leetcodeUrl": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "graph",
+      "heap-priority-queue",
+      "matrix",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/",
+        "problemId": "3341"
+      }
+    ]
+  },
+  {
+    "id": "find-minimum-time-to-reach-last-room-ii",
+    "title": "Find Minimum Time to Reach Last Room II",
+    "leetcodeUrl": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "graph",
+      "heap-priority-queue",
+      "matrix",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/",
+        "problemId": "3342"
+      }
+    ]
+  },
+  {
+    "id": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+    "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming",
+      "graph",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+        "problemId": "1334"
+      }
+    ]
+  },
+  {
+    "id": "minimize-the-maximum-edge-weight-of-graph",
+    "title": "Minimize the Maximum Edge Weight of Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Binary Search",
+    "tags": [
+      "binary-search",
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/",
+        "problemId": "3419"
+      }
+    ]
+  },
+  {
+    "id": "minimum-cost-of-a-path-with-special-roads",
+    "title": "Minimum Cost of a Path With Special Roads",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/",
+        "problemId": "2662"
+      }
+    ]
+  },
+  {
+    "id": "minimum-cost-to-convert-string-i",
+    "title": "Minimum Cost to Convert String I",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-convert-string-i/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "graph",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-cost-to-convert-string-i/",
+        "problemId": "2976"
+      }
+    ]
+  },
+  {
+    "id": "minimum-time-to-reach-destination-in-directed-graph",
+    "title": "Minimum Time to Reach Destination in Directed Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Graph",
+    "tags": [
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/",
+        "problemId": "3604"
+      }
+    ]
+  },
+  {
+    "id": "minimum-time-to-visit-disappearing-nodes",
+    "title": "Minimum Time to Visit Disappearing Nodes",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/",
+        "problemId": "3112"
+      }
+    ]
+  },
+  {
+    "id": "network-delay-time",
+    "title": "Network Delay Time",
+    "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/network-delay-time/",
+        "problemId": "743"
+      }
+    ]
+  },
+  {
+    "id": "number-of-restricted-paths-from-first-to-last-node",
+    "title": "Number of Restricted Paths From First to Last Node",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming",
+      "graph",
+      "topological-sort",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/",
+        "problemId": "1786"
+      }
+    ]
+  },
+  {
+    "id": "number-of-ways-to-arrive-at-destination",
+    "title": "Number of Ways to Arrive at Destination",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming",
+      "graph",
+      "topological-sort",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+        "problemId": "1976"
+      }
+    ]
+  },
+  {
+    "id": "path-with-maximum-probability",
+    "title": "Path with Maximum Probability",
+    "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-probability/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/path-with-maximum-probability/",
+        "problemId": "1514"
+      }
+    ]
+  },
+  {
+    "id": "design-graph-with-shortest-path-calculator",
+    "title": "Design Graph With Shortest Path Calculator",
+    "leetcodeUrl": "https://leetcode.com/problems/design-graph-with-shortest-path-calculator/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Graph",
+    "tags": [
+      "graph",
+      "design",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-graph-with-shortest-path-calculator/",
+        "problemId": "2642"
+      }
+    ]
+  },
+  {
+    "id": "find-edges-in-shortest-paths",
+    "title": "Find Edges in Shortest Paths",
+    "leetcodeUrl": "https://leetcode.com/problems/find-edges-in-shortest-paths/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "breadth-first-search",
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-edges-in-shortest-paths/",
+        "problemId": "3123"
+      }
+    ]
+  },
+  {
+    "id": "minimum-cost-to-convert-string-ii",
+    "title": "Minimum Cost to Convert String II",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-convert-string-ii/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "dynamic-programming",
+      "graph",
+      "trie",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-cost-to-convert-string-ii/",
+        "problemId": "2977"
+      }
+    ]
+  },
+  {
+    "id": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "breadth-first-search",
+      "graph",
+      "heap-priority-queue",
+      "matrix",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/",
+        "problemId": "1368"
+      }
+    ]
+  },
+  {
+    "id": "minimum-obstacle-removal-to-reach-corner",
+    "title": "Minimum Obstacle Removal to Reach Corner",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "breadth-first-search",
+      "graph",
+      "heap-priority-queue",
+      "matrix",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/",
+        "problemId": "2290"
+      }
+    ]
+  },
+  {
+    "id": "minimum-time-to-transport-all-individuals",
+    "title": "Minimum Time to Transport All Individuals",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-transport-all-individuals/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "bit-manipulation",
+      "graph",
+      "heap-priority-queue",
+      "shortest-path",
+      "bitmask"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-time-to-transport-all-individuals/",
+        "problemId": "3594"
+      }
+    ]
+  },
+  {
+    "id": "minimum-time-to-visit-a-cell-in-a-grid",
+    "title": "Minimum Time to Visit a Cell In a Grid",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "breadth-first-search",
+      "graph",
+      "heap-priority-queue",
+      "matrix",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/",
+        "problemId": "2577"
+      }
+    ]
+  },
+  {
+    "id": "minimum-weighted-subgraph-with-the-required-paths",
+    "title": "Minimum Weighted Subgraph With the Required Paths",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Graph",
+    "tags": [
+      "graph",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/",
+        "problemId": "2203"
+      }
+    ]
+  },
+  {
+    "id": "modify-graph-edge-weights",
+    "title": "Modify Graph Edge Weights",
+    "leetcodeUrl": "https://leetcode.com/problems/modify-graph-edge-weights/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Graph",
+    "tags": [
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/modify-graph-edge-weights/",
+        "problemId": "2699"
+      }
+    ]
+  },
+  {
+    "id": "network-recovery-pathways",
+    "title": "Network Recovery Pathways",
+    "leetcodeUrl": "https://leetcode.com/problems/network-recovery-pathways/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming",
+      "graph",
+      "topological-sort",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/network-recovery-pathways/",
+        "problemId": "3620"
+      }
+    ]
+  }
+]

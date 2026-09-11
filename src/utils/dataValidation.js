@@ -91,6 +91,19 @@ export function validateProblemShape(problem, lookups = buildRoadmapLookups()) {
   if (problem.companies !== undefined && !Array.isArray(problem.companies)) {
     fieldError("companies", `"companies" must be an array if provided.`);
   }
+  if (problem.section !== undefined && !["concept", "practice"].includes(problem.section)) {
+    fieldError("section", `"section" must be concept or practice if provided.`);
+  }
+  if (problem.platforms !== undefined && !Array.isArray(problem.platforms)) {
+    fieldError("platforms", `"platforms" must be an array if provided.`);
+  }
+  if (Array.isArray(problem.platforms)) {
+    problem.platforms.forEach((platform, index) => {
+      if (!platform || typeof platform !== "object" || !isNonEmptyString(platform.id) || !isNonEmptyString(platform.name) || !isValidHttpUrl(platform.url)) {
+        fieldError("platforms", `Platform entry at index ${index} must contain id, name and a valid http(s) url.`);
+      }
+    });
+  }
 
   return errors;
 }

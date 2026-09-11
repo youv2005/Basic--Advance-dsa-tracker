@@ -1,944 +1,1358 @@
 [
   {
-    "id": "multiply-strings",
-    "title": "Multiply Strings",
-    "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+    "id": "average-waiting-time",
+    "title": "Average Waiting Time",
+    "leetcodeUrl": "https://leetcode.com/problems/average-waiting-time/",
     "difficulty": "Medium",
     "level": "fundamental-ds",
     "levelName": "Fundamental Data Structures",
-    "category": "strings-basics",
-    "categoryName": "Strings",
-    "subcategory": "Math / Simulation",
-    "pattern": "String",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
     "tags": [
-      "math",
-      "string",
+      "array",
       "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/average-waiting-time/",
+        "problemId": "1701"
+      }
+    ]
   },
   {
-    "id": "fraction-to-recurring-decimal",
-    "title": "Fraction to Recurring Decimal",
-    "leetcodeUrl": "https://leetcode.com/problems/fraction-to-recurring-decimal/",
+    "id": "beautiful-arrangement-ii",
+    "title": "Beautiful Arrangement II",
+    "leetcodeUrl": "https://leetcode.com/problems/beautiful-arrangement-ii/",
     "difficulty": "Medium",
     "level": "fundamental-ds",
     "levelName": "Fundamental Data Structures",
-    "category": "strings-basics",
-    "categoryName": "Strings",
-    "subcategory": "Hash Table / Math",
-    "pattern": "String",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
     "tags": [
-      "hash-table",
-      "math",
-      "string"
+      "array",
+      "math"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/beautiful-arrangement-ii/",
+        "problemId": "667"
+      }
+    ]
   },
   {
-    "id": "bulls-and-cows",
-    "title": "Bulls and Cows",
-    "leetcodeUrl": "https://leetcode.com/problems/bulls-and-cows/",
+    "id": "beautiful-array",
+    "title": "Beautiful Array",
+    "leetcodeUrl": "https://leetcode.com/problems/beautiful-array/",
     "difficulty": "Medium",
     "level": "fundamental-ds",
     "levelName": "Fundamental Data Structures",
-    "category": "strings-basics",
-    "categoryName": "Strings",
-    "subcategory": "Hash Table / Counting",
-    "pattern": "String",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
     "tags": [
-      "hash-table",
-      "string",
-      "counting"
+      "array",
+      "math",
+      "divide-and-conquer"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/beautiful-array/",
+        "problemId": "932"
+      }
+    ]
   },
   {
-    "id": "valid-number",
-    "title": "Valid Number",
-    "leetcodeUrl": "https://leetcode.com/problems/valid-number/",
-    "difficulty": "Hard",
+    "id": "check-if-move-is-legal",
+    "title": "Check if Move is Legal",
+    "leetcodeUrl": "https://leetcode.com/problems/check-if-move-is-legal/",
+    "difficulty": "Medium",
     "level": "fundamental-ds",
     "levelName": "Fundamental Data Structures",
-    "category": "strings-basics",
-    "categoryName": "Strings",
-    "subcategory": "String",
-    "pattern": "String",
-    "tags": [
-      "string"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "valid-anagram",
-    "title": "Valid Anagram",
-    "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
-    "difficulty": "Easy",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Hash Table / String",
-    "pattern": "Sorting",
-    "tags": [
-      "hash-table",
-      "string",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "third-maximum-number",
-    "title": "Third Maximum Number",
-    "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
-    "difficulty": "Easy",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array",
-    "pattern": "Sorting",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
     "tags": [
       "array",
-      "sorting"
+      "matrix",
+      "enumeration"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/check-if-move-is-legal/",
+        "problemId": "1958"
+      }
+    ]
   },
   {
-    "id": "maximum-product-of-three-numbers",
-    "title": "Maximum Product of Three Numbers",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
-    "difficulty": "Easy",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array / Math",
-    "pattern": "Sorting",
+    "id": "check-if-word-can-be-placed-in-crossword",
+    "title": "Check if Word Can Be Placed In Crossword",
+    "leetcodeUrl": "https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/",
+        "problemId": "2018"
+      }
+    ]
+  },
+  {
+    "id": "collecting-chocolates",
+    "title": "Collecting Chocolates",
+    "leetcodeUrl": "https://leetcode.com/problems/collecting-chocolates/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/collecting-chocolates/",
+        "problemId": "2735"
+      }
+    ]
+  },
+  {
+    "id": "coordinate-with-maximum-network-quality",
+    "title": "Coordinate With Maximum Network Quality",
+    "leetcodeUrl": "https://leetcode.com/problems/coordinate-with-maximum-network-quality/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/coordinate-with-maximum-network-quality/",
+        "problemId": "1620"
+      }
+    ]
+  },
+  {
+    "id": "count-alternating-subarrays",
+    "title": "Count Alternating Subarrays",
+    "leetcodeUrl": "https://leetcode.com/problems/count-alternating-subarrays/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-alternating-subarrays/",
+        "problemId": "3101"
+      }
+    ]
+  },
+  {
+    "id": "count-unguarded-cells-in-the-grid",
+    "title": "Count Unguarded Cells in the Grid",
+    "leetcodeUrl": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid/",
+        "problemId": "2257"
+      }
+    ]
+  },
+  {
+    "id": "count-unhappy-friends",
+    "title": "Count Unhappy Friends",
+    "leetcodeUrl": "https://leetcode.com/problems/count-unhappy-friends/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-unhappy-friends/",
+        "problemId": "1583"
+      }
+    ]
+  },
+  {
+    "id": "cyclically-rotating-a-grid",
+    "title": "Cyclically Rotating a Grid",
+    "leetcodeUrl": "https://leetcode.com/problems/cyclically-rotating-a-grid/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/cyclically-rotating-a-grid/",
+        "problemId": "1914"
+      }
+    ]
+  },
+  {
+    "id": "diagonal-traverse",
+    "title": "Diagonal Traverse",
+    "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/diagonal-traverse/",
+        "problemId": "498"
+      }
+    ]
+  },
+  {
+    "id": "difference-between-ones-and-zeros-in-row-and-column",
+    "title": "Difference Between Ones and Zeros in Row and Column",
+    "leetcodeUrl": "https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/",
+        "problemId": "2482"
+      }
+    ]
+  },
+  {
+    "id": "double-modular-exponentiation",
+    "title": "Double Modular Exponentiation",
+    "leetcodeUrl": "https://leetcode.com/problems/double-modular-exponentiation/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
     "tags": [
       "array",
       "math",
-      "sorting"
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/double-modular-exponentiation/",
+        "problemId": "2961"
+      }
+    ]
   },
   {
-    "id": "largest-number-at-least-twice-of-others",
-    "title": "Largest Number At Least Twice of Others",
-    "leetcodeUrl": "https://leetcode.com/problems/largest-number-at-least-twice-of-others/",
-    "difficulty": "Easy",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array",
-    "pattern": "Sorting",
-    "tags": [
-      "array",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "matrix-cells-in-distance-order",
-    "title": "Matrix Cells in Distance Order",
-    "leetcodeUrl": "https://leetcode.com/problems/matrix-cells-in-distance-order/",
-    "difficulty": "Easy",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array / Math",
-    "pattern": "Sorting",
-    "tags": [
-      "array",
-      "math",
-      "geometry",
-      "sorting",
-      "matrix"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "height-checker",
-    "title": "Height Checker",
-    "leetcodeUrl": "https://leetcode.com/problems/height-checker/",
-    "difficulty": "Easy",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array / Counting Sort",
-    "pattern": "Sorting",
-    "tags": [
-      "array",
-      "sorting",
-      "counting-sort"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "group-anagrams",
-    "title": "Group Anagrams",
-    "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+    "id": "escape-the-ghosts",
+    "title": "Escape The Ghosts",
+    "leetcodeUrl": "https://leetcode.com/problems/escape-the-ghosts/",
     "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Sorting",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
     "tags": [
       "array",
-      "hash-table",
-      "string",
-      "sorting"
+      "math"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/escape-the-ghosts/",
+        "problemId": "789"
+      }
+    ]
   },
   {
-    "id": "insertion-sort-list",
-    "title": "Insertion Sort List",
-    "leetcodeUrl": "https://leetcode.com/problems/insertion-sort-list/",
+    "id": "fill-a-special-grid",
+    "title": "Fill a Special Grid",
+    "leetcodeUrl": "https://leetcode.com/problems/fill-a-special-grid/",
     "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Linked List",
-    "pattern": "Sorting",
-    "tags": [
-      "linked-list",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "maximum-gap",
-    "title": "Maximum Gap",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-gap/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array / Bucket Sort",
-    "pattern": "Sorting",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
     "tags": [
       "array",
-      "sorting",
-      "bucket-sort",
-      "radix-sort"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "h-index",
-    "title": "H-Index",
-    "leetcodeUrl": "https://leetcode.com/problems/h-index/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array / Counting Sort",
-    "pattern": "Sorting",
-    "tags": [
-      "array",
-      "sorting",
-      "counting-sort"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "minimum-moves-to-equal-array-elements-ii",
-    "title": "Minimum Moves to Equal Array Elements II",
-    "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array / Math",
-    "pattern": "Sorting",
-    "tags": [
-      "array",
-      "math",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "minimum-time-difference",
-    "title": "Minimum Time Difference",
-    "leetcodeUrl": "https://leetcode.com/problems/minimum-time-difference/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array / Math",
-    "pattern": "Sorting",
-    "tags": [
-      "array",
-      "math",
-      "string",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "custom-sort-string",
-    "title": "Custom Sort String",
-    "leetcodeUrl": "https://leetcode.com/problems/custom-sort-string/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Hash Table / String",
-    "pattern": "Sorting",
-    "tags": [
-      "hash-table",
-      "string",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "find-and-replace-in-string",
-    "title": "Find And Replace in String",
-    "leetcodeUrl": "https://leetcode.com/problems/find-and-replace-in-string/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Sorting",
-    "tags": [
-      "array",
-      "hash-table",
-      "string",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "car-fleet",
-    "title": "Car Fleet",
-    "leetcodeUrl": "https://leetcode.com/problems/car-fleet/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array / Stack",
-    "pattern": "Sorting",
-    "tags": [
-      "array",
-      "stack",
-      "sorting",
-      "monotonic-stack"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "number-of-atoms",
-    "title": "Number of Atoms",
-    "leetcodeUrl": "https://leetcode.com/problems/number-of-atoms/",
-    "difficulty": "Hard",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Hash Table / String",
-    "pattern": "Sorting",
-    "tags": [
-      "hash-table",
-      "string",
-      "stack",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "sum-of-subsequence-widths",
-    "title": "Sum of Subsequence Widths",
-    "leetcodeUrl": "https://leetcode.com/problems/sum-of-subsequence-widths/",
-    "difficulty": "Hard",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "sorting",
-    "categoryName": "Sorting",
-    "subcategory": "Array / Math",
-    "pattern": "Sorting",
-    "tags": [
-      "array",
-      "math",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "search-insert-position",
-    "title": "Search Insert Position",
-    "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
-    "difficulty": "Easy",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Array",
-    "pattern": "Binary Search",
-    "tags": [
-      "array",
-      "binary-search"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "first-bad-version",
-    "title": "First Bad Version",
-    "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
-    "difficulty": "Easy",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Interactive",
-    "pattern": "Binary Search",
-    "tags": [
-      "binary-search",
-      "interactive"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "valid-perfect-square",
-    "title": "Valid Perfect Square",
-    "leetcodeUrl": "https://leetcode.com/problems/valid-perfect-square/",
-    "difficulty": "Easy",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Math",
-    "pattern": "Binary Search",
-    "tags": [
-      "math",
-      "binary-search"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "guess-number-higher-or-lower",
-    "title": "Guess Number Higher or Lower",
-    "leetcodeUrl": "https://leetcode.com/problems/guess-number-higher-or-lower/",
-    "difficulty": "Easy",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Interactive",
-    "pattern": "Binary Search",
-    "tags": [
-      "binary-search",
-      "interactive"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "arranging-coins",
-    "title": "Arranging Coins",
-    "leetcodeUrl": "https://leetcode.com/problems/arranging-coins/",
-    "difficulty": "Easy",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Math",
-    "pattern": "Binary Search",
-    "tags": [
-      "math",
-      "binary-search"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "binary-search",
-    "title": "Binary Search",
-    "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
-    "difficulty": "Easy",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Array",
-    "pattern": "Binary Search",
-    "tags": [
-      "array",
-      "binary-search"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "find-first-and-last-position-of-element-in-sorted-array",
-    "title": "Find First and Last Position of Element in Sorted Array",
-    "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Array",
-    "pattern": "Binary Search",
-    "tags": [
-      "array",
-      "binary-search"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "search-a-2d-matrix",
-    "title": "Search a 2D Matrix",
-    "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Array / Matrix",
-    "pattern": "Binary Search",
-    "tags": [
-      "array",
-      "binary-search",
-      "matrix"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "search-in-rotated-sorted-array-ii",
-    "title": "Search in Rotated Sorted Array II",
-    "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Array",
-    "pattern": "Binary Search",
-    "tags": [
-      "array",
-      "binary-search"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "find-peak-element",
-    "title": "Find Peak Element",
-    "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Array",
-    "pattern": "Binary Search",
-    "tags": [
-      "array",
-      "binary-search"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "search-a-2d-matrix-ii",
-    "title": "Search a 2D Matrix II",
-    "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Array / Divide and Conquer",
-    "pattern": "Binary Search",
-    "tags": [
-      "array",
-      "binary-search",
       "divide-and-conquer",
       "matrix"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/fill-a-special-grid/",
+        "problemId": "3537"
+      }
+    ]
   },
   {
-    "id": "h-index-ii",
-    "title": "H-Index II",
-    "leetcodeUrl": "https://leetcode.com/problems/h-index-ii/",
+    "id": "find-missing-observations",
+    "title": "Find Missing Observations",
+    "leetcodeUrl": "https://leetcode.com/problems/find-missing-observations/",
     "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Array",
-    "pattern": "Binary Search",
-    "tags": [
-      "array",
-      "binary-search"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "nth-digit",
-    "title": "Nth Digit",
-    "leetcodeUrl": "https://leetcode.com/problems/nth-digit/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Math",
-    "pattern": "Binary Search",
-    "tags": [
-      "math",
-      "binary-search"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "132-pattern",
-    "title": "132 Pattern",
-    "leetcodeUrl": "https://leetcode.com/problems/132-pattern/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Array / Stack",
-    "pattern": "Binary Search",
-    "tags": [
-      "array",
-      "binary-search",
-      "stack",
-      "monotonic-stack",
-      "ordered-set"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "random-point-in-non-overlapping-rectangles",
-    "title": "Random Point in Non-overlapping Rectangles",
-    "leetcodeUrl": "https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/",
-    "difficulty": "Medium",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Array / Math",
-    "pattern": "Binary Search",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
     "tags": [
       "array",
       "math",
-      "binary-search",
-      "reservoir-sampling",
-      "prefix-sum",
-      "ordered-set",
-      "randomized"
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-missing-observations/",
+        "problemId": "2028"
+      }
+    ]
   },
   {
-    "id": "median-of-two-sorted-arrays",
-    "title": "Median of Two Sorted Arrays",
-    "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
-    "difficulty": "Hard",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Array / Divide and Conquer",
-    "pattern": "Binary Search",
-    "tags": [
-      "array",
-      "binary-search",
-      "divide-and-conquer"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "find-minimum-in-rotated-sorted-array-ii",
-    "title": "Find Minimum in Rotated Sorted Array II",
-    "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
-    "difficulty": "Hard",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Array",
-    "pattern": "Binary Search",
-    "tags": [
-      "array",
-      "binary-search"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "data-stream-as-disjoint-intervals",
-    "title": "Data Stream as Disjoint Intervals",
-    "leetcodeUrl": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/",
-    "difficulty": "Hard",
-    "level": "searching-sorting",
-    "levelName": "Searching & Sorting",
-    "category": "binary-search",
-    "categoryName": "Binary Search",
-    "subcategory": "Design / Ordered Set",
-    "pattern": "Binary Search",
-    "tags": [
-      "binary-search",
-      "design",
-      "ordered-set"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "remove-duplicates-from-sorted-array",
-    "title": "Remove Duplicates from Sorted Array",
-    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-    "difficulty": "Easy",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Array",
-    "pattern": "Two Pointers",
-    "tags": [
-      "array",
-      "two-pointers"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "remove-element",
-    "title": "Remove Element",
-    "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
-    "difficulty": "Easy",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Array",
-    "pattern": "Two Pointers",
-    "tags": [
-      "array",
-      "two-pointers"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "merge-sorted-array",
-    "title": "Merge Sorted Array",
-    "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
-    "difficulty": "Easy",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Array / Sorting",
-    "pattern": "Two Pointers",
-    "tags": [
-      "array",
-      "two-pointers",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "valid-palindrome",
-    "title": "Valid Palindrome",
-    "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
-    "difficulty": "Easy",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "String",
-    "pattern": "Two Pointers",
-    "tags": [
-      "two-pointers",
-      "string"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "linked-list-cycle",
-    "title": "Linked List Cycle",
-    "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
-    "difficulty": "Easy",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Hash Table / Linked List",
-    "pattern": "Two Pointers",
-    "tags": [
-      "hash-table",
-      "linked-list",
-      "two-pointers"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "intersection-of-two-linked-lists",
-    "title": "Intersection of Two Linked Lists",
-    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
-    "difficulty": "Easy",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Hash Table / Linked List",
-    "pattern": "Two Pointers",
-    "tags": [
-      "hash-table",
-      "linked-list",
-      "two-pointers"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "longest-substring-without-repeating-characters",
-    "title": "Longest Substring Without Repeating Characters",
-    "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "id": "find-palindrome-with-fixed-length",
+    "title": "Find Palindrome With Fixed Length",
+    "leetcodeUrl": "https://leetcode.com/problems/find-palindrome-with-fixed-length/",
     "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Hash Table / String",
-    "pattern": "Sliding Window",
-    "tags": [
-      "hash-table",
-      "string",
-      "sliding-window"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "remove-nth-node-from-end-of-list",
-    "title": "Remove Nth Node From End of List",
-    "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Linked List",
-    "pattern": "Two Pointers",
-    "tags": [
-      "linked-list",
-      "two-pointers"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "rotate-list",
-    "title": "Rotate List",
-    "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Linked List",
-    "pattern": "Two Pointers",
-    "tags": [
-      "linked-list",
-      "two-pointers"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "sort-colors",
-    "title": "Sort Colors",
-    "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Array / Sorting",
-    "pattern": "Two Pointers",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
     "tags": [
       "array",
-      "two-pointers",
-      "sorting"
+      "math"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-palindrome-with-fixed-length/",
+        "problemId": "2217"
+      }
+    ]
   },
   {
-    "id": "remove-duplicates-from-sorted-array-ii",
-    "title": "Remove Duplicates from Sorted Array II",
-    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+    "id": "find-the-first-player-to-win-k-games-in-a-row",
+    "title": "Find The First Player to win K Games in a Row",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/",
     "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Array",
-    "pattern": "Two Pointers",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
     "tags": [
       "array",
-      "two-pointers"
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/",
+        "problemId": "3175"
+      }
+    ]
+  },
+  {
+    "id": "find-the-grid-of-region-average",
+    "title": "Find the Grid of Region Average",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-grid-of-region-average/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-grid-of-region-average/",
+        "problemId": "3030"
+      }
+    ]
+  },
+  {
+    "id": "find-the-minimum-area-to-cover-all-ones-i",
+    "title": "Find the Minimum Area to Cover All Ones I",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/",
+        "problemId": "3195"
+      }
+    ]
+  },
+  {
+    "id": "find-the-number-of-copy-arrays",
+    "title": "Find the Number of Copy Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-number-of-copy-arrays/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-number-of-copy-arrays/",
+        "problemId": "3468"
+      }
+    ]
+  },
+  {
+    "id": "find-the-winner-of-an-array-game",
+    "title": "Find the Winner of an Array Game",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-winner-of-an-array-game/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-winner-of-an-array-game/",
+        "problemId": "1535"
+      }
+    ]
+  },
+  {
+    "id": "find-three-consecutive-integers-that-sum-to-a-given-number",
+    "title": "Find Three Consecutive Integers That Sum to a Given Number",
+    "leetcodeUrl": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/",
+        "problemId": "2177"
+      }
+    ]
+  },
+  {
+    "id": "four-divisors",
+    "title": "Four Divisors",
+    "leetcodeUrl": "https://leetcode.com/problems/four-divisors/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/four-divisors/",
+        "problemId": "1390"
+      }
+    ]
+  },
+  {
+    "id": "game-of-life",
+    "title": "Game of Life",
+    "leetcodeUrl": "https://leetcode.com/problems/game-of-life/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/game-of-life/",
+        "problemId": "289"
+      }
+    ]
+  },
+  {
+    "id": "global-and-local-inversions",
+    "title": "Global and Local Inversions",
+    "leetcodeUrl": "https://leetcode.com/problems/global-and-local-inversions/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/global-and-local-inversions/",
+        "problemId": "775"
+      }
+    ]
+  },
+  {
+    "id": "image-overlap",
+    "title": "Image Overlap",
+    "leetcodeUrl": "https://leetcode.com/problems/image-overlap/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/image-overlap/",
+        "problemId": "835"
+      }
+    ]
+  },
+  {
+    "id": "incremental-memory-leak",
+    "title": "Incremental Memory Leak",
+    "leetcodeUrl": "https://leetcode.com/problems/incremental-memory-leak/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/incremental-memory-leak/",
+        "problemId": "1860"
+      }
+    ]
+  },
+  {
+    "id": "insert-interval",
+    "title": "Insert Interval",
+    "leetcodeUrl": "https://leetcode.com/problems/insert-interval/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/insert-interval/",
+        "problemId": "57"
+      }
+    ]
+  },
+  {
+    "id": "last-moment-before-all-ants-fall-out-of-a-plank",
+    "title": "Last Moment Before All Ants Fall Out of a Plank",
+    "leetcodeUrl": "https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "brainteaser",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/",
+        "problemId": "1503"
+      }
+    ]
+  },
+  {
+    "id": "maximize-distance-to-closest-person",
+    "title": "Maximize Distance to Closest Person",
+    "leetcodeUrl": "https://leetcode.com/problems/maximize-distance-to-closest-person/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximize-distance-to-closest-person/",
+        "problemId": "849"
+      }
+    ]
+  },
+  {
+    "id": "maximum-of-absolute-value-expression",
+    "title": "Maximum of Absolute Value Expression",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-of-absolute-value-expression/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-of-absolute-value-expression/",
+        "problemId": "1131"
+      }
+    ]
+  },
+  {
+    "id": "maximum-profit-of-operating-a-centennial-wheel",
+    "title": "Maximum Profit of Operating a Centennial Wheel",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/",
+        "problemId": "1599"
+      }
+    ]
+  },
+  {
+    "id": "maximum-value-of-an-ordered-triplet-ii",
+    "title": "Maximum Value of an Ordered Triplet II",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/",
+        "problemId": "2874"
+      }
+    ]
+  },
+  {
+    "id": "minimum-cost-to-set-cooking-time",
+    "title": "Minimum Cost to Set Cooking Time",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time/",
+        "problemId": "2162"
+      }
+    ]
+  },
+  {
+    "id": "minimum-moves-to-capture-the-queen",
+    "title": "Minimum Moves to Capture The Queen",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-capture-the-queen/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-moves-to-capture-the-queen/",
+        "problemId": "3001"
+      }
+    ]
+  },
+  {
+    "id": "minimum-moves-to-equal-array-elements",
+    "title": "Minimum Moves to Equal Array Elements",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
+        "problemId": "453"
+      }
+    ]
+  },
+  {
+    "id": "minimum-number-of-operations-to-reinitialize-a-permutation",
+    "title": "Minimum Number of Operations to Reinitialize a Permutation",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/",
+        "problemId": "1806"
+      }
+    ]
+  },
+  {
+    "id": "minimum-operations-to-maximize-last-elements-in-arrays",
+    "title": "Minimum Operations to Maximize Last Elements in Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays/",
+        "problemId": "2934"
+      }
+    ]
+  },
+  {
+    "id": "minimum-sum-of-mountain-triplets-ii",
+    "title": "Minimum Sum of Mountain Triplets II",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/",
+        "problemId": "2909"
+      }
+    ]
+  },
+  {
+    "id": "non-decreasing-array",
+    "title": "Non-decreasing Array",
+    "leetcodeUrl": "https://leetcode.com/problems/non-decreasing-array/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/non-decreasing-array/",
+        "problemId": "665"
+      }
+    ]
+  },
+  {
+    "id": "number-of-adjacent-elements-with-the-same-color",
+    "title": "Number of Adjacent Elements With the Same Color",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/",
+        "problemId": "2672"
+      }
+    ]
+  },
+  {
+    "id": "number-of-times-binary-string-is-prefix-aligned",
+    "title": "Number of Times Binary String Is Prefix-Aligned",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/",
+        "problemId": "1375"
+      }
+    ]
+  },
+  {
+    "id": "number-of-ways-to-buy-pens-and-pencils",
+    "title": "Number of Ways to Buy Pens and Pencils",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/",
+        "problemId": "2240"
+      }
+    ]
+  },
+  {
+    "id": "number-of-zero-filled-subarrays",
+    "title": "Number of Zero-Filled Subarrays",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-zero-filled-subarrays/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-zero-filled-subarrays/",
+        "problemId": "2348"
+      }
+    ]
+  },
+  {
+    "id": "partition-array-into-disjoint-intervals",
+    "title": "Partition Array into Disjoint Intervals",
+    "leetcodeUrl": "https://leetcode.com/problems/partition-array-into-disjoint-intervals/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/partition-array-into-disjoint-intervals/",
+        "problemId": "915"
+      }
+    ]
+  },
+  {
+    "id": "queens-that-can-attack-the-king",
+    "title": "Queens That Can Attack the King",
+    "leetcodeUrl": "https://leetcode.com/problems/queens-that-can-attack-the-king/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/queens-that-can-attack-the-king/",
+        "problemId": "1222"
+      }
+    ]
+  },
+  {
+    "id": "rotate-image",
+    "title": "Rotate Image",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/rotate-image/",
+        "problemId": "48"
+      }
+    ]
+  },
+  {
+    "id": "sequential-digits",
+    "title": "Sequential Digits",
+    "leetcodeUrl": "https://leetcode.com/problems/sequential-digits/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Enumeration",
+    "tags": [
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sequential-digits/",
+        "problemId": "1291"
+      }
+    ]
   }
 ]

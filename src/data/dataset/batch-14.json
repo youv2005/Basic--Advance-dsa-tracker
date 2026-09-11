@@ -1,0 +1,1401 @@
+[
+  {
+    "id": "neighboring-bitwise-xor",
+    "title": "Neighboring Bitwise XOR",
+    "leetcodeUrl": "https://leetcode.com/problems/neighboring-bitwise-xor/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/neighboring-bitwise-xor/",
+        "problemId": "2683"
+      }
+    ]
+  },
+  {
+    "id": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "bit-manipulation",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+        "problemId": "1404"
+      }
+    ]
+  },
+  {
+    "id": "prison-cells-after-n-days",
+    "title": "Prison Cells After N Days",
+    "leetcodeUrl": "https://leetcode.com/problems/prison-cells-after-n-days/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/prison-cells-after-n-days/",
+        "problemId": "957"
+      }
+    ]
+  },
+  {
+    "id": "single-number-ii",
+    "title": "Single Number II",
+    "leetcodeUrl": "https://leetcode.com/problems/single-number-ii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/single-number-ii/",
+        "problemId": "137"
+      }
+    ]
+  },
+  {
+    "id": "single-number-iii",
+    "title": "Single Number III",
+    "leetcodeUrl": "https://leetcode.com/problems/single-number-iii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/single-number-iii/",
+        "problemId": "260"
+      }
+    ]
+  },
+  {
+    "id": "substring-xor-queries",
+    "title": "Substring XOR Queries",
+    "leetcodeUrl": "https://leetcode.com/problems/substring-xor-queries/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/substring-xor-queries/",
+        "problemId": "2564"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-two-integers",
+    "title": "Sum of Two Integers",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-two-integers/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-two-integers/",
+        "problemId": "371"
+      }
+    ]
+  },
+  {
+    "id": "total-hamming-distance",
+    "title": "Total Hamming Distance",
+    "leetcodeUrl": "https://leetcode.com/problems/total-hamming-distance/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/total-hamming-distance/",
+        "problemId": "477"
+      }
+    ]
+  },
+  {
+    "id": "utf-8-validation",
+    "title": "UTF-8 Validation",
+    "leetcodeUrl": "https://leetcode.com/problems/utf-8-validation/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/utf-8-validation/",
+        "problemId": "393"
+      }
+    ]
+  },
+  {
+    "id": "chalkboard-xor-game",
+    "title": "Chalkboard XOR Game",
+    "leetcodeUrl": "https://leetcode.com/problems/chalkboard-xor-game/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "bit-manipulation",
+      "brainteaser",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/chalkboard-xor-game/",
+        "problemId": "810"
+      }
+    ]
+  },
+  {
+    "id": "find-a-good-subset-of-the-matrix",
+    "title": "Find a Good Subset of the Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/find-a-good-subset-of-the-matrix/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "bit-manipulation",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-a-good-subset-of-the-matrix/",
+        "problemId": "2732"
+      }
+    ]
+  },
+  {
+    "id": "find-longest-awesome-substring",
+    "title": "Find Longest Awesome Substring",
+    "leetcodeUrl": "https://leetcode.com/problems/find-longest-awesome-substring/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-longest-awesome-substring/",
+        "problemId": "1542"
+      }
+    ]
+  },
+  {
+    "id": "find-xor-sum-of-all-pairs-bitwise-and",
+    "title": "Find XOR Sum of All Pairs Bitwise AND",
+    "leetcodeUrl": "https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/",
+        "problemId": "1835"
+      }
+    ]
+  },
+  {
+    "id": "naming-a-company",
+    "title": "Naming a Company",
+    "leetcodeUrl": "https://leetcode.com/problems/naming-a-company/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "bit-manipulation",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/naming-a-company/",
+        "problemId": "2306"
+      }
+    ]
+  },
+  {
+    "id": "number-of-excellent-pairs",
+    "title": "Number of Excellent Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-excellent-pairs/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "binary-search",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-excellent-pairs/",
+        "problemId": "2354"
+      }
+    ]
+  },
+  {
+    "id": "transform-to-chessboard",
+    "title": "Transform to Chessboard",
+    "leetcodeUrl": "https://leetcode.com/problems/transform-to-chessboard/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "bit-manipulation",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/transform-to-chessboard/",
+        "problemId": "782"
+      }
+    ]
+  },
+  {
+    "id": "triples-with-bitwise-and-equal-to-zero",
+    "title": "Triples with Bitwise AND Equal To Zero",
+    "leetcodeUrl": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/",
+        "problemId": "982"
+      }
+    ]
+  },
+  {
+    "id": "power-of-three",
+    "title": "Power of Three",
+    "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
+    "difficulty": "Easy",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Recursion",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/power-of-three/",
+        "problemId": "326"
+      }
+    ]
+  },
+  {
+    "id": "unique-3-digit-even-numbers",
+    "title": "Unique 3-Digit Even Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+    "difficulty": "Easy",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Recursion",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "recursion",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+        "problemId": "3483"
+      }
+    ]
+  },
+  {
+    "id": "count-collisions-of-monkeys-on-a-polygon",
+    "title": "Count Collisions of Monkeys on a Polygon",
+    "leetcodeUrl": "https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Recursion",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/",
+        "problemId": "2550"
+      }
+    ]
+  },
+  {
+    "id": "count-good-numbers",
+    "title": "Count Good Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Recursion",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-good-numbers/",
+        "problemId": "1922"
+      }
+    ]
+  },
+  {
+    "id": "elimination-game",
+    "title": "Elimination Game",
+    "leetcodeUrl": "https://leetcode.com/problems/elimination-game/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Recursion",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/elimination-game/",
+        "problemId": "390"
+      }
+    ]
+  },
+  {
+    "id": "find-kth-bit-in-nth-binary-string",
+    "title": "Find Kth Bit in Nth Binary String",
+    "leetcodeUrl": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Recursion",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "recursion",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+        "problemId": "1545"
+      }
+    ]
+  },
+  {
+    "id": "powx-n",
+    "title": "Pow(x, n)",
+    "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Recursion",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/powx-n/",
+        "problemId": "50"
+      }
+    ]
+  },
+  {
+    "id": "integer-to-english-words",
+    "title": "Integer to English Words",
+    "leetcodeUrl": "https://leetcode.com/problems/integer-to-english-words/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Recursion",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/integer-to-english-words/",
+        "problemId": "273"
+      }
+    ]
+  },
+  {
+    "id": "permutation-sequence",
+    "title": "Permutation Sequence",
+    "leetcodeUrl": "https://leetcode.com/problems/permutation-sequence/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Recursion",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/permutation-sequence/",
+        "problemId": "60"
+      }
+    ]
+  },
+  {
+    "id": "special-binary-string",
+    "title": "Special Binary String",
+    "leetcodeUrl": "https://leetcode.com/problems/special-binary-string/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "recursion",
+    "categoryName": "Recursion",
+    "subcategory": "Recursion",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/special-binary-string/",
+        "problemId": "761"
+      }
+    ]
+  },
+  {
+    "id": "binary-watch",
+    "title": "Binary Watch",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-watch/",
+    "difficulty": "Easy",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Backtracking",
+    "tags": [
+      "backtracking",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-watch/",
+        "problemId": "401"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-all-subset-xor-totals",
+    "title": "Sum of All Subset XOR Totals",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
+    "difficulty": "Easy",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "backtracking",
+      "bit-manipulation",
+      "combinatorics",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
+        "problemId": "1863"
+      }
+    ]
+  },
+  {
+    "id": "additive-number",
+    "title": "Additive Number",
+    "leetcodeUrl": "https://leetcode.com/problems/additive-number/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/additive-number/",
+        "problemId": "306"
+      }
+    ]
+  },
+  {
+    "id": "ambiguous-coordinates",
+    "title": "Ambiguous Coordinates",
+    "leetcodeUrl": "https://leetcode.com/problems/ambiguous-coordinates/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "backtracking",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/ambiguous-coordinates/",
+        "problemId": "816"
+      }
+    ]
+  },
+  {
+    "id": "circular-permutation-in-binary-representation",
+    "title": "Circular Permutation in Binary Representation",
+    "leetcodeUrl": "https://leetcode.com/problems/circular-permutation-in-binary-representation/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "backtracking",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/circular-permutation-in-binary-representation/",
+        "problemId": "1238"
+      }
+    ]
+  },
+  {
+    "id": "combination-sum",
+    "title": "Combination Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/combination-sum/",
+        "problemId": "39"
+      }
+    ]
+  },
+  {
+    "id": "combination-sum-ii",
+    "title": "Combination Sum II",
+    "leetcodeUrl": "https://leetcode.com/problems/combination-sum-ii/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/combination-sum-ii/",
+        "problemId": "40"
+      }
+    ]
+  },
+  {
+    "id": "combination-sum-iii",
+    "title": "Combination Sum III",
+    "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iii/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/combination-sum-iii/",
+        "problemId": "216"
+      }
+    ]
+  },
+  {
+    "id": "combinations",
+    "title": "Combinations",
+    "leetcodeUrl": "https://leetcode.com/problems/combinations/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Backtracking",
+    "tags": [
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/combinations/",
+        "problemId": "77"
+      }
+    ]
+  },
+  {
+    "id": "construct-the-lexicographically-largest-valid-sequence",
+    "title": "Construct the Lexicographically Largest Valid Sequence",
+    "leetcodeUrl": "https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/",
+        "problemId": "1718"
+      }
+    ]
+  },
+  {
+    "id": "count-number-of-maximum-bitwise-or-subsets",
+    "title": "Count Number of Maximum Bitwise-OR Subsets",
+    "leetcodeUrl": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking",
+      "bit-manipulation",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/",
+        "problemId": "2044"
+      }
+    ]
+  },
+  {
+    "id": "find-unique-binary-string",
+    "title": "Find Unique Binary String",
+    "leetcodeUrl": "https://leetcode.com/problems/find-unique-binary-string/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-unique-binary-string/",
+        "problemId": "1980"
+      }
+    ]
+  },
+  {
+    "id": "gray-code",
+    "title": "Gray Code",
+    "leetcodeUrl": "https://leetcode.com/problems/gray-code/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "backtracking",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/gray-code/",
+        "problemId": "89"
+      }
+    ]
+  },
+  {
+    "id": "iterator-for-combination",
+    "title": "Iterator for Combination",
+    "leetcodeUrl": "https://leetcode.com/problems/iterator-for-combination/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "backtracking",
+      "design",
+      "iterator"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/iterator-for-combination/",
+        "problemId": "1286"
+      }
+    ]
+  },
+  {
+    "id": "largest-time-for-given-digits",
+    "title": "Largest Time for Given Digits",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-time-for-given-digits/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "backtracking",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-time-for-given-digits/",
+        "problemId": "949"
+      }
+    ]
+  },
+  {
+    "id": "letter-case-permutation",
+    "title": "Letter Case Permutation",
+    "leetcodeUrl": "https://leetcode.com/problems/letter-case-permutation/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "backtracking",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/letter-case-permutation/",
+        "problemId": "784"
+      }
+    ]
+  },
+  {
+    "id": "letter-combinations-of-a-phone-number",
+    "title": "Letter Combinations of a Phone Number",
+    "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+        "problemId": "17"
+      }
+    ]
+  },
+  {
+    "id": "letter-tile-possibilities",
+    "title": "Letter Tile Possibilities",
+    "leetcodeUrl": "https://leetcode.com/problems/letter-tile-possibilities/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "backtracking",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/letter-tile-possibilities/",
+        "problemId": "1079"
+      }
+    ]
+  },
+  {
+    "id": "maximum-length-of-a-concatenated-string-with-unique-characters",
+    "title": "Maximum Length of a Concatenated String with Unique Characters",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "backtracking",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/",
+        "problemId": "1239"
+      }
+    ]
+  },
+  {
+    "id": "non-decreasing-subsequences",
+    "title": "Non-decreasing Subsequences",
+    "leetcodeUrl": "https://leetcode.com/problems/non-decreasing-subsequences/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "backtracking",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/non-decreasing-subsequences/",
+        "problemId": "491"
+      }
+    ]
+  },
+  {
+    "id": "path-with-maximum-gold",
+    "title": "Path with Maximum Gold",
+    "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-gold/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/path-with-maximum-gold/",
+        "problemId": "1219"
+      }
+    ]
+  },
+  {
+    "id": "permutations",
+    "title": "Permutations",
+    "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/permutations/",
+        "problemId": "46"
+      }
+    ]
+  },
+  {
+    "id": "permutations-ii",
+    "title": "Permutations II",
+    "leetcodeUrl": "https://leetcode.com/problems/permutations-ii/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/permutations-ii/",
+        "problemId": "47"
+      }
+    ]
+  }
+]

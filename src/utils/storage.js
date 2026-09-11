@@ -56,7 +56,28 @@ export function loadProblems(fallback) {
   if (!raw) return fallback;
   try {
     const parsed = JSON.parse(raw);
-    return Array.isArray(parsed) && parsed.length > 0 ? parsed : fallback;
+    if (!Array.isArray(parsed) || parsed.length === 0) return fallback;
+
+    // Dataset upgrades are metadata migrations, not progress resets.
+    // Replace bundled problem metadata with the newest version while
+    // preserving user-owned fields such as revisionLevel on matching IDs.
+    const storedById = new Map(parsed.map((p) => [p?.id, p]));
+    const migrated = fallback.map((problem) => {
+      const old = storedById.get(problem.id);
+      if (!old) return problem;
+      return {
+        ...problem,
+        revisionLevel: Number.isFinite(Number(old.revisionLevel)) ? Number(old.revisionLevel) : problem.revisionLevel,
+      };
+    });
+
+    // Preserve genuinely custom imported problems that are not part of the
+    // bundled curriculum. They remain available after an app upgrade.
+    const bundledIds = new Set(fallback.map((p) => p.id));
+    for (const problem of parsed) {
+      if (problem?.id && !bundledIds.has(problem.id)) migrated.push(problem);
+    }
+    return migrated;
   } catch {
     return fallback;
   }

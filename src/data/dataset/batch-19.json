@@ -1,0 +1,1450 @@
+[
+  {
+    "id": "cousins-in-binary-tree",
+    "title": "Cousins in Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/cousins-in-binary-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/cousins-in-binary-tree/",
+        "problemId": "993"
+      }
+    ]
+  },
+  {
+    "id": "diameter-of-binary-tree",
+    "title": "Diameter of Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "problemId": "543"
+      }
+    ]
+  },
+  {
+    "id": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+    "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/",
+        "problemId": "1379"
+      }
+    ]
+  },
+  {
+    "id": "find-mode-in-binary-search-tree",
+    "title": "Find Mode in Binary Search Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/find-mode-in-binary-search-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-mode-in-binary-search-tree/",
+        "problemId": "501"
+      }
+    ]
+  },
+  {
+    "id": "find-the-town-judge",
+    "title": "Find the Town Judge",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-town-judge/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "Graph Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "graph"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-town-judge/",
+        "problemId": "997"
+      }
+    ]
+  },
+  {
+    "id": "flood-fill",
+    "title": "Flood Fill",
+    "leetcodeUrl": "https://leetcode.com/problems/flood-fill/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "depth-first-search",
+      "breadth-first-search",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/flood-fill/",
+        "problemId": "733"
+      }
+    ]
+  },
+  {
+    "id": "increasing-order-search-tree",
+    "title": "Increasing Order Search Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/increasing-order-search-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Stack",
+    "tags": [
+      "stack",
+      "tree",
+      "depth-first-search",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/increasing-order-search-tree/",
+        "problemId": "897"
+      }
+    ]
+  },
+  {
+    "id": "invert-binary-tree",
+    "title": "Invert Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/invert-binary-tree/",
+        "problemId": "226"
+      }
+    ]
+  },
+  {
+    "id": "island-perimeter",
+    "title": "Island Perimeter",
+    "leetcodeUrl": "https://leetcode.com/problems/island-perimeter/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "depth-first-search",
+      "breadth-first-search",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/island-perimeter/",
+        "problemId": "463"
+      }
+    ]
+  },
+  {
+    "id": "leaf-similar-trees",
+    "title": "Leaf-Similar Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/leaf-similar-trees/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/leaf-similar-trees/",
+        "problemId": "872"
+      }
+    ]
+  },
+  {
+    "id": "maximum-depth-of-binary-tree",
+    "title": "Maximum Depth of Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "problemId": "104"
+      }
+    ]
+  },
+  {
+    "id": "maximum-depth-of-n-ary-tree",
+    "title": "Maximum Depth of N-ary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-n-ary-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-depth-of-n-ary-tree/",
+        "problemId": "559"
+      }
+    ]
+  },
+  {
+    "id": "merge-two-binary-trees",
+    "title": "Merge Two Binary Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-two-binary-trees/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/merge-two-binary-trees/",
+        "problemId": "617"
+      }
+    ]
+  },
+  {
+    "id": "minimum-absolute-difference-in-bst",
+    "title": "Minimum Absolute Difference in BST",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+        "problemId": "530"
+      }
+    ]
+  },
+  {
+    "id": "minimum-depth-of-binary-tree",
+    "title": "Minimum Depth of Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+        "problemId": "111"
+      }
+    ]
+  },
+  {
+    "id": "minimum-distance-between-bst-nodes",
+    "title": "Minimum Distance Between BST Nodes",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/",
+        "problemId": "783"
+      }
+    ]
+  },
+  {
+    "id": "n-ary-tree-postorder-traversal",
+    "title": "N-ary Tree Postorder Traversal",
+    "leetcodeUrl": "https://leetcode.com/problems/n-ary-tree-postorder-traversal/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Stack",
+    "tags": [
+      "stack",
+      "tree",
+      "depth-first-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/n-ary-tree-postorder-traversal/",
+        "problemId": "590"
+      }
+    ]
+  },
+  {
+    "id": "n-ary-tree-preorder-traversal",
+    "title": "N-ary Tree Preorder Traversal",
+    "leetcodeUrl": "https://leetcode.com/problems/n-ary-tree-preorder-traversal/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Stack",
+    "tags": [
+      "stack",
+      "tree",
+      "depth-first-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/n-ary-tree-preorder-traversal/",
+        "problemId": "589"
+      }
+    ]
+  },
+  {
+    "id": "path-sum",
+    "title": "Path Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/path-sum/",
+        "problemId": "112"
+      }
+    ]
+  },
+  {
+    "id": "range-sum-of-bst",
+    "title": "Range Sum of BST",
+    "leetcodeUrl": "https://leetcode.com/problems/range-sum-of-bst/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/range-sum-of-bst/",
+        "problemId": "938"
+      }
+    ]
+  },
+  {
+    "id": "same-tree",
+    "title": "Same Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/same-tree/",
+        "problemId": "100"
+      }
+    ]
+  },
+  {
+    "id": "second-minimum-node-in-a-binary-tree",
+    "title": "Second Minimum Node In a Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/",
+        "problemId": "671"
+      }
+    ]
+  },
+  {
+    "id": "subtree-of-another-tree",
+    "title": "Subtree of Another Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "string-matching",
+      "binary-tree",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/subtree-of-another-tree/",
+        "problemId": "572"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-left-leaves",
+    "title": "Sum of Left Leaves",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-left-leaves/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-left-leaves/",
+        "problemId": "404"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-root-to-leaf-binary-numbers",
+    "title": "Sum of Root To Leaf Binary Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/",
+        "problemId": "1022"
+      }
+    ]
+  },
+  {
+    "id": "symmetric-tree",
+    "title": "Symmetric Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/symmetric-tree/",
+        "problemId": "101"
+      }
+    ]
+  },
+  {
+    "id": "two-sum-iv-input-is-a-bst",
+    "title": "Two Sum IV - Input is a BST",
+    "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "two-pointers",
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+        "problemId": "653"
+      }
+    ]
+  },
+  {
+    "id": "univalued-binary-tree",
+    "title": "Univalued Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/univalued-binary-tree/",
+    "difficulty": "Easy",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/univalued-binary-tree/",
+        "problemId": "965"
+      }
+    ]
+  },
+  {
+    "id": "01-matrix",
+    "title": "01 Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "breadth-first-search",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/01-matrix/",
+        "problemId": "542"
+      }
+    ]
+  },
+  {
+    "id": "accounts-merge",
+    "title": "Accounts Merge",
+    "leetcodeUrl": "https://leetcode.com/problems/accounts-merge/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "depth-first-search",
+      "breadth-first-search",
+      "union-find",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/accounts-merge/",
+        "problemId": "721"
+      }
+    ]
+  },
+  {
+    "id": "add-one-row-to-tree",
+    "title": "Add One Row to Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/add-one-row-to-tree/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/add-one-row-to-tree/",
+        "problemId": "623"
+      }
+    ]
+  },
+  {
+    "id": "array-nesting",
+    "title": "Array Nesting",
+    "leetcodeUrl": "https://leetcode.com/problems/array-nesting/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "depth-first-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/array-nesting/",
+        "problemId": "565"
+      }
+    ]
+  },
+  {
+    "id": "battleships-in-a-board",
+    "title": "Battleships in a Board",
+    "leetcodeUrl": "https://leetcode.com/problems/battleships-in-a-board/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "depth-first-search",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/battleships-in-a-board/",
+        "problemId": "419"
+      }
+    ]
+  },
+  {
+    "id": "binary-tree-level-order-traversal",
+    "title": "Binary Tree Level Order Traversal",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "problemId": "102"
+      }
+    ]
+  },
+  {
+    "id": "binary-tree-level-order-traversal-ii",
+    "title": "Binary Tree Level Order Traversal II",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/",
+        "problemId": "107"
+      }
+    ]
+  },
+  {
+    "id": "binary-tree-right-side-view",
+    "title": "Binary Tree Right Side View",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+        "problemId": "199"
+      }
+    ]
+  },
+  {
+    "id": "binary-tree-zigzag-level-order-traversal",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+        "problemId": "103"
+      }
+    ]
+  },
+  {
+    "id": "bulb-switcher-ii",
+    "title": "Bulb Switcher II",
+    "leetcodeUrl": "https://leetcode.com/problems/bulb-switcher-ii/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "bit-manipulation",
+      "depth-first-search",
+      "breadth-first-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/bulb-switcher-ii/",
+        "problemId": "672"
+      }
+    ]
+  },
+  {
+    "id": "clone-graph",
+    "title": "Clone Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/clone-graph/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "depth-first-search",
+      "breadth-first-search",
+      "graph"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/clone-graph/",
+        "problemId": "133"
+      }
+    ]
+  },
+  {
+    "id": "coin-change",
+    "title": "Coin Change",
+    "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "breadth-first-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/coin-change/",
+        "problemId": "322"
+      }
+    ]
+  },
+  {
+    "id": "construct-string-from-binary-tree",
+    "title": "Construct String from Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/construct-string-from-binary-tree/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/construct-string-from-binary-tree/",
+        "problemId": "606"
+      }
+    ]
+  },
+  {
+    "id": "convert-bst-to-greater-tree",
+    "title": "Convert BST to Greater Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/convert-bst-to-greater-tree/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/convert-bst-to-greater-tree/",
+        "problemId": "538"
+      }
+    ]
+  },
+  {
+    "id": "design-add-and-search-words-data-structure",
+    "title": "Design Add and Search Words Data Structure",
+    "leetcodeUrl": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "depth-first-search",
+      "design",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+        "problemId": "211"
+      }
+    ]
+  },
+  {
+    "id": "employee-importance",
+    "title": "Employee Importance",
+    "leetcodeUrl": "https://leetcode.com/problems/employee-importance/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "tree",
+      "depth-first-search",
+      "breadth-first-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/employee-importance/",
+        "problemId": "690"
+      }
+    ]
+  },
+  {
+    "id": "find-bottom-left-tree-value",
+    "title": "Find Bottom Left Tree Value",
+    "leetcodeUrl": "https://leetcode.com/problems/find-bottom-left-tree-value/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-bottom-left-tree-value/",
+        "problemId": "513"
+      }
+    ]
+  },
+  {
+    "id": "find-duplicate-subtrees",
+    "title": "Find Duplicate Subtrees",
+    "leetcodeUrl": "https://leetcode.com/problems/find-duplicate-subtrees/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-duplicate-subtrees/",
+        "problemId": "652"
+      }
+    ]
+  },
+  {
+    "id": "find-largest-value-in-each-tree-row",
+    "title": "Find Largest Value in Each Tree Row",
+    "leetcodeUrl": "https://leetcode.com/problems/find-largest-value-in-each-tree-row/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "BFS",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "depth-first-search",
+      "breadth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-largest-value-in-each-tree-row/",
+        "problemId": "515"
+      }
+    ]
+  },
+  {
+    "id": "flatten-a-multilevel-doubly-linked-list",
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "depth-first-search",
+      "doubly-linked-list"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+        "problemId": "430"
+      }
+    ]
+  },
+  {
+    "id": "flatten-binary-tree-to-linked-list",
+    "title": "Flatten Binary Tree to Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "stack",
+      "tree",
+      "depth-first-search",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "problemId": "114"
+      }
+    ]
+  },
+  {
+    "id": "flatten-nested-list-iterator",
+    "title": "Flatten Nested List Iterator",
+    "leetcodeUrl": "https://leetcode.com/problems/flatten-nested-list-iterator/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "graphs",
+    "categoryName": "Graph Traversal & Representation",
+    "subcategory": "DFS",
+    "pattern": "Stack",
+    "tags": [
+      "stack",
+      "tree",
+      "depth-first-search",
+      "design",
+      "queue",
+      "iterator"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/flatten-nested-list-iterator/",
+        "problemId": "341"
+      }
+    ]
+  }
+]

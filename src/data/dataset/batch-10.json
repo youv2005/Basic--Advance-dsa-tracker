@@ -1,0 +1,1400 @@
+[
+  {
+    "id": "minimum-limit-of-balls-in-a-bag",
+    "title": "Minimum Limit of Balls in a Bag",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Binary Search on Answer",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/",
+        "problemId": "1760"
+      }
+    ]
+  },
+  {
+    "id": "minimum-number-of-days-to-make-m-bouquets",
+    "title": "Minimum Number of Days to Make m Bouquets",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Binary Search on Answer",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+        "problemId": "1482"
+      }
+    ]
+  },
+  {
+    "id": "minimum-speed-to-arrive-on-time",
+    "title": "Minimum Speed to Arrive on Time",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-speed-to-arrive-on-time/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Binary Search on Answer",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-speed-to-arrive-on-time/",
+        "problemId": "1870"
+      }
+    ]
+  },
+  {
+    "id": "nth-digit",
+    "title": "Nth Digit",
+    "leetcodeUrl": "https://leetcode.com/problems/nth-digit/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/nth-digit/",
+        "problemId": "400"
+      }
+    ]
+  },
+  {
+    "id": "online-election",
+    "title": "Online Election",
+    "leetcodeUrl": "https://leetcode.com/problems/online-election/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "binary-search",
+      "design"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/online-election/",
+        "problemId": "911"
+      }
+    ]
+  },
+  {
+    "id": "peak-index-in-a-mountain-array",
+    "title": "Peak Index in a Mountain Array",
+    "leetcodeUrl": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+        "problemId": "852"
+      }
+    ]
+  },
+  {
+    "id": "reach-a-number",
+    "title": "Reach a Number",
+    "leetcodeUrl": "https://leetcode.com/problems/reach-a-number/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reach-a-number/",
+        "problemId": "754"
+      }
+    ]
+  },
+  {
+    "id": "search-a-2d-matrix",
+    "title": "Search a 2D Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/search-a-2d-matrix/",
+        "problemId": "74"
+      }
+    ]
+  },
+  {
+    "id": "search-a-2d-matrix-ii",
+    "title": "Search a 2D Matrix II",
+    "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "divide-and-conquer",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+        "problemId": "240"
+      }
+    ]
+  },
+  {
+    "id": "search-in-rotated-sorted-array",
+    "title": "Search in Rotated Sorted Array",
+    "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Rotated Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "problemId": "33"
+      }
+    ]
+  },
+  {
+    "id": "search-in-rotated-sorted-array-ii",
+    "title": "Search in Rotated Sorted Array II",
+    "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Rotated Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+        "problemId": "81"
+      }
+    ]
+  },
+  {
+    "id": "single-element-in-a-sorted-array",
+    "title": "Single Element in a Sorted Array",
+    "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+        "problemId": "540"
+      }
+    ]
+  },
+  {
+    "id": "snapshot-array",
+    "title": "Snapshot Array",
+    "leetcodeUrl": "https://leetcode.com/problems/snapshot-array/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "binary-search",
+      "design"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/snapshot-array/",
+        "problemId": "1146"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-mutated-array-closest-to-target",
+    "title": "Sum of Mutated Array Closest to Target",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/",
+        "problemId": "1300"
+      }
+    ]
+  },
+  {
+    "id": "time-based-key-value-store",
+    "title": "Time Based Key-Value Store",
+    "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "binary-search",
+      "design"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/time-based-key-value-store/",
+        "problemId": "981"
+      }
+    ]
+  },
+  {
+    "id": "tweet-counts-per-frequency",
+    "title": "Tweet Counts Per Frequency",
+    "leetcodeUrl": "https://leetcode.com/problems/tweet-counts-per-frequency/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "binary-search",
+      "design",
+      "sorting",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/tweet-counts-per-frequency/",
+        "problemId": "1348"
+      }
+    ]
+  },
+  {
+    "id": "ugly-number-iii",
+    "title": "Ugly Number III",
+    "leetcodeUrl": "https://leetcode.com/problems/ugly-number-iii/",
+    "difficulty": "Medium",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "binary-search",
+      "combinatorics",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/ugly-number-iii/",
+        "problemId": "1201"
+      }
+    ]
+  },
+  {
+    "id": "closest-room",
+    "title": "Closest Room",
+    "leetcodeUrl": "https://leetcode.com/problems/closest-room/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "sorting",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/closest-room/",
+        "problemId": "1847"
+      }
+    ]
+  },
+  {
+    "id": "data-stream-as-disjoint-intervals",
+    "title": "Data Stream as Disjoint Intervals",
+    "leetcodeUrl": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Binary Search",
+    "tags": [
+      "binary-search",
+      "design",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/",
+        "problemId": "352"
+      }
+    ]
+  },
+  {
+    "id": "find-in-mountain-array",
+    "title": "Find in Mountain Array",
+    "leetcodeUrl": "https://leetcode.com/problems/find-in-mountain-array/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "interactive"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-in-mountain-array/",
+        "problemId": "1095"
+      }
+    ]
+  },
+  {
+    "id": "find-minimum-in-rotated-sorted-array-ii",
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "Rotated Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+        "problemId": "154"
+      }
+    ]
+  },
+  {
+    "id": "kth-smallest-number-in-multiplication-table",
+    "title": "Kth Smallest Number in Multiplication Table",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/",
+        "problemId": "668"
+      }
+    ]
+  },
+  {
+    "id": "longest-common-subpath",
+    "title": "Longest Common Subpath",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-subpath/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "rolling-hash",
+      "suffix-array",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-common-subpath/",
+        "problemId": "1923"
+      }
+    ]
+  },
+  {
+    "id": "median-of-two-sorted-arrays",
+    "title": "Median of Two Sorted Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "divide-and-conquer"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "problemId": "4"
+      }
+    ]
+  },
+  {
+    "id": "nth-magical-number",
+    "title": "Nth Magical Number",
+    "leetcodeUrl": "https://leetcode.com/problems/nth-magical-number/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/nth-magical-number/",
+        "problemId": "878"
+      }
+    ]
+  },
+  {
+    "id": "preimage-size-of-factorial-zeroes-function",
+    "title": "Preimage Size of Factorial Zeroes Function",
+    "leetcodeUrl": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/",
+        "problemId": "793"
+      }
+    ]
+  },
+  {
+    "id": "random-pick-with-blacklist",
+    "title": "Random Pick with Blacklist",
+    "leetcodeUrl": "https://leetcode.com/problems/random-pick-with-blacklist/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "binary-search",
+      "sorting",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/random-pick-with-blacklist/",
+        "problemId": "710"
+      }
+    ]
+  },
+  {
+    "id": "smallest-good-base",
+    "title": "Smallest Good Base",
+    "leetcodeUrl": "https://leetcode.com/problems/smallest-good-base/",
+    "difficulty": "Hard",
+    "level": "searching-sorting",
+    "levelName": "Searching & Sorting",
+    "category": "binary-search",
+    "categoryName": "Binary Search",
+    "subcategory": "1D Binary Search",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/smallest-good-base/",
+        "problemId": "483"
+      }
+    ]
+  },
+  {
+    "id": "ant-on-the-boundary",
+    "title": "Ant on the Boundary",
+    "leetcodeUrl": "https://leetcode.com/problems/ant-on-the-boundary/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "simulation",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/ant-on-the-boundary/",
+        "problemId": "3028"
+      }
+    ]
+  },
+  {
+    "id": "check-if-all-the-integers-in-a-range-are-covered",
+    "title": "Check if All the Integers in a Range Are Covered",
+    "leetcodeUrl": "https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/",
+        "problemId": "1893"
+      }
+    ]
+  },
+  {
+    "id": "find-pivot-index",
+    "title": "Find Pivot Index",
+    "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-pivot-index/",
+        "problemId": "724"
+      }
+    ]
+  },
+  {
+    "id": "find-the-highest-altitude",
+    "title": "Find the Highest Altitude",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-highest-altitude/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-highest-altitude/",
+        "problemId": "1732"
+      }
+    ]
+  },
+  {
+    "id": "find-the-middle-index-in-array",
+    "title": "Find the Middle Index in Array",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-middle-index-in-array/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-middle-index-in-array/",
+        "problemId": "1991"
+      }
+    ]
+  },
+  {
+    "id": "find-the-pivot-integer",
+    "title": "Find the Pivot Integer",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-pivot-integer/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-pivot-integer/",
+        "problemId": "2485"
+      }
+    ]
+  },
+  {
+    "id": "left-and-right-sum-differences",
+    "title": "Left and Right Sum Differences",
+    "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/left-and-right-sum-differences/",
+        "problemId": "2574"
+      }
+    ]
+  },
+  {
+    "id": "maximum-population-year",
+    "title": "Maximum Population Year",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-population-year/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "counting",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-population-year/",
+        "problemId": "1854"
+      }
+    ]
+  },
+  {
+    "id": "maximum-score-after-splitting-a-string",
+    "title": "Maximum Score After Splitting a String",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-score-after-splitting-a-string/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-score-after-splitting-a-string/",
+        "problemId": "1422"
+      }
+    ]
+  },
+  {
+    "id": "minimum-value-to-get-positive-step-by-step-sum",
+    "title": "Minimum Value to Get Positive Step by Step Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/",
+        "problemId": "1413"
+      }
+    ]
+  },
+  {
+    "id": "points-that-intersect-with-cars",
+    "title": "Points That Intersect With Cars",
+    "leetcodeUrl": "https://leetcode.com/problems/points-that-intersect-with-cars/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/points-that-intersect-with-cars/",
+        "problemId": "2848"
+      }
+    ]
+  },
+  {
+    "id": "range-sum-query-immutable",
+    "title": "Range Sum Query - Immutable",
+    "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "design",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/range-sum-query-immutable/",
+        "problemId": "303"
+      }
+    ]
+  },
+  {
+    "id": "running-sum-of-1d-array",
+    "title": "Running Sum of 1d Array",
+    "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/running-sum-of-1d-array/",
+        "problemId": "1480"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-all-odd-length-subarrays",
+    "title": "Sum of All Odd Length Subarrays",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-all-odd-length-subarrays/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-all-odd-length-subarrays/",
+        "problemId": "1588"
+      }
+    ]
+  },
+  {
+    "id": "can-make-palindrome-from-substring",
+    "title": "Can Make Palindrome from Substring",
+    "leetcodeUrl": "https://leetcode.com/problems/can-make-palindrome-from-substring/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "bit-manipulation",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/can-make-palindrome-from-substring/",
+        "problemId": "1177"
+      }
+    ]
+  },
+  {
+    "id": "contiguous-array",
+    "title": "Contiguous Array",
+    "leetcodeUrl": "https://leetcode.com/problems/contiguous-array/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/contiguous-array/",
+        "problemId": "525"
+      }
+    ]
+  },
+  {
+    "id": "continuous-subarray-sum",
+    "title": "Continuous Subarray Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/continuous-subarray-sum/",
+        "problemId": "523"
+      }
+    ]
+  },
+  {
+    "id": "corporate-flight-bookings",
+    "title": "Corporate Flight Bookings",
+    "leetcodeUrl": "https://leetcode.com/problems/corporate-flight-bookings/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/corporate-flight-bookings/",
+        "problemId": "1109"
+      }
+    ]
+  },
+  {
+    "id": "count-triplets-that-can-form-two-arrays-of-equal-xor",
+    "title": "Count Triplets That Can Form Two Arrays of Equal XOR",
+    "leetcodeUrl": "https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "bit-manipulation",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/",
+        "problemId": "1442"
+      }
+    ]
+  },
+  {
+    "id": "find-the-longest-substring-containing-vowels-in-even-counts",
+    "title": "Find the Longest Substring Containing Vowels in Even Counts",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "bit-manipulation",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/",
+        "problemId": "1371"
+      }
+    ]
+  },
+  {
+    "id": "longest-well-performing-interval",
+    "title": "Longest Well-Performing Interval",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-well-performing-interval/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "stack",
+      "monotonic-stack",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-well-performing-interval/",
+        "problemId": "1124"
+      }
+    ]
+  },
+  {
+    "id": "make-sum-divisible-by-p",
+    "title": "Make Sum Divisible by P",
+    "leetcodeUrl": "https://leetcode.com/problems/make-sum-divisible-by-p/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/make-sum-divisible-by-p/",
+        "problemId": "1590"
+      }
+    ]
+  }
+]

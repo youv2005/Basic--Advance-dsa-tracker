@@ -49,6 +49,7 @@ export default function LevelSection({
                 starredIds={starredIds}
                 isExpanded={expandedCategoryIds.has(category.id)}
                 onToggle={onToggleCategory}
+                level={level}
                 {...rowHandlers}
               />
             ))

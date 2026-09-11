@@ -1,0 +1,1424 @@
+[
+  {
+    "id": "matrix-block-sum",
+    "title": "Matrix Block Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/matrix-block-sum/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/matrix-block-sum/",
+        "problemId": "1314"
+      }
+    ]
+  },
+  {
+    "id": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "matrix",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/",
+        "problemId": "1292"
+      }
+    ]
+  },
+  {
+    "id": "product-of-array-except-self",
+    "title": "Product of Array Except Self",
+    "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/product-of-array-except-self/",
+        "problemId": "238"
+      }
+    ]
+  },
+  {
+    "id": "product-of-the-last-k-numbers",
+    "title": "Product of the Last K Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "design",
+      "data-stream",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+        "problemId": "1352"
+      }
+    ]
+  },
+  {
+    "id": "random-pick-with-weight",
+    "title": "Random Pick with Weight",
+    "leetcodeUrl": "https://leetcode.com/problems/random-pick-with-weight/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "binary-search",
+      "prefix-sum",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/random-pick-with-weight/",
+        "problemId": "528"
+      }
+    ]
+  },
+  {
+    "id": "random-point-in-non-overlapping-rectangles",
+    "title": "Random Point in Non-overlapping Rectangles",
+    "leetcodeUrl": "https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "binary-search",
+      "reservoir-sampling",
+      "prefix-sum",
+      "ordered-set",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/",
+        "problemId": "497"
+      }
+    ]
+  },
+  {
+    "id": "range-sum-query-2d-immutable",
+    "title": "Range Sum Query 2D - Immutable",
+    "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "design",
+      "matrix",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+        "problemId": "304"
+      }
+    ]
+  },
+  {
+    "id": "shifting-letters",
+    "title": "Shifting Letters",
+    "leetcodeUrl": "https://leetcode.com/problems/shifting-letters/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/shifting-letters/",
+        "problemId": "848"
+      }
+    ]
+  },
+  {
+    "id": "subarray-sum-equals-k",
+    "title": "Subarray Sum Equals K",
+    "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+        "problemId": "560"
+      }
+    ]
+  },
+  {
+    "id": "subarray-sums-divisible-by-k",
+    "title": "Subarray Sums Divisible by K",
+    "leetcodeUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+        "problemId": "974"
+      }
+    ]
+  },
+  {
+    "id": "ways-to-make-a-fair-array",
+    "title": "Ways to Make a Fair Array",
+    "leetcodeUrl": "https://leetcode.com/problems/ways-to-make-a-fair-array/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/ways-to-make-a-fair-array/",
+        "problemId": "1664"
+      }
+    ]
+  },
+  {
+    "id": "xor-queries-of-a-subarray",
+    "title": "XOR Queries of a Subarray",
+    "leetcodeUrl": "https://leetcode.com/problems/xor-queries-of-a-subarray/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/xor-queries-of-a-subarray/",
+        "problemId": "1310"
+      }
+    ]
+  },
+  {
+    "id": "max-sum-of-rectangle-no-larger-than-k",
+    "title": "Max Sum of Rectangle No Larger Than K",
+    "leetcodeUrl": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "matrix",
+      "prefix-sum",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/",
+        "problemId": "363"
+      }
+    ]
+  },
+  {
+    "id": "maximum-number-of-ways-to-partition-an-array",
+    "title": "Maximum Number of Ways to Partition an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "counting",
+      "enumeration",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/",
+        "problemId": "2025"
+      }
+    ]
+  },
+  {
+    "id": "minimum-space-wasted-from-packaging",
+    "title": "Minimum Space Wasted From Packaging",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-space-wasted-from-packaging/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "sorting",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-space-wasted-from-packaging/",
+        "problemId": "1889"
+      }
+    ]
+  },
+  {
+    "id": "number-of-submatrices-that-sum-to-target",
+    "title": "Number of Submatrices That Sum to Target",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "matrix",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/",
+        "problemId": "1074"
+      }
+    ]
+  },
+  {
+    "id": "smallest-rotation-with-highest-score",
+    "title": "Smallest Rotation with Highest Score",
+    "leetcodeUrl": "https://leetcode.com/problems/smallest-rotation-with-highest-score/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/smallest-rotation-with-highest-score/",
+        "problemId": "798"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-floored-pairs",
+    "title": "Sum of Floored Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-floored-pairs/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "prefix-sum",
+    "categoryName": "Prefix Sum & Difference Arrays",
+    "subcategory": "Prefix Sum & Difference Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "binary-search",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-floored-pairs/",
+        "problemId": "1862"
+      }
+    ]
+  },
+  {
+    "id": "alternating-groups-i",
+    "title": "Alternating Groups I",
+    "leetcodeUrl": "https://leetcode.com/problems/alternating-groups-i/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/alternating-groups-i/",
+        "problemId": "3206"
+      }
+    ]
+  },
+  {
+    "id": "contains-duplicate-ii",
+    "title": "Contains Duplicate II",
+    "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/contains-duplicate-ii/",
+        "problemId": "219"
+      }
+    ]
+  },
+  {
+    "id": "count-substrings-that-satisfy-k-constraint-i",
+    "title": "Count Substrings That Satisfy K-Constraint I",
+    "leetcodeUrl": "https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/",
+        "problemId": "3258"
+      }
+    ]
+  },
+  {
+    "id": "defuse-the-bomb",
+    "title": "Defuse the Bomb",
+    "leetcodeUrl": "https://leetcode.com/problems/defuse-the-bomb/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/defuse-the-bomb/",
+        "problemId": "1652"
+      }
+    ]
+  },
+  {
+    "id": "find-the-k-beauty-of-a-number",
+    "title": "Find the K-Beauty of a Number",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-k-beauty-of-a-number/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-k-beauty-of-a-number/",
+        "problemId": "2269"
+      }
+    ]
+  },
+  {
+    "id": "longest-even-odd-subarray-with-threshold",
+    "title": "Longest Even Odd Subarray With Threshold",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/",
+        "problemId": "2760"
+      }
+    ]
+  },
+  {
+    "id": "longest-harmonious-subsequence",
+    "title": "Longest Harmonious Subsequence",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-harmonious-subsequence/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "sliding-window",
+      "sorting",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-harmonious-subsequence/",
+        "problemId": "594"
+      }
+    ]
+  },
+  {
+    "id": "longest-nice-substring",
+    "title": "Longest Nice Substring",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-nice-substring/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "divide-and-conquer",
+      "bit-manipulation",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-nice-substring/",
+        "problemId": "1763"
+      }
+    ]
+  },
+  {
+    "id": "maximum-average-subarray-i",
+    "title": "Maximum Average Subarray I",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-average-subarray-i/",
+        "problemId": "643"
+      }
+    ]
+  },
+  {
+    "id": "maximum-length-substring-with-two-occurrences",
+    "title": "Maximum Length Substring With Two Occurrences",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
+        "problemId": "3090"
+      }
+    ]
+  },
+  {
+    "id": "maximum-subarray-with-equal-products",
+    "title": "Maximum Subarray With Equal Products",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "sliding-window",
+      "enumeration",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+        "problemId": "3411"
+      }
+    ]
+  },
+  {
+    "id": "minimum-difference-between-highest-and-lowest-of-k-scores",
+    "title": "Minimum Difference Between Highest and Lowest of K Scores",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sliding-window",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+        "problemId": "1984"
+      }
+    ]
+  },
+  {
+    "id": "minimum-positive-sum-subarray",
+    "title": "Minimum Positive Sum Subarray ",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+        "problemId": "3364"
+      }
+    ]
+  },
+  {
+    "id": "minimum-recolors-to-get-k-consecutive-black-blocks",
+    "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/",
+        "problemId": "2379"
+      }
+    ]
+  },
+  {
+    "id": "shortest-subarray-with-or-at-least-k-i",
+    "title": "Shortest Subarray With OR at Least K I",
+    "leetcodeUrl": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/",
+        "problemId": "3095"
+      }
+    ]
+  },
+  {
+    "id": "substrings-of-size-three-with-distinct-characters",
+    "title": "Substrings of Size Three with Distinct Characters",
+    "leetcodeUrl": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/",
+        "problemId": "1876"
+      }
+    ]
+  },
+  {
+    "id": "binary-string-with-substrings-representing-1-to-n",
+    "title": "Binary String With Substrings Representing 1 To N",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "bit-manipulation",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/",
+        "problemId": "1016"
+      }
+    ]
+  },
+  {
+    "id": "binary-subarrays-with-sum",
+    "title": "Binary Subarrays With Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+        "problemId": "930"
+      }
+    ]
+  },
+  {
+    "id": "count-number-of-nice-subarrays",
+    "title": "Count Number of Nice Subarrays",
+    "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+        "problemId": "1248"
+      }
+    ]
+  },
+  {
+    "id": "find-all-anagrams-in-a-string",
+    "title": "Find All Anagrams in a String",
+    "leetcodeUrl": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+        "problemId": "438"
+      }
+    ]
+  },
+  {
+    "id": "fruit-into-baskets",
+    "title": "Fruit Into Baskets",
+    "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/fruit-into-baskets/",
+        "problemId": "904"
+      }
+    ]
+  },
+  {
+    "id": "get-equal-substrings-within-budget",
+    "title": "Get Equal Substrings Within Budget",
+    "leetcodeUrl": "https://leetcode.com/problems/get-equal-substrings-within-budget/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "binary-search",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/get-equal-substrings-within-budget/",
+        "problemId": "1208"
+      }
+    ]
+  },
+  {
+    "id": "grumpy-bookstore-owner",
+    "title": "Grumpy Bookstore Owner",
+    "leetcodeUrl": "https://leetcode.com/problems/grumpy-bookstore-owner/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/grumpy-bookstore-owner/",
+        "problemId": "1052"
+      }
+    ]
+  },
+  {
+    "id": "longest-repeating-character-replacement",
+    "title": "Longest Repeating Character Replacement",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+        "problemId": "424"
+      }
+    ]
+  },
+  {
+    "id": "longest-substring-with-at-least-k-repeating-characters",
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "divide-and-conquer",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/",
+        "problemId": "395"
+      }
+    ]
+  },
+  {
+    "id": "longest-substring-without-repeating-characters",
+    "title": "Longest Substring Without Repeating Characters",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "problemId": "3"
+      }
+    ]
+  },
+  {
+    "id": "max-consecutive-ones-iii",
+    "title": "Max Consecutive Ones III",
+    "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+        "problemId": "1004"
+      }
+    ]
+  },
+  {
+    "id": "maximum-number-of-occurrences-of-a-substring",
+    "title": "Maximum Number of Occurrences of a Substring",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/",
+        "problemId": "1297"
+      }
+    ]
+  },
+  {
+    "id": "maximum-number-of-vowels-in-a-substring-of-given-length",
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/",
+        "problemId": "1456"
+      }
+    ]
+  },
+  {
+    "id": "maximum-points-you-can-obtain-from-cards",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+        "problemId": "1423"
+      }
+    ]
+  },
+  {
+    "id": "minimum-size-subarray-sum",
+    "title": "Minimum Size Subarray Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+        "problemId": "209"
+      }
+    ]
+  },
+  {
+    "id": "moving-stones-until-consecutive-ii",
+    "title": "Moving Stones Until Consecutive II",
+    "leetcodeUrl": "https://leetcode.com/problems/moving-stones-until-consecutive-ii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "sliding-window",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/moving-stones-until-consecutive-ii/",
+        "problemId": "1040"
+      }
+    ]
+  }
+]

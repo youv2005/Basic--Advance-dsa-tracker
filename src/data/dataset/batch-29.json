@@ -1,0 +1,1390 @@
+[
+  {
+    "id": "valid-boomerang",
+    "title": "Valid Boomerang",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-boomerang/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/valid-boomerang/",
+        "problemId": "1037"
+      }
+    ]
+  },
+  {
+    "id": "x-of-a-kind-in-a-deck-of-cards",
+    "title": "X of a Kind in a Deck of Cards",
+    "leetcodeUrl": "https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "counting",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/",
+        "problemId": "914"
+      }
+    ]
+  },
+  {
+    "id": "alice-and-bob-playing-flower-game",
+    "title": "Alice and Bob Playing Flower Game",
+    "leetcodeUrl": "https://leetcode.com/problems/alice-and-bob-playing-flower-game/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/alice-and-bob-playing-flower-game/",
+        "problemId": "3021"
+      }
+    ]
+  },
+  {
+    "id": "angle-between-hands-of-a-clock",
+    "title": "Angle Between Hands of a Clock",
+    "leetcodeUrl": "https://leetcode.com/problems/angle-between-hands-of-a-clock/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/angle-between-hands-of-a-clock/",
+        "problemId": "1344"
+      }
+    ]
+  },
+  {
+    "id": "bulb-switcher",
+    "title": "Bulb Switcher",
+    "leetcodeUrl": "https://leetcode.com/problems/bulb-switcher/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "brainteaser"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/bulb-switcher/",
+        "problemId": "319"
+      }
+    ]
+  },
+  {
+    "id": "check-if-number-is-a-sum-of-powers-of-three",
+    "title": "Check if Number is a Sum of Powers of Three",
+    "leetcodeUrl": "https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/",
+        "problemId": "1780"
+      }
+    ]
+  },
+  {
+    "id": "circle-and-rectangle-overlapping",
+    "title": "Circle and Rectangle Overlapping",
+    "leetcodeUrl": "https://leetcode.com/problems/circle-and-rectangle-overlapping/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/circle-and-rectangle-overlapping/",
+        "problemId": "1401"
+      }
+    ]
+  },
+  {
+    "id": "closest-divisors",
+    "title": "Closest Divisors",
+    "leetcodeUrl": "https://leetcode.com/problems/closest-divisors/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/closest-divisors/",
+        "problemId": "1362"
+      }
+    ]
+  },
+  {
+    "id": "closest-prime-numbers-in-range",
+    "title": "Closest Prime Numbers in Range",
+    "leetcodeUrl": "https://leetcode.com/problems/closest-prime-numbers-in-range/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/closest-prime-numbers-in-range/",
+        "problemId": "2523"
+      }
+    ]
+  },
+  {
+    "id": "convert-to-base-2",
+    "title": "Convert to Base -2",
+    "leetcodeUrl": "https://leetcode.com/problems/convert-to-base-2/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/convert-to-base-2/",
+        "problemId": "1017"
+      }
+    ]
+  },
+  {
+    "id": "count-lattice-points-inside-a-circle",
+    "title": "Count Lattice Points Inside a Circle",
+    "leetcodeUrl": "https://leetcode.com/problems/count-lattice-points-inside-a-circle/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "geometry",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-lattice-points-inside-a-circle/",
+        "problemId": "2249"
+      }
+    ]
+  },
+  {
+    "id": "count-primes",
+    "title": "Count Primes",
+    "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "enumeration",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-primes/",
+        "problemId": "204"
+      }
+    ]
+  },
+  {
+    "id": "count-total-number-of-colored-cells",
+    "title": "Count Total Number of Colored Cells",
+    "leetcodeUrl": "https://leetcode.com/problems/count-total-number-of-colored-cells/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-total-number-of-colored-cells/",
+        "problemId": "2579"
+      }
+    ]
+  },
+  {
+    "id": "determine-if-a-cell-is-reachable-at-a-given-time",
+    "title": "Determine if a Cell Is Reachable at a Given Time",
+    "leetcodeUrl": "https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/",
+        "problemId": "2849"
+      }
+    ]
+  },
+  {
+    "id": "distinct-prime-factors-of-product-of-array",
+    "title": "Distinct Prime Factors of Product of Array",
+    "leetcodeUrl": "https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/",
+        "problemId": "2521"
+      }
+    ]
+  },
+  {
+    "id": "distribute-candies-among-children-ii",
+    "title": "Distribute Candies Among Children II",
+    "leetcodeUrl": "https://leetcode.com/problems/distribute-candies-among-children-ii/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Combinatorics",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "combinatorics",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/distribute-candies-among-children-ii/",
+        "problemId": "2929"
+      }
+    ]
+  },
+  {
+    "id": "factorial-trailing-zeroes",
+    "title": "Factorial Trailing Zeroes",
+    "leetcodeUrl": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+        "problemId": "172"
+      }
+    ]
+  },
+  {
+    "id": "find-the-count-of-numbers-which-are-not-special",
+    "title": "Find the Count of Numbers Which Are Not Special",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/",
+        "problemId": "3233"
+      }
+    ]
+  },
+  {
+    "id": "find-the-largest-area-of-square-inside-two-rectangles",
+    "title": "Find the Largest Area of Square Inside Two Rectangles",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/",
+        "problemId": "3047"
+      }
+    ]
+  },
+  {
+    "id": "find-the-maximum-factor-score-of-array",
+    "title": "Find the Maximum Factor Score of Array",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array/",
+        "problemId": "3334"
+      }
+    ]
+  },
+  {
+    "id": "find-triangular-sum-of-an-array",
+    "title": "Find Triangular Sum of an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/find-triangular-sum-of-an-array/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Combinatorics",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "simulation",
+      "combinatorics"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-triangular-sum-of-an-array/",
+        "problemId": "2221"
+      }
+    ]
+  },
+  {
+    "id": "generate-random-point-in-a-circle",
+    "title": "Generate Random Point in a Circle",
+    "leetcodeUrl": "https://leetcode.com/problems/generate-random-point-in-a-circle/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "geometry",
+      "rejection-sampling",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/generate-random-point-in-a-circle/",
+        "problemId": "478"
+      }
+    ]
+  },
+  {
+    "id": "implement-rand10-using-rand7",
+    "title": "Implement Rand10() Using Rand7()",
+    "leetcodeUrl": "https://leetcode.com/problems/implement-rand10-using-rand7/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "rejection-sampling",
+      "randomized",
+      "probability-and-statistics"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/implement-rand10-using-rand7/",
+        "problemId": "470"
+      }
+    ]
+  },
+  {
+    "id": "maximum-prime-difference",
+    "title": "Maximum Prime Difference",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-prime-difference/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-prime-difference/",
+        "problemId": "3115"
+      }
+    ]
+  },
+  {
+    "id": "minimum-area-rectangle-ii",
+    "title": "Minimum Area Rectangle II",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-area-rectangle-ii/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-area-rectangle-ii/",
+        "problemId": "963"
+      }
+    ]
+  },
+  {
+    "id": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+    "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/",
+        "problemId": "2654"
+      }
+    ]
+  },
+  {
+    "id": "minimum-operations-to-make-array-equal",
+    "title": "Minimum Operations to Make Array Equal",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-array-equal/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-array-equal/",
+        "problemId": "1551"
+      }
+    ]
+  },
+  {
+    "id": "mirror-reflection",
+    "title": "Mirror Reflection",
+    "leetcodeUrl": "https://leetcode.com/problems/mirror-reflection/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "geometry",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/mirror-reflection/",
+        "problemId": "858"
+      }
+    ]
+  },
+  {
+    "id": "most-frequent-prime",
+    "title": "Most Frequent Prime",
+    "leetcodeUrl": "https://leetcode.com/problems/most-frequent-prime/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "matrix",
+      "counting",
+      "enumeration",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/most-frequent-prime/",
+        "problemId": "3044"
+      }
+    ]
+  },
+  {
+    "id": "moving-stones-until-consecutive",
+    "title": "Moving Stones Until Consecutive",
+    "leetcodeUrl": "https://leetcode.com/problems/moving-stones-until-consecutive/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "brainteaser"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/moving-stones-until-consecutive/",
+        "problemId": "1033"
+      }
+    ]
+  },
+  {
+    "id": "number-of-burgers-with-no-waste-of-ingredients",
+    "title": "Number of Burgers with No Waste of Ingredients",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/",
+        "problemId": "1276"
+      }
+    ]
+  },
+  {
+    "id": "number-of-pairs-of-interchangeable-rectangles",
+    "title": "Number of Pairs of Interchangeable Rectangles",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "counting",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/",
+        "problemId": "2001"
+      }
+    ]
+  },
+  {
+    "id": "number-of-subarrays-with-gcd-equal-to-k",
+    "title": "Number of Subarrays With GCD Equal to K",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/",
+        "problemId": "2447"
+      }
+    ]
+  },
+  {
+    "id": "number-of-subarrays-with-lcm-equal-to-k",
+    "title": "Number of Subarrays With LCM Equal to K",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/",
+        "problemId": "2470"
+      }
+    ]
+  },
+  {
+    "id": "prime-pairs-with-target-sum",
+    "title": "Prime Pairs With Target Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/prime-pairs-with-target-sum/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "enumeration",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/prime-pairs-with-target-sum/",
+        "problemId": "2761"
+      }
+    ]
+  },
+  {
+    "id": "prime-palindrome",
+    "title": "Prime Palindrome",
+    "leetcodeUrl": "https://leetcode.com/problems/prime-palindrome/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/prime-palindrome/",
+        "problemId": "866"
+      }
+    ]
+  },
+  {
+    "id": "queries-on-number-of-points-inside-a-circle",
+    "title": "Queries on Number of Points Inside a Circle",
+    "leetcodeUrl": "https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/",
+        "problemId": "1828"
+      }
+    ]
+  },
+  {
+    "id": "rectangle-area",
+    "title": "Rectangle Area",
+    "leetcodeUrl": "https://leetcode.com/problems/rectangle-area/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/rectangle-area/",
+        "problemId": "223"
+      }
+    ]
+  },
+  {
+    "id": "reverse-integer",
+    "title": "Reverse Integer",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-integer/",
+        "problemId": "7"
+      }
+    ]
+  },
+  {
+    "id": "right-triangles",
+    "title": "Right Triangles",
+    "leetcodeUrl": "https://leetcode.com/problems/right-triangles/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Combinatorics",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "combinatorics",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/right-triangles/",
+        "problemId": "3128"
+      }
+    ]
+  },
+  {
+    "id": "simplified-fractions",
+    "title": "Simplified Fractions",
+    "leetcodeUrl": "https://leetcode.com/problems/simplified-fractions/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/simplified-fractions/",
+        "problemId": "1447"
+      }
+    ]
+  },
+  {
+    "id": "smallest-value-after-replacing-with-sum-of-prime-factors",
+    "title": "Smallest Value After Replacing With Sum of Prime Factors",
+    "leetcodeUrl": "https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "simulation",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/",
+        "problemId": "2507"
+      }
+    ]
+  },
+  {
+    "id": "statistics-from-a-large-sample",
+    "title": "Statistics from a Large Sample",
+    "leetcodeUrl": "https://leetcode.com/problems/statistics-from-a-large-sample/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "probability-and-statistics"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/statistics-from-a-large-sample/",
+        "problemId": "1093"
+      }
+    ]
+  },
+  {
+    "id": "super-pow",
+    "title": "Super Pow",
+    "leetcodeUrl": "https://leetcode.com/problems/super-pow/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "divide-and-conquer"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/super-pow/",
+        "problemId": "372"
+      }
+    ]
+  },
+  {
+    "id": "the-kth-factor-of-n",
+    "title": "The kth Factor of n",
+    "leetcodeUrl": "https://leetcode.com/problems/the-kth-factor-of-n/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/the-kth-factor-of-n/",
+        "problemId": "1492"
+      }
+    ]
+  },
+  {
+    "id": "valid-square",
+    "title": "Valid Square",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-square/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/valid-square/",
+        "problemId": "593"
+      }
+    ]
+  },
+  {
+    "id": "vowels-game-in-a-string",
+    "title": "Vowels Game in a String",
+    "leetcodeUrl": "https://leetcode.com/problems/vowels-game-in-a-string/",
+    "difficulty": "Medium",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "brainteaser",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/vowels-game-in-a-string/",
+        "problemId": "3227"
+      }
+    ]
+  },
+  {
+    "id": "abbreviating-the-product-of-a-range",
+    "title": "Abbreviating the Product of a Range",
+    "leetcodeUrl": "https://leetcode.com/problems/abbreviating-the-product-of-a-range/",
+    "difficulty": "Hard",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/abbreviating-the-product-of-a-range/",
+        "problemId": "2117"
+      }
+    ]
+  },
+  {
+    "id": "best-position-for-a-service-centre",
+    "title": "Best Position for a Service Centre",
+    "leetcodeUrl": "https://leetcode.com/problems/best-position-for-a-service-centre/",
+    "difficulty": "Hard",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "geometry",
+      "randomized"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/best-position-for-a-service-centre/",
+        "problemId": "1515"
+      }
+    ]
+  },
+  {
+    "id": "check-if-it-is-a-good-array",
+    "title": "Check If It Is a Good Array",
+    "leetcodeUrl": "https://leetcode.com/problems/check-if-it-is-a-good-array/",
+    "difficulty": "Hard",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/check-if-it-is-a-good-array/",
+        "problemId": "1250"
+      }
+    ]
+  }
+]

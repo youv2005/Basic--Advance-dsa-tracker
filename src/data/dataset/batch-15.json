@@ -1,0 +1,1439 @@
+[
+  {
+    "id": "restore-ip-addresses",
+    "title": "Restore IP Addresses",
+    "leetcodeUrl": "https://leetcode.com/problems/restore-ip-addresses/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/restore-ip-addresses/",
+        "problemId": "93"
+      }
+    ]
+  },
+  {
+    "id": "split-a-string-into-the-max-number-of-unique-substrings",
+    "title": "Split a String Into the Max Number of Unique Substrings",
+    "leetcodeUrl": "https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/",
+        "problemId": "1593"
+      }
+    ]
+  },
+  {
+    "id": "split-array-into-fibonacci-sequence",
+    "title": "Split Array into Fibonacci Sequence",
+    "leetcodeUrl": "https://leetcode.com/problems/split-array-into-fibonacci-sequence/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/split-array-into-fibonacci-sequence/",
+        "problemId": "842"
+      }
+    ]
+  },
+  {
+    "id": "splitting-a-string-into-descending-consecutive-values",
+    "title": "Splitting a String Into Descending Consecutive Values",
+    "leetcodeUrl": "https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "backtracking",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/",
+        "problemId": "1849"
+      }
+    ]
+  },
+  {
+    "id": "subsets",
+    "title": "Subsets",
+    "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/subsets/",
+        "problemId": "78"
+      }
+    ]
+  },
+  {
+    "id": "subsets-ii",
+    "title": "Subsets II",
+    "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/subsets-ii/",
+        "problemId": "90"
+      }
+    ]
+  },
+  {
+    "id": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+    "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+    "leetcodeUrl": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+    "difficulty": "Medium",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+        "problemId": "1415"
+      }
+    ]
+  },
+  {
+    "id": "24-game",
+    "title": "24 Game",
+    "leetcodeUrl": "https://leetcode.com/problems/24-game/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/24-game/",
+        "problemId": "679"
+      }
+    ]
+  },
+  {
+    "id": "expression-add-operators",
+    "title": "Expression Add Operators",
+    "leetcodeUrl": "https://leetcode.com/problems/expression-add-operators/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/expression-add-operators/",
+        "problemId": "282"
+      }
+    ]
+  },
+  {
+    "id": "longest-subsequence-repeated-k-times",
+    "title": "Longest Subsequence Repeated k Times",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-repeated-k-times/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "backtracking",
+      "greedy",
+      "counting",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-subsequence-repeated-k-times/",
+        "problemId": "2014"
+      }
+    ]
+  },
+  {
+    "id": "maximum-number-of-achievable-transfer-requests",
+    "title": "Maximum Number of Achievable Transfer Requests",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking",
+      "bit-manipulation",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/",
+        "problemId": "1601"
+      }
+    ]
+  },
+  {
+    "id": "n-queens",
+    "title": "N-Queens",
+    "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/n-queens/",
+        "problemId": "51"
+      }
+    ]
+  },
+  {
+    "id": "n-queens-ii",
+    "title": "N-Queens II",
+    "leetcodeUrl": "https://leetcode.com/problems/n-queens-ii/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Backtracking",
+    "tags": [
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/n-queens-ii/",
+        "problemId": "52"
+      }
+    ]
+  },
+  {
+    "id": "sudoku-solver",
+    "title": "Sudoku Solver",
+    "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "backtracking",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sudoku-solver/",
+        "problemId": "37"
+      }
+    ]
+  },
+  {
+    "id": "tiling-a-rectangle-with-the-fewest-squares",
+    "title": "Tiling a Rectangle with the Fewest Squares",
+    "leetcodeUrl": "https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Backtracking",
+    "tags": [
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/",
+        "problemId": "1240"
+      }
+    ]
+  },
+  {
+    "id": "unique-paths-iii",
+    "title": "Unique Paths III",
+    "leetcodeUrl": "https://leetcode.com/problems/unique-paths-iii/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "Combinations, Permutations & Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "backtracking",
+      "bit-manipulation",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/unique-paths-iii/",
+        "problemId": "980"
+      }
+    ]
+  },
+  {
+    "id": "verbal-arithmetic-puzzle",
+    "title": "Verbal Arithmetic Puzzle",
+    "leetcodeUrl": "https://leetcode.com/problems/verbal-arithmetic-puzzle/",
+    "difficulty": "Hard",
+    "level": "recursion-backtracking",
+    "levelName": "Recursion & Backtracking",
+    "category": "backtracking",
+    "categoryName": "Backtracking",
+    "subcategory": "String / Combination Search",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "string",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/verbal-arithmetic-puzzle/",
+        "problemId": "1307"
+      }
+    ]
+  },
+  {
+    "id": "count-complete-tree-nodes",
+    "title": "Count Complete Tree Nodes",
+    "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes/",
+    "difficulty": "Easy",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Binary Search",
+    "tags": [
+      "binary-search",
+      "bit-manipulation",
+      "tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-complete-tree-nodes/",
+        "problemId": "222"
+      }
+    ]
+  },
+  {
+    "id": "root-equals-sum-of-children",
+    "title": "Root Equals Sum of Children",
+    "leetcodeUrl": "https://leetcode.com/problems/root-equals-sum-of-children/",
+    "difficulty": "Easy",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/root-equals-sum-of-children/",
+        "problemId": "2236"
+      }
+    ]
+  },
+  {
+    "id": "all-possible-full-binary-trees",
+    "title": "All Possible Full Binary Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/all-possible-full-binary-trees/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming",
+      "tree",
+      "recursion",
+      "memoization",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/all-possible-full-binary-trees/",
+        "problemId": "894"
+      }
+    ]
+  },
+  {
+    "id": "construct-binary-tree-from-inorder-and-postorder-traversal",
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "divide-and-conquer",
+      "tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+        "problemId": "106"
+      }
+    ]
+  },
+  {
+    "id": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "divide-and-conquer",
+      "tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "problemId": "105"
+      }
+    ]
+  },
+  {
+    "id": "construct-binary-tree-from-preorder-and-postorder-traversal",
+    "title": "Construct Binary Tree from Preorder and Postorder Traversal",
+    "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "divide-and-conquer",
+      "tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/",
+        "problemId": "889"
+      }
+    ]
+  },
+  {
+    "id": "construct-quad-tree",
+    "title": "Construct Quad Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/construct-quad-tree/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "tree",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/construct-quad-tree/",
+        "problemId": "427"
+      }
+    ]
+  },
+  {
+    "id": "create-binary-tree-from-descriptions",
+    "title": "Create Binary Tree From Descriptions",
+    "leetcodeUrl": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+        "problemId": "2196"
+      }
+    ]
+  },
+  {
+    "id": "logical-or-of-two-binary-grids-represented-as-quad-trees",
+    "title": "Logical OR of Two Binary Grids Represented as Quad-Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Divide and Conquer",
+    "tags": [
+      "divide-and-conquer",
+      "tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/",
+        "problemId": "558"
+      }
+    ]
+  },
+  {
+    "id": "make-costs-of-paths-equal-in-a-binary-tree",
+    "title": "Make Costs of Paths Equal in a Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "greedy",
+      "tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/",
+        "problemId": "2673"
+      }
+    ]
+  },
+  {
+    "id": "maximum-binary-tree",
+    "title": "Maximum Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-binary-tree/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "stack",
+      "tree",
+      "monotonic-stack",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-binary-tree/",
+        "problemId": "654"
+      }
+    ]
+  },
+  {
+    "id": "maximum-binary-tree-ii",
+    "title": "Maximum Binary Tree II",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-binary-tree-ii/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-binary-tree-ii/",
+        "problemId": "998"
+      }
+    ]
+  },
+  {
+    "id": "path-in-zigzag-labelled-binary-tree",
+    "title": "Path In Zigzag Labelled Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/",
+        "problemId": "1104"
+      }
+    ]
+  },
+  {
+    "id": "verify-preorder-serialization-of-a-binary-tree",
+    "title": "Verify Preorder Serialization of a Binary Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack",
+      "tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/",
+        "problemId": "331"
+      }
+    ]
+  },
+  {
+    "id": "count-subtrees-with-max-distance-between-cities",
+    "title": "Count Subtrees With Max Distance Between Cities",
+    "leetcodeUrl": "https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/",
+    "difficulty": "Hard",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming",
+      "bit-manipulation",
+      "tree",
+      "enumeration",
+      "bitmask"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/",
+        "problemId": "1617"
+      }
+    ]
+  },
+  {
+    "id": "cycle-length-queries-in-a-tree",
+    "title": "Cycle Length Queries in a Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/cycle-length-queries-in-a-tree/",
+    "difficulty": "Hard",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/cycle-length-queries-in-a-tree/",
+        "problemId": "2509"
+      }
+    ]
+  },
+  {
+    "id": "find-the-maximum-sum-of-node-values",
+    "title": "Find the Maximum Sum of Node Values",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values/",
+    "difficulty": "Hard",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-trees",
+    "categoryName": "Binary Trees",
+    "subcategory": "Traversal & Tree Recursion",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "greedy",
+      "bit-manipulation",
+      "tree",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values/",
+        "problemId": "3068"
+      }
+    ]
+  },
+  {
+    "id": "convert-sorted-array-to-binary-search-tree",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+    "difficulty": "Easy",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-search-trees",
+    "categoryName": "Binary Search Trees",
+    "subcategory": "Binary Search Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "tree",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+        "problemId": "108"
+      }
+    ]
+  },
+  {
+    "id": "kth-largest-element-in-a-stream",
+    "title": "Kth Largest Element in a Stream",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+    "difficulty": "Easy",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-search-trees",
+    "categoryName": "Binary Search Trees",
+    "subcategory": "Binary Search Trees",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "design",
+      "binary-search-tree",
+      "heap-priority-queue",
+      "binary-tree",
+      "data-stream"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+        "problemId": "703"
+      }
+    ]
+  },
+  {
+    "id": "search-in-a-binary-search-tree",
+    "title": "Search in a Binary Search Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+    "difficulty": "Easy",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-search-trees",
+    "categoryName": "Binary Search Trees",
+    "subcategory": "Binary Search Trees",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+        "problemId": "700"
+      }
+    ]
+  },
+  {
+    "id": "binary-search-tree-iterator",
+    "title": "Binary Search Tree Iterator",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-iterator/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-search-trees",
+    "categoryName": "Binary Search Trees",
+    "subcategory": "Binary Search Trees",
+    "pattern": "Stack",
+    "tags": [
+      "stack",
+      "tree",
+      "design",
+      "binary-search-tree",
+      "binary-tree",
+      "iterator"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-search-tree-iterator/",
+        "problemId": "173"
+      }
+    ]
+  },
+  {
+    "id": "convert-sorted-list-to-binary-search-tree",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-search-trees",
+    "categoryName": "Binary Search Trees",
+    "subcategory": "Binary Search Trees",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "divide-and-conquer",
+      "tree",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/",
+        "problemId": "109"
+      }
+    ]
+  },
+  {
+    "id": "delete-node-in-a-bst",
+    "title": "Delete Node in a BST",
+    "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-bst/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-search-trees",
+    "categoryName": "Binary Search Trees",
+    "subcategory": "Binary Search Trees",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/delete-node-in-a-bst/",
+        "problemId": "450"
+      }
+    ]
+  },
+  {
+    "id": "insert-into-a-binary-search-tree",
+    "title": "Insert into a Binary Search Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-search-trees",
+    "categoryName": "Binary Search Trees",
+    "subcategory": "Binary Search Trees",
+    "pattern": "Tree",
+    "tags": [
+      "tree",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+        "problemId": "701"
+      }
+    ]
+  },
+  {
+    "id": "unique-binary-search-trees",
+    "title": "Unique Binary Search Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-search-trees",
+    "categoryName": "Binary Search Trees",
+    "subcategory": "Binary Search Trees",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "tree",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/unique-binary-search-trees/",
+        "problemId": "96"
+      }
+    ]
+  },
+  {
+    "id": "unique-binary-search-trees-ii",
+    "title": "Unique Binary Search Trees II",
+    "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees-ii/",
+    "difficulty": "Medium",
+    "level": "trees",
+    "levelName": "Trees",
+    "category": "binary-search-trees",
+    "categoryName": "Binary Search Trees",
+    "subcategory": "Binary Search Trees",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming",
+      "backtracking",
+      "tree",
+      "binary-search-tree",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/unique-binary-search-trees-ii/",
+        "problemId": "95"
+      }
+    ]
+  },
+  {
+    "id": "delete-greatest-value-in-each-row",
+    "title": "Delete Greatest Value in Each Row",
+    "leetcodeUrl": "https://leetcode.com/problems/delete-greatest-value-in-each-row/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sorting",
+      "heap-priority-queue",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/delete-greatest-value-in-each-row/",
+        "problemId": "2500"
+      }
+    ]
+  },
+  {
+    "id": "final-array-state-after-k-multiplication-operations-i",
+    "title": "Final Array State After K Multiplication Operations I",
+    "leetcodeUrl": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "heap-priority-queue",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/",
+        "problemId": "3264"
+      }
+    ]
+  },
+  {
+    "id": "find-subsequence-of-length-k-with-the-largest-sum",
+    "title": "Find Subsequence of Length K With the Largest Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/",
+        "problemId": "2099"
+      }
+    ]
+  },
+  {
+    "id": "find-x-sum-of-all-k-long-subarrays-i",
+    "title": "Find X-Sum of All K-Long Subarrays I",
+    "leetcodeUrl": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "sliding-window",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/",
+        "problemId": "3318"
+      }
+    ]
+  },
+  {
+    "id": "largest-number-after-digit-swaps-by-parity",
+    "title": "Largest Number After Digit Swaps by Parity",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Sorting",
+    "tags": [
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/",
+        "problemId": "2231"
+      }
+    ]
+  },
+  {
+    "id": "last-stone-weight",
+    "title": "Last Stone Weight",
+    "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/last-stone-weight/",
+        "problemId": "1046"
+      }
+    ]
+  },
+  {
+    "id": "make-array-zero-by-subtracting-equal-amounts",
+    "title": "Make Array Zero by Subtracting Equal Amounts",
+    "leetcodeUrl": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "greedy",
+      "sorting",
+      "heap-priority-queue",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/",
+        "problemId": "2357"
+      }
+    ]
+  }
+]

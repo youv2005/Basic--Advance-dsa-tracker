@@ -1,148 +1,5 @@
 [
   {
-    "id": "two-sum",
-    "title": "Two Sum",
-    "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Hashing Basics",
-    "pattern": "Hashing",
-    "tags": [
-      "hash-map",
-      "array"
-    ],
-    "companies": [
-      "Amazon",
-      "Google",
-      "Apple"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "fizz-buzz",
-    "title": "Fizz Buzz",
-    "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Fundamentals",
-    "pattern": "Simulation",
-    "tags": [
-      "math",
-      "string"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "palindrome-number",
-    "title": "Palindrome Number",
-    "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Math",
-    "pattern": "Math",
-    "tags": [
-      "math"
-    ],
-    "companies": [
-      "Amazon"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "roman-to-integer",
-    "title": "Roman to Integer",
-    "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "String Parsing",
-    "pattern": "Hashing",
-    "tags": [
-      "string",
-      "hash-map"
-    ],
-    "companies": [
-      "Amazon",
-      "Microsoft",
-      "Facebook"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "reverse-integer",
-    "title": "Reverse Integer",
-    "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
-    "difficulty": "Medium",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Math",
-    "pattern": "Math",
-    "tags": [
-      "math",
-      "overflow"
-    ],
-    "companies": [
-      "Amazon",
-      "Apple"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "plus-one",
-    "title": "Plus One",
-    "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Math",
-    "pattern": "Simulation",
-    "tags": [
-      "array",
-      "math"
-    ],
-    "companies": [
-      "Google",
-      "Amazon"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "sqrtx",
-    "title": "Sqrt(x)",
-    "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Binary Search Basics",
-    "pattern": "Binary Search",
-    "tags": [
-      "math",
-      "binary-search"
-    ],
-    "companies": [
-      "Bloomberg"
-    ],
-    "revisionLevel": 0
-  },
-  {
     "id": "add-binary",
     "title": "Add Binary",
     "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
@@ -150,271 +7,107 @@
     "level": "beginner",
     "levelName": "Beginner",
     "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Bit Manipulation Basics",
-    "pattern": "Simulation",
-    "tags": [
-      "string",
-      "bit-manip"
-    ],
-    "companies": [
-      "Facebook",
-      "Amazon"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "length-of-last-word",
-    "title": "Length of Last Word",
-    "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "String Parsing",
-    "pattern": "Iteration",
-    "tags": [
-      "string"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "excel-sheet-column-number",
-    "title": "Excel Sheet Column Number",
-    "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-number/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Math",
-    "pattern": "Base Conversion",
-    "tags": [
-      "math",
-      "string"
-    ],
-    "companies": [
-      "Microsoft"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "excel-sheet-column-title",
-    "title": "Excel Sheet Column Title",
-    "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Math",
-    "pattern": "Base Conversion",
-    "tags": [
-      "math",
-      "string"
-    ],
-    "companies": [
-      "Microsoft",
-      "Facebook"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "power-of-two",
-    "title": "Power of Two",
-    "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Bit Manipulation Basics",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "bit-manip",
-      "math"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "power-of-three",
-    "title": "Power of Three",
-    "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Math",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
     "pattern": "Math",
     "tags": [
       "math",
-      "recursion"
-    ],
-    "companies": [
-      "Google"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "power-of-four",
-    "title": "Power of Four",
-    "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Bit Manipulation Basics",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "bit-manip",
-      "math"
+      "string",
+      "bit-manipulation",
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/add-binary/",
+        "problemId": "67"
+      }
+    ]
   },
   {
-    "id": "happy-number",
-    "title": "Happy Number",
-    "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+    "id": "add-strings",
+    "title": "Add Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/add-strings/",
     "difficulty": "Easy",
     "level": "beginner",
     "levelName": "Beginner",
     "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Cycle Detection Basics",
-    "pattern": "Fast & Slow Pointer",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Math",
     "tags": [
       "math",
-      "hash-set"
+      "string",
+      "simulation"
     ],
-    "companies": [
-      "Amazon"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/add-strings/",
+        "problemId": "415"
+      }
+    ]
   },
   {
-    "id": "count-primes",
-    "title": "Count Primes",
-    "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
-    "difficulty": "Medium",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Sieve",
-    "pattern": "Sieve of Eratosthenes",
-    "tags": [
-      "math"
-    ],
-    "companies": [
-      "LinkedIn"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "ugly-number",
-    "title": "Ugly Number",
-    "leetcodeUrl": "https://leetcode.com/problems/ugly-number/",
+    "id": "base-7",
+    "title": "Base 7",
+    "leetcodeUrl": "https://leetcode.com/problems/base-7/",
     "difficulty": "Easy",
     "level": "beginner",
     "levelName": "Beginner",
     "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Math",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/base-7/",
+        "problemId": "504"
+      }
+    ]
+  },
+  {
+    "id": "construct-the-rectangle",
+    "title": "Construct the Rectangle",
+    "leetcodeUrl": "https://leetcode.com/problems/construct-the-rectangle/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
     "pattern": "Math",
     "tags": [
       "math"
     ],
     "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "missing-number",
-    "title": "Missing Number",
-    "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Math",
-    "pattern": "XOR",
-    "tags": [
-      "array",
-      "bit-manip",
-      "math"
-    ],
-    "companies": [
-      "Amazon",
-      "Microsoft"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "find-the-difference",
-    "title": "Find the Difference",
-    "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Hashing Basics",
-    "pattern": "XOR",
-    "tags": [
-      "string",
-      "bit-manip"
-    ],
-    "companies": [
-      "Google"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "single-number",
-    "title": "Single Number",
-    "leetcodeUrl": "https://leetcode.com/problems/single-number/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Bit Manipulation Basics",
-    "pattern": "XOR",
-    "tags": [
-      "array",
-      "bit-manip"
-    ],
-    "companies": [
-      "Amazon",
-      "Airbnb"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "majority-element",
-    "title": "Majority Element",
-    "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
-    "difficulty": "Easy",
-    "level": "beginner",
-    "levelName": "Beginner",
-    "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Voting",
-    "pattern": "Boyer-Moore Voting",
-    "tags": [
-      "array"
-    ],
-    "companies": [
-      "Amazon",
-      "Zenefits"
-    ],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/construct-the-rectangle/",
+        "problemId": "492"
+      }
+    ]
   },
   {
     "id": "contains-duplicate",
@@ -424,604 +117,1237 @@
     "level": "beginner",
     "levelName": "Beginner",
     "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Hashing Basics",
-    "pattern": "Hashing",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
     "tags": [
       "array",
-      "hash-set"
+      "hash-table",
+      "sorting"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/contains-duplicate/",
+        "problemId": "217"
+      }
+    ]
   },
   {
-    "id": "pascals-triangle",
-    "title": "Pascal's Triangle",
-    "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
+    "id": "convert-a-number-to-hexadecimal",
+    "title": "Convert a Number to Hexadecimal",
+    "leetcodeUrl": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
     "difficulty": "Easy",
     "level": "beginner",
     "levelName": "Beginner",
     "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Simulation",
-    "pattern": "Dynamic Programming",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Math",
     "tags": [
-      "array",
-      "math"
+      "math",
+      "string",
+      "bit-manipulation"
     ],
-    "companies": [
-      "Amazon",
-      "Apple"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+        "problemId": "405"
+      }
+    ]
   },
   {
-    "id": "climbing-stairs",
-    "title": "Climbing Stairs",
-    "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+    "id": "detect-capital",
+    "title": "Detect Capital",
+    "leetcodeUrl": "https://leetcode.com/problems/detect-capital/",
     "difficulty": "Easy",
     "level": "beginner",
     "levelName": "Beginner",
     "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Intro DP",
-    "pattern": "Dynamic Programming",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "String",
     "tags": [
-      "dp",
-      "fibonacci"
+      "string"
     ],
-    "companies": [
-      "Adobe",
-      "Amazon"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/detect-capital/",
+        "problemId": "520"
+      }
+    ]
   },
   {
-    "id": "best-time-to-buy-and-sell-stock",
-    "title": "Best Time to Buy and Sell Stock",
-    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "id": "excel-sheet-column-number",
+    "title": "Excel Sheet Column Number",
+    "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-number/",
     "difficulty": "Easy",
     "level": "beginner",
     "levelName": "Beginner",
     "category": "basics",
-    "categoryName": "Basics",
-    "subcategory": "Greedy Basics",
-    "pattern": "One Pass Greedy",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Math",
     "tags": [
-      "array",
-      "greedy"
+      "math",
+      "string"
     ],
-    "companies": [
-      "Amazon",
-      "Bloomberg",
-      "Facebook"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/excel-sheet-column-number/",
+        "problemId": "171"
+      }
+    ]
   },
   {
-    "id": "maximum-subarray",
-    "title": "Maximum Subarray",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Kadane's Algorithm",
-    "pattern": "Dynamic Programming",
+    "id": "excel-sheet-column-title",
+    "title": "Excel Sheet Column Title",
+    "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Math",
     "tags": [
-      "array",
-      "dp",
-      "kadane"
+      "math",
+      "string"
     ],
-    "companies": [
-      "Amazon",
-      "Microsoft",
-      "LinkedIn"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/excel-sheet-column-title/",
+        "problemId": "168"
+      }
+    ]
   },
   {
-    "id": "product-of-array-except-self",
-    "title": "Product of Array Except Self",
-    "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Prefix/Suffix Products",
-    "pattern": "Prefix Sum",
+    "id": "find-all-numbers-disappeared-in-an-array",
+    "title": "Find All Numbers Disappeared in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+        "problemId": "448"
+      }
+    ]
+  },
+  {
+    "id": "find-the-difference",
+    "title": "Find the Difference",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "bit-manipulation",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-difference/",
+        "problemId": "389"
+      }
+    ]
+  },
+  {
+    "id": "fizz-buzz",
+    "title": "Fizz Buzz",
+    "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/fizz-buzz/",
+        "problemId": "412"
+      }
+    ]
+  },
+  {
+    "id": "hamming-distance",
+    "title": "Hamming Distance",
+    "leetcodeUrl": "https://leetcode.com/problems/hamming-distance/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/hamming-distance/",
+        "problemId": "461"
+      }
+    ]
+  },
+  {
+    "id": "happy-number",
+    "title": "Happy Number",
+    "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "math",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/happy-number/",
+        "problemId": "202"
+      }
+    ]
+  },
+  {
+    "id": "isomorphic-strings",
+    "title": "Isomorphic Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/isomorphic-strings/",
+        "problemId": "205"
+      }
+    ]
+  },
+  {
+    "id": "keyboard-row",
+    "title": "Keyboard Row",
+    "leetcodeUrl": "https://leetcode.com/problems/keyboard-row/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/keyboard-row/",
+        "problemId": "500"
+      }
+    ]
+  },
+  {
+    "id": "length-of-last-word",
+    "title": "Length of Last Word",
+    "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/length-of-last-word/",
+        "problemId": "58"
+      }
+    ]
+  },
+  {
+    "id": "license-key-formatting",
+    "title": "License Key Formatting",
+    "leetcodeUrl": "https://leetcode.com/problems/license-key-formatting/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/license-key-formatting/",
+        "problemId": "482"
+      }
+    ]
+  },
+  {
+    "id": "longest-uncommon-subsequence-i",
+    "title": "Longest Uncommon Subsequence I",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-uncommon-subsequence-i/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-uncommon-subsequence-i/",
+        "problemId": "521"
+      }
+    ]
+  },
+  {
+    "id": "max-consecutive-ones",
+    "title": "Max Consecutive Ones",
+    "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
     "tags": [
       "array"
     ],
-    "companies": [
-      "Amazon",
-      "Facebook",
-      "Microsoft"
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/max-consecutive-ones/",
+        "problemId": "485"
+      }
+    ]
+  },
+  {
+    "id": "merge-sorted-array",
+    "title": "Merge Sorted Array",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "sorting"
     ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/merge-sorted-array/",
+        "problemId": "88"
+      }
+    ]
   },
   {
     "id": "move-zeroes",
     "title": "Move Zeroes",
     "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
     "difficulty": "Easy",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Two Pointer",
-    "pattern": "Two Pointer",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
     "tags": [
       "array",
-      "two-pointer"
+      "two-pointers"
     ],
-    "companies": [
-      "Facebook",
-      "Amazon"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/move-zeroes/",
+        "problemId": "283"
+      }
+    ]
   },
   {
-    "id": "rotate-array",
-    "title": "Rotate Array",
-    "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Array Rotation",
-    "pattern": "Reversal",
+    "id": "number-complement",
+    "title": "Number Complement",
+    "leetcodeUrl": "https://leetcode.com/problems/number-complement/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Bit Manipulation",
     "tags": [
-      "array"
+      "bit-manipulation"
     ],
-    "companies": [
-      "Microsoft",
-      "Amazon"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-complement/",
+        "problemId": "476"
+      }
+    ]
   },
   {
-    "id": "two-sum-ii-input-array-is-sorted",
-    "title": "Two Sum II - Input Array Is Sorted",
-    "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Two Pointer",
-    "pattern": "Two Pointer",
+    "id": "number-of-segments-in-a-string",
+    "title": "Number of Segments in a String",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-segments-in-a-string/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "String",
     "tags": [
-      "array",
-      "two-pointer"
+      "string"
     ],
-    "companies": [
-      "Amazon"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-segments-in-a-string/",
+        "problemId": "434"
+      }
+    ]
   },
   {
-    "id": "3sum",
-    "title": "3Sum",
-    "leetcodeUrl": "https://leetcode.com/problems/3sum/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Two Pointer",
-    "pattern": "Two Pointer",
+    "id": "palindrome-number",
+    "title": "Palindrome Number",
+    "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Math",
     "tags": [
-      "array",
-      "two-pointer",
-      "sorting"
+      "math"
     ],
-    "companies": [
-      "Amazon",
-      "Facebook",
-      "Microsoft"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/palindrome-number/",
+        "problemId": "9"
+      }
+    ]
   },
   {
-    "id": "3sum-closest",
-    "title": "3Sum Closest",
-    "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Two Pointer",
-    "pattern": "Two Pointer",
+    "id": "perfect-number",
+    "title": "Perfect Number",
+    "leetcodeUrl": "https://leetcode.com/problems/perfect-number/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Math",
     "tags": [
-      "array",
-      "two-pointer"
+      "math"
     ],
-    "companies": [
-      "Amazon"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/perfect-number/",
+        "problemId": "507"
+      }
+    ]
   },
   {
-    "id": "4sum",
-    "title": "4Sum",
-    "leetcodeUrl": "https://leetcode.com/problems/4sum/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Two Pointer",
-    "pattern": "Two Pointer",
-    "tags": [
-      "array",
-      "two-pointer"
-    ],
-    "companies": [
-      "Amazon"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "container-with-most-water",
-    "title": "Container With Most Water",
-    "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Two Pointer",
-    "pattern": "Two Pointer",
-    "tags": [
-      "array",
-      "two-pointer",
-      "greedy"
-    ],
-    "companies": [
-      "Amazon",
-      "Bloomberg",
-      "Adobe"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "trapping-rain-water",
-    "title": "Trapping Rain Water",
-    "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
-    "difficulty": "Hard",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Two Pointer",
-    "pattern": "Two Pointer",
+    "id": "plus-one",
+    "title": "Plus One",
+    "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
     "tags": [
       "array",
-      "stack",
-      "two-pointer"
+      "math"
     ],
-    "companies": [
-      "Amazon",
-      "Google",
-      "Goldman Sachs"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/plus-one/",
+        "problemId": "66"
+      }
+    ]
   },
   {
-    "id": "next-permutation",
-    "title": "Next Permutation",
-    "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Simulation",
-    "pattern": "Greedy",
+    "id": "ransom-note",
+    "title": "Ransom Note",
+    "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Hash Table",
     "tags": [
-      "array"
+      "hash-table",
+      "string",
+      "counting"
     ],
-    "companies": [
-      "Facebook",
-      "Amazon"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/ransom-note/",
+        "problemId": "383"
+      }
+    ]
   },
   {
-    "id": "find-minimum-in-rotated-sorted-array",
-    "title": "Find Minimum in Rotated Sorted Array",
-    "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Rotated Array",
-    "pattern": "Binary Search",
-    "tags": [
-      "array",
-      "binary-search"
-    ],
-    "companies": [
-      "Amazon",
-      "Microsoft"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "search-in-rotated-sorted-array",
-    "title": "Search in Rotated Sorted Array",
-    "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Rotated Array",
-    "pattern": "Binary Search",
+    "id": "remove-duplicates-from-sorted-array",
+    "title": "Remove Duplicates from Sorted Array",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
     "tags": [
       "array",
-      "binary-search"
+      "two-pointers"
     ],
-    "companies": [
-      "Amazon",
-      "Facebook",
-      "Microsoft"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "problemId": "26"
+      }
+    ]
   },
   {
-    "id": "merge-intervals",
-    "title": "Merge Intervals",
-    "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Intervals",
-    "pattern": "Sorting",
+    "id": "remove-element",
+    "title": "Remove Element",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
     "tags": [
       "array",
-      "sorting",
-      "intervals"
+      "two-pointers"
     ],
-    "companies": [
-      "Facebook",
-      "Amazon",
-      "Google"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-element/",
+        "problemId": "27"
+      }
+    ]
   },
   {
-    "id": "insert-interval",
-    "title": "Insert Interval",
-    "leetcodeUrl": "https://leetcode.com/problems/insert-interval/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Intervals",
-    "pattern": "Sorting",
+    "id": "reverse-string",
+    "title": "Reverse String",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-string/",
+        "problemId": "344"
+      }
+    ]
+  },
+  {
+    "id": "reverse-string-ii",
+    "title": "Reverse String II",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-string-ii/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-string-ii/",
+        "problemId": "541"
+      }
+    ]
+  },
+  {
+    "id": "reverse-vowels-of-a-string",
+    "title": "Reverse Vowels of a String",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+        "problemId": "345"
+      }
+    ]
+  },
+  {
+    "id": "reverse-words-in-a-string-iii",
+    "title": "Reverse Words in a String III",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string-iii/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string-iii/",
+        "problemId": "557"
+      }
+    ]
+  },
+  {
+    "id": "roman-to-integer",
+    "title": "Roman to Integer",
+    "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "math",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/roman-to-integer/",
+        "problemId": "13"
+      }
+    ]
+  },
+  {
+    "id": "single-number",
+    "title": "Single Number",
+    "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
     "tags": [
       "array",
-      "intervals"
+      "bit-manipulation"
     ],
-    "companies": [
-      "Google",
-      "LinkedIn"
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/single-number/",
+        "problemId": "136"
+      }
+    ]
+  },
+  {
+    "id": "student-attendance-record-i",
+    "title": "Student Attendance Record I",
+    "leetcodeUrl": "https://leetcode.com/problems/student-attendance-record-i/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "String",
+    "tags": [
+      "string"
     ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/student-attendance-record-i/",
+        "problemId": "551"
+      }
+    ]
   },
   {
     "id": "summary-ranges",
     "title": "Summary Ranges",
     "leetcodeUrl": "https://leetcode.com/problems/summary-ranges/",
     "difficulty": "Easy",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Intervals",
-    "pattern": "Iteration",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
     "tags": [
       "array"
     ],
-    "companies": [
-      "Google"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/summary-ranges/",
+        "problemId": "228"
+      }
+    ]
   },
   {
-    "id": "spiral-matrix",
-    "title": "Spiral Matrix",
-    "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Matrix Traversal",
-    "pattern": "Simulation",
+    "id": "teemo-attacking",
+    "title": "Teemo Attacking",
+    "leetcodeUrl": "https://leetcode.com/problems/teemo-attacking/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
     "tags": [
       "array",
-      "matrix"
+      "simulation"
     ],
-    "companies": [
-      "Amazon",
-      "Microsoft"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/teemo-attacking/",
+        "problemId": "495"
+      }
+    ]
   },
   {
-    "id": "rotate-image",
-    "title": "Rotate Image",
-    "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Matrix Traversal",
-    "pattern": "In-place Transformation",
+    "id": "third-maximum-number",
+    "title": "Third Maximum Number",
+    "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
     "tags": [
       "array",
-      "matrix"
+      "sorting"
     ],
-    "companies": [
-      "Amazon",
-      "Microsoft",
-      "Apple"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/third-maximum-number/",
+        "problemId": "414"
+      }
+    ]
   },
   {
-    "id": "set-matrix-zeroes",
-    "title": "Set Matrix Zeroes",
-    "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Matrix Traversal",
-    "pattern": "In-place Transformation",
+    "id": "two-sum",
+    "title": "Two Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Array",
     "tags": [
       "array",
-      "matrix"
+      "hash-table"
     ],
-    "companies": [
-      "Amazon",
-      "Facebook"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/two-sum/",
+        "problemId": "1"
+      }
+    ]
   },
   {
-    "id": "game-of-life",
-    "title": "Game of Life",
-    "leetcodeUrl": "https://leetcode.com/problems/game-of-life/",
-    "difficulty": "Medium",
+    "id": "ugly-number",
+    "title": "Ugly Number",
+    "leetcodeUrl": "https://leetcode.com/problems/ugly-number/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/ugly-number/",
+        "problemId": "263"
+      }
+    ]
+  },
+  {
+    "id": "valid-anagram",
+    "title": "Valid Anagram",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/valid-anagram/",
+        "problemId": "242"
+      }
+    ]
+  },
+  {
+    "id": "valid-palindrome",
+    "title": "Valid Palindrome",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/valid-palindrome/",
+        "problemId": "125"
+      }
+    ]
+  },
+  {
+    "id": "word-pattern",
+    "title": "Word Pattern",
+    "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+    "difficulty": "Easy",
+    "level": "beginner",
+    "levelName": "Beginner",
+    "category": "basics",
+    "categoryName": "Foundations & Basics",
+    "subcategory": "Foundations & Basics",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/word-pattern/",
+        "problemId": "290"
+      }
+    ]
+  },
+  {
+    "id": "1-bit-and-2-bit-characters",
+    "title": "1-bit and 2-bit Characters",
+    "leetcodeUrl": "https://leetcode.com/problems/1-bit-and-2-bit-characters/",
+    "difficulty": "Easy",
     "level": "fundamental-ds",
     "levelName": "Fundamental Data Structures",
     "category": "arrays",
     "categoryName": "Arrays",
-    "subcategory": "Matrix Traversal",
-    "pattern": "Simulation",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/1-bit-and-2-bit-characters/",
+        "problemId": "717"
+      }
+    ]
+  },
+  {
+    "id": "add-to-array-form-of-integer",
+    "title": "Add to Array-Form of Integer",
+    "leetcodeUrl": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+        "problemId": "989"
+      }
+    ]
+  },
+  {
+    "id": "available-captures-for-rook",
+    "title": "Available Captures for Rook",
+    "leetcodeUrl": "https://leetcode.com/problems/available-captures-for-rook/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
     "tags": [
       "array",
       "matrix",
       "simulation"
     ],
-    "companies": [
-      "Google",
-      "Snapchat",
-      "Dropbox"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/available-captures-for-rook/",
+        "problemId": "999"
+      }
+    ]
   },
   {
-    "id": "first-missing-positive",
-    "title": "First Missing Positive",
-    "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
-    "difficulty": "Hard",
+    "id": "build-array-from-permutation",
+    "title": "Build Array from Permutation",
+    "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+    "difficulty": "Easy",
     "level": "fundamental-ds",
     "levelName": "Fundamental Data Structures",
     "category": "arrays",
     "categoryName": "Arrays",
-    "subcategory": "In-place Hashing",
-    "pattern": "Cyclic Sort",
-    "tags": [
-      "array"
-    ],
-    "companies": [
-      "Amazon",
-      "Microsoft"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "subarray-sum-equals-k",
-    "title": "Subarray Sum Equals K",
-    "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Prefix Sum",
-    "pattern": "Prefix Sum",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
     "tags": [
       "array",
-      "hash-map",
-      "prefix-sum"
-    ],
-    "companies": [
-      "Facebook",
-      "Amazon"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "maximum-product-subarray",
-    "title": "Maximum Product Subarray",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "Kadane's Algorithm",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "array",
-      "dp"
-    ],
-    "companies": [
-      "Amazon",
-      "LinkedIn"
-    ],
-    "revisionLevel": 0
-  },
-  {
-    "id": "find-all-duplicates-in-an-array",
-    "title": "Find All Duplicates in an Array",
-    "leetcodeUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
-    "difficulty": "Medium",
-    "level": "fundamental-ds",
-    "levelName": "Fundamental Data Structures",
-    "category": "arrays",
-    "categoryName": "Arrays",
-    "subcategory": "In-place Hashing",
-    "pattern": "Cyclic Sort",
-    "tags": [
-      "array"
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/build-array-from-permutation/",
+        "problemId": "1920"
+      }
+    ]
   },
   {
-    "id": "majority-element-ii",
-    "title": "Majority Element II",
-    "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
-    "difficulty": "Medium",
+    "id": "cells-with-odd-values-in-a-matrix",
+    "title": "Cells with Odd Values in a Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/",
+    "difficulty": "Easy",
     "level": "fundamental-ds",
     "levelName": "Fundamental Data Structures",
     "category": "arrays",
     "categoryName": "Arrays",
-    "subcategory": "Voting",
-    "pattern": "Boyer-Moore Voting",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
     "tags": [
-      "array"
+      "array",
+      "math",
+      "simulation"
     ],
-    "companies": [
-      "Amazon"
-    ],
-    "revisionLevel": 0
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/",
+        "problemId": "1252"
+      }
+    ]
   }
 ]

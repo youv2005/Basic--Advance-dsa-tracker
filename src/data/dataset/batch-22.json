@@ -1,0 +1,1410 @@
+[
+  {
+    "id": "number-of-possible-sets-of-closing-branches",
+    "title": "Number of Possible Sets of Closing Branches",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "bit-manipulation",
+      "graph",
+      "heap-priority-queue",
+      "enumeration",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/",
+        "problemId": "2959"
+      }
+    ]
+  },
+  {
+    "id": "reachable-nodes-in-subdivided-graph",
+    "title": "Reachable Nodes In Subdivided Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Graph",
+    "tags": [
+      "graph",
+      "heap-priority-queue",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/",
+        "problemId": "882"
+      }
+    ]
+  },
+  {
+    "id": "second-minimum-time-to-reach-destination",
+    "title": "Second Minimum Time to Reach Destination",
+    "leetcodeUrl": "https://leetcode.com/problems/second-minimum-time-to-reach-destination/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "shortest-path",
+    "categoryName": "Shortest Path Algorithms",
+    "subcategory": "Shortest Path Algorithms",
+    "pattern": "Breadth-First Search",
+    "tags": [
+      "breadth-first-search",
+      "graph",
+      "shortest-path"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/second-minimum-time-to-reach-destination/",
+        "problemId": "2045"
+      }
+    ]
+  },
+  {
+    "id": "min-cost-to-connect-all-points",
+    "title": "Min Cost to Connect All Points",
+    "leetcodeUrl": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+    "difficulty": "Medium",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "mst",
+    "categoryName": "Minimum Spanning Trees",
+    "subcategory": "Minimum Spanning Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "union-find",
+      "graph",
+      "minimum-spanning-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+        "problemId": "1584"
+      }
+    ]
+  },
+  {
+    "id": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+    "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "mst",
+    "categoryName": "Minimum Spanning Trees",
+    "subcategory": "Minimum Spanning Trees",
+    "pattern": "Union Find",
+    "tags": [
+      "union-find",
+      "graph",
+      "sorting",
+      "minimum-spanning-tree",
+      "strongly-connected-component"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/",
+        "problemId": "1489"
+      }
+    ]
+  },
+  {
+    "id": "maximize-spanning-tree-stability-with-upgrades",
+    "title": "Maximize Spanning Tree Stability with Upgrades",
+    "leetcodeUrl": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "mst",
+    "categoryName": "Minimum Spanning Trees",
+    "subcategory": "Minimum Spanning Trees",
+    "pattern": "Binary Search",
+    "tags": [
+      "binary-search",
+      "greedy",
+      "union-find",
+      "graph",
+      "minimum-spanning-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/",
+        "problemId": "3600"
+      }
+    ]
+  },
+  {
+    "id": "cracking-the-safe",
+    "title": "Cracking the Safe",
+    "leetcodeUrl": "https://leetcode.com/problems/cracking-the-safe/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Advanced Graph Algorithms",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "graph",
+      "eulerian-circuit"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/cracking-the-safe/",
+        "problemId": "753"
+      }
+    ]
+  },
+  {
+    "id": "critical-connections-in-a-network",
+    "title": "Critical Connections in a Network",
+    "leetcodeUrl": "https://leetcode.com/problems/critical-connections-in-a-network/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Advanced Graph Algorithms",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "graph",
+      "biconnected-component"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/critical-connections-in-a-network/",
+        "problemId": "1192"
+      }
+    ]
+  },
+  {
+    "id": "minimum-edge-weight-equilibrium-queries-in-a-tree",
+    "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Advanced Graph Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "tree",
+      "graph",
+      "strongly-connected-component"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/",
+        "problemId": "2846"
+      }
+    ]
+  },
+  {
+    "id": "minimum-number-of-days-to-disconnect-island",
+    "title": "Minimum Number of Days to Disconnect Island",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Advanced Graph Algorithms",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "depth-first-search",
+      "breadth-first-search",
+      "matrix",
+      "strongly-connected-component"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/",
+        "problemId": "1568"
+      }
+    ]
+  },
+  {
+    "id": "reconstruct-itinerary",
+    "title": "Reconstruct Itinerary",
+    "leetcodeUrl": "https://leetcode.com/problems/reconstruct-itinerary/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Advanced Graph Algorithms",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "graph",
+      "eulerian-circuit"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reconstruct-itinerary/",
+        "problemId": "332"
+      }
+    ]
+  },
+  {
+    "id": "valid-arrangement-of-pairs",
+    "title": "Valid Arrangement of Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-arrangement-of-pairs/",
+    "difficulty": "Hard",
+    "level": "graphs",
+    "levelName": "Graphs",
+    "category": "advanced-graphs",
+    "categoryName": "Advanced Graph Algorithms",
+    "subcategory": "Advanced Graph Algorithms",
+    "pattern": "Depth-First Search",
+    "tags": [
+      "depth-first-search",
+      "graph",
+      "eulerian-circuit"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/valid-arrangement-of-pairs/",
+        "problemId": "2097"
+      }
+    ]
+  },
+  {
+    "id": "best-time-to-buy-and-sell-stock",
+    "title": "Best Time to Buy and Sell Stock",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "difficulty": "Easy",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "DP on Stocks",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "problemId": "121"
+      }
+    ]
+  },
+  {
+    "id": "climbing-stairs",
+    "title": "Climbing Stairs",
+    "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+    "difficulty": "Easy",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "memoization"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/climbing-stairs/",
+        "problemId": "70"
+      }
+    ]
+  },
+  {
+    "id": "counting-bits",
+    "title": "Counting Bits",
+    "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+    "difficulty": "Easy",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/counting-bits/",
+        "problemId": "338"
+      }
+    ]
+  },
+  {
+    "id": "divisor-game",
+    "title": "Divisor Game",
+    "leetcodeUrl": "https://leetcode.com/problems/divisor-game/",
+    "difficulty": "Easy",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "brainteaser",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/divisor-game/",
+        "problemId": "1025"
+      }
+    ]
+  },
+  {
+    "id": "fibonacci-number",
+    "title": "Fibonacci Number",
+    "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+    "difficulty": "Easy",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "recursion",
+      "memoization"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/fibonacci-number/",
+        "problemId": "509"
+      }
+    ]
+  },
+  {
+    "id": "is-subsequence",
+    "title": "Is Subsequence",
+    "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+    "difficulty": "Easy",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/is-subsequence/",
+        "problemId": "392"
+      }
+    ]
+  },
+  {
+    "id": "longest-unequal-adjacent-groups-subsequence-i",
+    "title": "Longest Unequal Adjacent Groups Subsequence I",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/",
+    "difficulty": "Easy",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "dynamic-programming",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/",
+        "problemId": "2900"
+      }
+    ]
+  },
+  {
+    "id": "maximum-repeating-substring",
+    "title": "Maximum Repeating Substring",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-repeating-substring/",
+    "difficulty": "Easy",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming",
+      "string-matching"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-repeating-substring/",
+        "problemId": "1668"
+      }
+    ]
+  },
+  {
+    "id": "min-cost-climbing-stairs",
+    "title": "Min Cost Climbing Stairs",
+    "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+    "difficulty": "Easy",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+        "problemId": "746"
+      }
+    ]
+  },
+  {
+    "id": "n-th-tribonacci-number",
+    "title": "N-th Tribonacci Number",
+    "leetcodeUrl": "https://leetcode.com/problems/n-th-tribonacci-number/",
+    "difficulty": "Easy",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "memoization"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/n-th-tribonacci-number/",
+        "problemId": "1137"
+      }
+    ]
+  },
+  {
+    "id": "pascals-triangle",
+    "title": "Pascal's Triangle",
+    "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
+    "difficulty": "Easy",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/pascals-triangle/",
+        "problemId": "118"
+      }
+    ]
+  },
+  {
+    "id": "pascals-triangle-ii",
+    "title": "Pascal's Triangle II",
+    "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
+    "difficulty": "Easy",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/pascals-triangle-ii/",
+        "problemId": "119"
+      }
+    ]
+  },
+  {
+    "id": "2-keys-keyboard",
+    "title": "2 Keys Keyboard",
+    "leetcodeUrl": "https://leetcode.com/problems/2-keys-keyboard/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/2-keys-keyboard/",
+        "problemId": "650"
+      }
+    ]
+  },
+  {
+    "id": "airplane-seat-assignment-probability",
+    "title": "Airplane Seat Assignment Probability",
+    "leetcodeUrl": "https://leetcode.com/problems/airplane-seat-assignment-probability/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "brainteaser",
+      "probability-and-statistics"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/airplane-seat-assignment-probability/",
+        "problemId": "1227"
+      }
+    ]
+  },
+  {
+    "id": "arithmetic-slices",
+    "title": "Arithmetic Slices",
+    "leetcodeUrl": "https://leetcode.com/problems/arithmetic-slices/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/arithmetic-slices/",
+        "problemId": "413"
+      }
+    ]
+  },
+  {
+    "id": "beautiful-arrangement",
+    "title": "Beautiful Arrangement",
+    "leetcodeUrl": "https://leetcode.com/problems/beautiful-arrangement/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "backtracking",
+      "bit-manipulation",
+      "bitmask"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/beautiful-arrangement/",
+        "problemId": "526"
+      }
+    ]
+  },
+  {
+    "id": "best-sightseeing-pair",
+    "title": "Best Sightseeing Pair",
+    "leetcodeUrl": "https://leetcode.com/problems/best-sightseeing-pair/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/best-sightseeing-pair/",
+        "problemId": "1014"
+      }
+    ]
+  },
+  {
+    "id": "best-team-with-no-conflicts",
+    "title": "Best Team With No Conflicts",
+    "leetcodeUrl": "https://leetcode.com/problems/best-team-with-no-conflicts/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/best-team-with-no-conflicts/",
+        "problemId": "1626"
+      }
+    ]
+  },
+  {
+    "id": "best-time-to-buy-and-sell-stock-ii",
+    "title": "Best Time to Buy and Sell Stock II",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "DP on Stocks",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+        "problemId": "122"
+      }
+    ]
+  },
+  {
+    "id": "best-time-to-buy-and-sell-stock-with-cooldown",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "DP on Stocks",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+        "problemId": "309"
+      }
+    ]
+  },
+  {
+    "id": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+    "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "DP on Stocks",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+        "problemId": "714"
+      }
+    ]
+  },
+  {
+    "id": "binary-trees-with-factors",
+    "title": "Binary Trees With Factors",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-trees-with-factors/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "dynamic-programming",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-trees-with-factors/",
+        "problemId": "823"
+      }
+    ]
+  },
+  {
+    "id": "bitwise-ors-of-subarrays",
+    "title": "Bitwise ORs of Subarrays",
+    "leetcodeUrl": "https://leetcode.com/problems/bitwise-ors-of-subarrays/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/bitwise-ors-of-subarrays/",
+        "problemId": "898"
+      }
+    ]
+  },
+  {
+    "id": "can-i-win",
+    "title": "Can I Win",
+    "leetcodeUrl": "https://leetcode.com/problems/can-i-win/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "bit-manipulation",
+      "memoization",
+      "game-theory",
+      "bitmask"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/can-i-win/",
+        "problemId": "464"
+      }
+    ]
+  },
+  {
+    "id": "champagne-tower",
+    "title": "Champagne Tower",
+    "leetcodeUrl": "https://leetcode.com/problems/champagne-tower/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/champagne-tower/",
+        "problemId": "799"
+      }
+    ]
+  },
+  {
+    "id": "coin-change-ii",
+    "title": "Coin Change II",
+    "leetcodeUrl": "https://leetcode.com/problems/coin-change-ii/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/coin-change-ii/",
+        "problemId": "518"
+      }
+    ]
+  },
+  {
+    "id": "combination-sum-iv",
+    "title": "Combination Sum IV",
+    "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iv/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/combination-sum-iv/",
+        "problemId": "377"
+      }
+    ]
+  },
+  {
+    "id": "count-numbers-with-unique-digits",
+    "title": "Count Numbers with Unique Digits",
+    "leetcodeUrl": "https://leetcode.com/problems/count-numbers-with-unique-digits/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-numbers-with-unique-digits/",
+        "problemId": "357"
+      }
+    ]
+  },
+  {
+    "id": "count-sorted-vowel-strings",
+    "title": "Count Sorted Vowel Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/count-sorted-vowel-strings/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "combinatorics"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-sorted-vowel-strings/",
+        "problemId": "1641"
+      }
+    ]
+  },
+  {
+    "id": "count-square-submatrices-with-all-ones",
+    "title": "Count Square Submatrices with All Ones",
+    "leetcodeUrl": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "2D / Grid DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+        "problemId": "1277"
+      }
+    ]
+  },
+  {
+    "id": "count-submatrices-with-all-ones",
+    "title": "Count Submatrices With All Ones",
+    "leetcodeUrl": "https://leetcode.com/problems/count-submatrices-with-all-ones/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "2D / Grid DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "stack",
+      "matrix",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-submatrices-with-all-ones/",
+        "problemId": "1504"
+      }
+    ]
+  },
+  {
+    "id": "count-substrings-that-differ-by-one-character",
+    "title": "Count Substrings That Differ by One Character",
+    "leetcodeUrl": "https://leetcode.com/problems/count-substrings-that-differ-by-one-character/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "dynamic-programming",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-substrings-that-differ-by-one-character/",
+        "problemId": "1638"
+      }
+    ]
+  },
+  {
+    "id": "decode-ways",
+    "title": "Decode Ways",
+    "leetcodeUrl": "https://leetcode.com/problems/decode-ways/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/decode-ways/",
+        "problemId": "91"
+      }
+    ]
+  },
+  {
+    "id": "delete-and-earn",
+    "title": "Delete and Earn",
+    "leetcodeUrl": "https://leetcode.com/problems/delete-and-earn/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/delete-and-earn/",
+        "problemId": "740"
+      }
+    ]
+  },
+  {
+    "id": "delete-operation-for-two-strings",
+    "title": "Delete Operation for Two Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+        "problemId": "583"
+      }
+    ]
+  },
+  {
+    "id": "different-ways-to-add-parentheses",
+    "title": "Different Ways to Add Parentheses",
+    "leetcodeUrl": "https://leetcode.com/problems/different-ways-to-add-parentheses/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "dynamic-programming",
+      "recursion",
+      "memoization"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/different-ways-to-add-parentheses/",
+        "problemId": "241"
+      }
+    ]
+  },
+  {
+    "id": "domino-and-tromino-tiling",
+    "title": "Domino and Tromino Tiling",
+    "leetcodeUrl": "https://leetcode.com/problems/domino-and-tromino-tiling/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/domino-and-tromino-tiling/",
+        "problemId": "790"
+      }
+    ]
+  },
+  {
+    "id": "edit-distance",
+    "title": "Edit Distance",
+    "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/edit-distance/",
+        "problemId": "72"
+      }
+    ]
+  }
+]

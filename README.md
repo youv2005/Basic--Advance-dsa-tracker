@@ -1,40 +1,58 @@
-# DSA Tracker
+# DSA Master — Beginner to Advanced
 
-A client-side React + Vite DSA problem tracker with local progress persistence, filtering, notes, revision flags, stars, dataset import/export, and full-backup restore.
+A local-first DSA roadmap designed to take a learner from programming fundamentals to advanced algorithms, with a curated 1,500-problem LeetCode practice dataset and a schema ready for multi-platform coding profiles.
 
-## Current dataset
+## Curriculum
 
-- 450 problems
-- 14 curriculum levels
-- 24 categories
-- Easy: 126
-- Medium: 228
-- Hard: 96
-- No duplicate problem IDs
-- Dataset passes schema/roadmap validation
+- Beginner foundations
+- Arrays, hashing, strings, linked lists, stacks and queues
+- Sorting and binary search
+- Prefix sums, sliding window, two pointers and bit manipulation
+- Recursion and backtracking
+- Trees, BSTs and heaps
+- Greedy algorithms
+- Graph traversal, topological sort, shortest paths and MST
+- Dynamic programming
+- Tries, segment trees, Fenwick trees and DSU
+- Math, number theory and string algorithms
+- Competitive programming and interview-oriented design
 
-## Development
+Every topic is presented as **Concepts → Practice Problems**, with practice further grouped by problem subtopic.
+
+## Dataset
+
+- 1,500 real LeetCode problem records
+- 30 batches × 50 problems
+- Difficulty: Easy / Medium / Hard
+- Metadata only: title, URL, difficulty, curriculum mapping, tags and platform mapping
+- No problem statements, solutions, hints or copied editorial content
+- `platforms` is an extensible array so future records can link to Codeforces, CodeChef, AtCoder and other platforms.
+
+## Run locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Verification
+Build:
 
 ```bash
-npm test
 npm run build
 ```
 
-`npm test` uses Node's built-in test runner and does not require a separate test framework. It validates the bundled dataset, roadmap integrity, import/merge behavior, filtering, and tracker statistics.
+Regenerate the 1,500-problem dataset from the bundled metadata source:
 
-## Data model
+```bash
+npm run data:build
+```
 
-All progress is stored in browser `localStorage`. There is no backend or account system. Use **Data Settings → Export Full Backup** to create a portable backup of the dataset and progress.
+Tests:
 
-## PWA / offline mode
+```bash
+npm test
+```
 
-The production build includes a web app manifest and service worker. After the first successful online load, the application shell and built assets can be reused offline. Progress remains local-first through browser `localStorage`.
+## Important architecture note
 
-For deployment, serve the production `dist/` directory over HTTPS (or `localhost` during development). The service worker is registered only in production builds.
+Progress remains local-first for now. The dataset schema is being prepared for a later backend/auth layer so users can connect coding-platform handles and synchronize progress across devices.

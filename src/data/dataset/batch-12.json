@@ -1,0 +1,1417 @@
+[
+  {
+    "id": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+    "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/",
+        "problemId": "1343"
+      }
+    ]
+  },
+  {
+    "id": "number-of-substrings-containing-all-three-characters",
+    "title": "Number of Substrings Containing All Three Characters",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+        "problemId": "1358"
+      }
+    ]
+  },
+  {
+    "id": "permutation-in-string",
+    "title": "Permutation in String",
+    "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "two-pointers",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/permutation-in-string/",
+        "problemId": "567"
+      }
+    ]
+  },
+  {
+    "id": "repeated-dna-sequences",
+    "title": "Repeated DNA Sequences",
+    "leetcodeUrl": "https://leetcode.com/problems/repeated-dna-sequences/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "bit-manipulation",
+      "sliding-window",
+      "rolling-hash",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/repeated-dna-sequences/",
+        "problemId": "187"
+      }
+    ]
+  },
+  {
+    "id": "replace-the-substring-for-balanced-string",
+    "title": "Replace the Substring for Balanced String",
+    "leetcodeUrl": "https://leetcode.com/problems/replace-the-substring-for-balanced-string/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/replace-the-substring-for-balanced-string/",
+        "problemId": "1234"
+      }
+    ]
+  },
+  {
+    "id": "subarray-product-less-than-k",
+    "title": "Subarray Product Less Than K",
+    "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/subarray-product-less-than-k/",
+        "problemId": "713"
+      }
+    ]
+  },
+  {
+    "id": "swap-for-longest-repeated-character-substring",
+    "title": "Swap For Longest Repeated Character Substring",
+    "leetcodeUrl": "https://leetcode.com/problems/swap-for-longest-repeated-character-substring/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/swap-for-longest-repeated-character-substring/",
+        "problemId": "1156"
+      }
+    ]
+  },
+  {
+    "id": "contains-duplicate-iii",
+    "title": "Contains Duplicate III",
+    "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-iii/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sliding-window",
+      "sorting",
+      "bucket-sort",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/contains-duplicate-iii/",
+        "problemId": "220"
+      }
+    ]
+  },
+  {
+    "id": "longest-duplicate-substring",
+    "title": "Longest Duplicate Substring",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-duplicate-substring/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "binary-search",
+      "sliding-window",
+      "rolling-hash",
+      "suffix-array",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-duplicate-substring/",
+        "problemId": "1044"
+      }
+    ]
+  },
+  {
+    "id": "minimum-number-of-k-consecutive-bit-flips",
+    "title": "Minimum Number of K Consecutive Bit Flips",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation",
+      "queue",
+      "sliding-window",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/",
+        "problemId": "995"
+      }
+    ]
+  },
+  {
+    "id": "minimum-window-substring",
+    "title": "Minimum Window Substring",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-window-substring/",
+        "problemId": "76"
+      }
+    ]
+  },
+  {
+    "id": "subarrays-with-k-different-integers",
+    "title": "Subarrays with K Different Integers",
+    "leetcodeUrl": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "sliding-window",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+        "problemId": "992"
+      }
+    ]
+  },
+  {
+    "id": "substring-with-concatenation-of-all-words",
+    "title": "Substring with Concatenation of All Words",
+    "leetcodeUrl": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "sliding-window",
+    "categoryName": "Sliding Window",
+    "subcategory": "Sliding Window",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+        "problemId": "30"
+      }
+    ]
+  },
+  {
+    "id": "backspace-string-compare",
+    "title": "Backspace String Compare",
+    "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string",
+      "stack",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/backspace-string-compare/",
+        "problemId": "844"
+      }
+    ]
+  },
+  {
+    "id": "count-binary-substrings",
+    "title": "Count Binary Substrings",
+    "leetcodeUrl": "https://leetcode.com/problems/count-binary-substrings/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-binary-substrings/",
+        "problemId": "696"
+      }
+    ]
+  },
+  {
+    "id": "find-the-index-of-the-first-occurrence-in-a-string",
+    "title": "Find the Index of the First Occurrence in a String",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string",
+      "string-matching"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+        "problemId": "28"
+      }
+    ]
+  },
+  {
+    "id": "flipping-an-image",
+    "title": "Flipping an Image",
+    "leetcodeUrl": "https://leetcode.com/problems/flipping-an-image/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "bit-manipulation",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/flipping-an-image/",
+        "problemId": "832"
+      }
+    ]
+  },
+  {
+    "id": "intersection-of-two-arrays",
+    "title": "Intersection of Two Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "two-pointers",
+      "binary-search",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/intersection-of-two-arrays/",
+        "problemId": "349"
+      }
+    ]
+  },
+  {
+    "id": "intersection-of-two-arrays-ii",
+    "title": "Intersection of Two Arrays II",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "two-pointers",
+      "binary-search",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+        "problemId": "350"
+      }
+    ]
+  },
+  {
+    "id": "intersection-of-two-linked-lists",
+    "title": "Intersection of Two Linked Lists",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "problemId": "160"
+      }
+    ]
+  },
+  {
+    "id": "linked-list-cycle",
+    "title": "Linked List Cycle",
+    "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/linked-list-cycle/",
+        "problemId": "141"
+      }
+    ]
+  },
+  {
+    "id": "long-pressed-name",
+    "title": "Long Pressed Name",
+    "leetcodeUrl": "https://leetcode.com/problems/long-pressed-name/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/long-pressed-name/",
+        "problemId": "925"
+      }
+    ]
+  },
+  {
+    "id": "middle-of-the-linked-list",
+    "title": "Middle of the Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "problemId": "876"
+      }
+    ]
+  },
+  {
+    "id": "palindrome-linked-list",
+    "title": "Palindrome Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "two-pointers",
+      "stack",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/palindrome-linked-list/",
+        "problemId": "234"
+      }
+    ]
+  },
+  {
+    "id": "reverse-only-letters",
+    "title": "Reverse Only Letters",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-only-letters/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-only-letters/",
+        "problemId": "917"
+      }
+    ]
+  },
+  {
+    "id": "shortest-distance-to-a-character",
+    "title": "Shortest Distance to a Character",
+    "leetcodeUrl": "https://leetcode.com/problems/shortest-distance-to-a-character/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/shortest-distance-to-a-character/",
+        "problemId": "821"
+      }
+    ]
+  },
+  {
+    "id": "sort-array-by-parity",
+    "title": "Sort Array By Parity",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sort-array-by-parity/",
+        "problemId": "905"
+      }
+    ]
+  },
+  {
+    "id": "sort-array-by-parity-ii",
+    "title": "Sort Array By Parity II",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+        "problemId": "922"
+      }
+    ]
+  },
+  {
+    "id": "squares-of-a-sorted-array",
+    "title": "Squares of a Sorted Array",
+    "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+        "problemId": "977"
+      }
+    ]
+  },
+  {
+    "id": "3sum",
+    "title": "3Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/3sum/",
+        "problemId": "15"
+      }
+    ]
+  },
+  {
+    "id": "3sum-closest",
+    "title": "3Sum Closest",
+    "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/3sum-closest/",
+        "problemId": "16"
+      }
+    ]
+  },
+  {
+    "id": "4sum",
+    "title": "4Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/4sum/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/4sum/",
+        "problemId": "18"
+      }
+    ]
+  },
+  {
+    "id": "circular-array-loop",
+    "title": "Circular Array Loop",
+    "leetcodeUrl": "https://leetcode.com/problems/circular-array-loop/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/circular-array-loop/",
+        "problemId": "457"
+      }
+    ]
+  },
+  {
+    "id": "compare-version-numbers",
+    "title": "Compare Version Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/compare-version-numbers/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/compare-version-numbers/",
+        "problemId": "165"
+      }
+    ]
+  },
+  {
+    "id": "find-the-duplicate-number",
+    "title": "Find the Duplicate Number",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "binary-search",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "problemId": "287"
+      }
+    ]
+  },
+  {
+    "id": "heaters",
+    "title": "Heaters",
+    "leetcodeUrl": "https://leetcode.com/problems/heaters/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "binary-search",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/heaters/",
+        "problemId": "475"
+      }
+    ]
+  },
+  {
+    "id": "k-diff-pairs-in-an-array",
+    "title": "K-diff Pairs in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/k-diff-pairs-in-an-array/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "two-pointers",
+      "binary-search",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/k-diff-pairs-in-an-array/",
+        "problemId": "532"
+      }
+    ]
+  },
+  {
+    "id": "linked-list-cycle-ii",
+    "title": "Linked List Cycle II",
+    "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "problemId": "142"
+      }
+    ]
+  },
+  {
+    "id": "longest-uncommon-subsequence-ii",
+    "title": "Longest Uncommon Subsequence II",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-uncommon-subsequence-ii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "two-pointers",
+      "string",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-uncommon-subsequence-ii/",
+        "problemId": "522"
+      }
+    ]
+  },
+  {
+    "id": "longest-word-in-dictionary-through-deleting",
+    "title": "Longest Word in Dictionary through Deleting",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "string",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/",
+        "problemId": "524"
+      }
+    ]
+  },
+  {
+    "id": "magical-string",
+    "title": "Magical String",
+    "leetcodeUrl": "https://leetcode.com/problems/magical-string/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/magical-string/",
+        "problemId": "481"
+      }
+    ]
+  },
+  {
+    "id": "next-greater-element-iii",
+    "title": "Next Greater Element III",
+    "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-iii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/next-greater-element-iii/",
+        "problemId": "556"
+      }
+    ]
+  },
+  {
+    "id": "next-permutation",
+    "title": "Next Permutation",
+    "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/next-permutation/",
+        "problemId": "31"
+      }
+    ]
+  },
+  {
+    "id": "partition-list",
+    "title": "Partition List",
+    "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/partition-list/",
+        "problemId": "86"
+      }
+    ]
+  },
+  {
+    "id": "remove-duplicates-from-sorted-array-ii",
+    "title": "Remove Duplicates from Sorted Array II",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+        "problemId": "80"
+      }
+    ]
+  },
+  {
+    "id": "remove-duplicates-from-sorted-list-ii",
+    "title": "Remove Duplicates from Sorted List II",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+        "problemId": "82"
+      }
+    ]
+  },
+  {
+    "id": "remove-nth-node-from-end-of-list",
+    "title": "Remove Nth Node From End of List",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "problemId": "19"
+      }
+    ]
+  },
+  {
+    "id": "reorder-list",
+    "title": "Reorder List",
+    "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "two-pointers",
+      "stack",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reorder-list/",
+        "problemId": "143"
+      }
+    ]
+  },
+  {
+    "id": "reverse-words-in-a-string",
+    "title": "Reverse Words in a String",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+        "problemId": "151"
+      }
+    ]
+  },
+  {
+    "id": "rotate-array",
+    "title": "Rotate Array",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/rotate-array/",
+        "problemId": "189"
+      }
+    ]
+  }
+]

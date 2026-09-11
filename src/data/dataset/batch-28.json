@@ -1,0 +1,1407 @@
+[
+  {
+    "id": "number-of-pairs-satisfying-inequality",
+    "title": "Number of Pairs Satisfying Inequality",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-pairs-satisfying-inequality/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "divide-and-conquer",
+      "binary-indexed-tree",
+      "segment-tree",
+      "merge-sort",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-pairs-satisfying-inequality/",
+        "problemId": "2426"
+      }
+    ]
+  },
+  {
+    "id": "online-majority-element-in-subarray",
+    "title": "Online Majority Element In Subarray",
+    "leetcodeUrl": "https://leetcode.com/problems/online-majority-element-in-subarray/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "design",
+      "binary-indexed-tree",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/online-majority-element-in-subarray/",
+        "problemId": "1157"
+      }
+    ]
+  },
+  {
+    "id": "range-module",
+    "title": "Range Module",
+    "leetcodeUrl": "https://leetcode.com/problems/range-module/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Design",
+    "tags": [
+      "design",
+      "segment-tree",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/range-module/",
+        "problemId": "715"
+      }
+    ]
+  },
+  {
+    "id": "rectangle-area-ii",
+    "title": "Rectangle Area II",
+    "leetcodeUrl": "https://leetcode.com/problems/rectangle-area-ii/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "segment-tree",
+      "line-sweep",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/rectangle-area-ii/",
+        "problemId": "850"
+      }
+    ]
+  },
+  {
+    "id": "reverse-pairs",
+    "title": "Reverse Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "divide-and-conquer",
+      "binary-indexed-tree",
+      "segment-tree",
+      "merge-sort",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-pairs/",
+        "problemId": "493"
+      }
+    ]
+  },
+  {
+    "id": "subarrays-distinct-element-sum-of-squares-ii",
+    "title": "Subarrays Distinct Element Sum of Squares II",
+    "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "binary-indexed-tree",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/",
+        "problemId": "2916"
+      }
+    ]
+  },
+  {
+    "id": "the-skyline-problem",
+    "title": "The Skyline Problem",
+    "leetcodeUrl": "https://leetcode.com/problems/the-skyline-problem/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "binary-indexed-tree",
+      "segment-tree",
+      "line-sweep",
+      "heap-priority-queue",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/the-skyline-problem/",
+        "problemId": "218"
+      }
+    ]
+  },
+  {
+    "id": "lexicographically-smallest-equivalent-string",
+    "title": "Lexicographically Smallest Equivalent String",
+    "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "union-find"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string/",
+        "problemId": "1061"
+      }
+    ]
+  },
+  {
+    "id": "longest-consecutive-sequence",
+    "title": "Longest Consecutive Sequence",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "union-find"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+        "problemId": "128"
+      }
+    ]
+  },
+  {
+    "id": "make-lexicographically-smallest-array-by-swapping-elements",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "leetcodeUrl": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "union-find",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/",
+        "problemId": "2948"
+      }
+    ]
+  },
+  {
+    "id": "bricks-falling-when-hit",
+    "title": "Bricks Falling When Hit",
+    "leetcodeUrl": "https://leetcode.com/problems/bricks-falling-when-hit/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "union-find",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/bricks-falling-when-hit/",
+        "problemId": "803"
+      }
+    ]
+  },
+  {
+    "id": "count-connected-components-in-lcm-graph",
+    "title": "Count Connected Components in LCM Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/count-connected-components-in-lcm-graph/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "union-find",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-connected-components-in-lcm-graph/",
+        "problemId": "3378"
+      }
+    ]
+  },
+  {
+    "id": "find-the-string-with-lcp",
+    "title": "Find the String with LCP",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-string-with-lcp/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "dynamic-programming",
+      "greedy",
+      "union-find",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-string-with-lcp/",
+        "problemId": "2573"
+      }
+    ]
+  },
+  {
+    "id": "gcd-sort-of-an-array",
+    "title": "GCD Sort of an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/gcd-sort-of-an-array/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "union-find",
+      "sorting",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/gcd-sort-of-an-array/",
+        "problemId": "1998"
+      }
+    ]
+  },
+  {
+    "id": "graph-connectivity-with-threshold",
+    "title": "Graph Connectivity With Threshold",
+    "leetcodeUrl": "https://leetcode.com/problems/graph-connectivity-with-threshold/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "union-find",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/graph-connectivity-with-threshold/",
+        "problemId": "1627"
+      }
+    ]
+  },
+  {
+    "id": "greatest-common-divisor-traversal",
+    "title": "Greatest Common Divisor Traversal",
+    "leetcodeUrl": "https://leetcode.com/problems/greatest-common-divisor-traversal/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "union-find",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/greatest-common-divisor-traversal/",
+        "problemId": "2709"
+      }
+    ]
+  },
+  {
+    "id": "groups-of-strings",
+    "title": "Groups of Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/groups-of-strings/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "bit-manipulation",
+      "union-find"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/groups-of-strings/",
+        "problemId": "2157"
+      }
+    ]
+  },
+  {
+    "id": "largest-component-size-by-common-factor",
+    "title": "Largest Component Size by Common Factor",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-component-size-by-common-factor/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "union-find",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-component-size-by-common-factor/",
+        "problemId": "952"
+      }
+    ]
+  },
+  {
+    "id": "maximum-segment-sum-after-removals",
+    "title": "Maximum Segment Sum After Removals",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-segment-sum-after-removals/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "union-find",
+      "prefix-sum",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-segment-sum-after-removals/",
+        "problemId": "2382"
+      }
+    ]
+  },
+  {
+    "id": "number-of-ways-to-reorder-array-to-get-same-bst",
+    "title": "Number of Ways to Reorder Array to Get Same BST",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "divide-and-conquer",
+      "dynamic-programming",
+      "tree",
+      "union-find",
+      "binary-search-tree",
+      "memoization",
+      "combinatorics",
+      "binary-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+        "problemId": "1569"
+      }
+    ]
+  },
+  {
+    "id": "subarray-with-elements-greater-than-varying-threshold",
+    "title": "Subarray With Elements Greater Than Varying Threshold",
+    "leetcodeUrl": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "disjoint-set",
+    "categoryName": "Disjoint Set Union",
+    "subcategory": "Disjoint Set Union",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "stack",
+      "union-find",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/",
+        "problemId": "2334"
+      }
+    ]
+  },
+  {
+    "id": "a-number-after-a-double-reversal",
+    "title": "A Number After a Double Reversal",
+    "leetcodeUrl": "https://leetcode.com/problems/a-number-after-a-double-reversal/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/a-number-after-a-double-reversal/",
+        "problemId": "2119"
+      }
+    ]
+  },
+  {
+    "id": "add-digits",
+    "title": "Add Digits",
+    "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "simulation",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/add-digits/",
+        "problemId": "258"
+      }
+    ]
+  },
+  {
+    "id": "add-two-integers",
+    "title": "Add Two Integers",
+    "leetcodeUrl": "https://leetcode.com/problems/add-two-integers/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/add-two-integers/",
+        "problemId": "2235"
+      }
+    ]
+  },
+  {
+    "id": "alternating-digit-sum",
+    "title": "Alternating Digit Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/alternating-digit-sum/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/alternating-digit-sum/",
+        "problemId": "2544"
+      }
+    ]
+  },
+  {
+    "id": "calculate-delayed-arrival-time",
+    "title": "Calculate Delayed Arrival Time",
+    "leetcodeUrl": "https://leetcode.com/problems/calculate-delayed-arrival-time/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/calculate-delayed-arrival-time/",
+        "problemId": "2651"
+      }
+    ]
+  },
+  {
+    "id": "calculate-money-in-leetcode-bank",
+    "title": "Calculate Money in Leetcode Bank",
+    "leetcodeUrl": "https://leetcode.com/problems/calculate-money-in-leetcode-bank/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/calculate-money-in-leetcode-bank/",
+        "problemId": "1716"
+      }
+    ]
+  },
+  {
+    "id": "categorize-box-according-to-criteria",
+    "title": "Categorize Box According to Criteria",
+    "leetcodeUrl": "https://leetcode.com/problems/categorize-box-according-to-criteria/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/categorize-box-according-to-criteria/",
+        "problemId": "2525"
+      }
+    ]
+  },
+  {
+    "id": "check-if-it-is-a-straight-line",
+    "title": "Check If It Is a Straight Line",
+    "leetcodeUrl": "https://leetcode.com/problems/check-if-it-is-a-straight-line/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/check-if-it-is-a-straight-line/",
+        "problemId": "1232"
+      }
+    ]
+  },
+  {
+    "id": "convert-integer-to-the-sum-of-two-no-zero-integers",
+    "title": "Convert Integer to the Sum of Two No-Zero Integers",
+    "leetcodeUrl": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/",
+        "problemId": "1317"
+      }
+    ]
+  },
+  {
+    "id": "convert-the-temperature",
+    "title": "Convert the Temperature",
+    "leetcodeUrl": "https://leetcode.com/problems/convert-the-temperature/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/convert-the-temperature/",
+        "problemId": "2469"
+      }
+    ]
+  },
+  {
+    "id": "count-odd-numbers-in-an-interval-range",
+    "title": "Count Odd Numbers in an Interval Range",
+    "leetcodeUrl": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+        "problemId": "1523"
+      }
+    ]
+  },
+  {
+    "id": "count-the-digits-that-divide-a-number",
+    "title": "Count the Digits That Divide a Number",
+    "leetcodeUrl": "https://leetcode.com/problems/count-the-digits-that-divide-a-number/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-the-digits-that-divide-a-number/",
+        "problemId": "2520"
+      }
+    ]
+  },
+  {
+    "id": "day-of-the-week",
+    "title": "Day of the Week",
+    "leetcodeUrl": "https://leetcode.com/problems/day-of-the-week/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/day-of-the-week/",
+        "problemId": "1185"
+      }
+    ]
+  },
+  {
+    "id": "find-greatest-common-divisor-of-array",
+    "title": "Find Greatest Common Divisor of Array",
+    "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+        "problemId": "1979"
+      }
+    ]
+  },
+  {
+    "id": "largest-triangle-area",
+    "title": "Largest Triangle Area",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-triangle-area/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-triangle-area/",
+        "problemId": "812"
+      }
+    ]
+  },
+  {
+    "id": "minimum-cuts-to-divide-a-circle",
+    "title": "Minimum Cuts to Divide a Circle",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/",
+        "problemId": "2481"
+      }
+    ]
+  },
+  {
+    "id": "minimum-time-visiting-all-points",
+    "title": "Minimum Time Visiting All Points",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-time-visiting-all-points/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-time-visiting-all-points/",
+        "problemId": "1266"
+      }
+    ]
+  },
+  {
+    "id": "nim-game",
+    "title": "Nim Game",
+    "leetcodeUrl": "https://leetcode.com/problems/nim-game/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "brainteaser",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/nim-game/",
+        "problemId": "292"
+      }
+    ]
+  },
+  {
+    "id": "number-of-common-factors",
+    "title": "Number of Common Factors",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-common-factors/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "enumeration",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-common-factors/",
+        "problemId": "2427"
+      }
+    ]
+  },
+  {
+    "id": "prime-arrangements",
+    "title": "Prime Arrangements",
+    "leetcodeUrl": "https://leetcode.com/problems/prime-arrangements/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/prime-arrangements/",
+        "problemId": "1175"
+      }
+    ]
+  },
+  {
+    "id": "prime-in-diagonal",
+    "title": "Prime In Diagonal",
+    "leetcodeUrl": "https://leetcode.com/problems/prime-in-diagonal/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "matrix",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/prime-in-diagonal/",
+        "problemId": "2614"
+      }
+    ]
+  },
+  {
+    "id": "projection-area-of-3d-shapes",
+    "title": "Projection Area of 3D Shapes",
+    "leetcodeUrl": "https://leetcode.com/problems/projection-area-of-3d-shapes/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "geometry",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/projection-area-of-3d-shapes/",
+        "problemId": "883"
+      }
+    ]
+  },
+  {
+    "id": "rectangle-overlap",
+    "title": "Rectangle Overlap",
+    "leetcodeUrl": "https://leetcode.com/problems/rectangle-overlap/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/rectangle-overlap/",
+        "problemId": "836"
+      }
+    ]
+  },
+  {
+    "id": "self-dividing-numbers",
+    "title": "Self Dividing Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/self-dividing-numbers/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/self-dividing-numbers/",
+        "problemId": "728"
+      }
+    ]
+  },
+  {
+    "id": "smallest-even-multiple",
+    "title": "Smallest Even Multiple",
+    "leetcodeUrl": "https://leetcode.com/problems/smallest-even-multiple/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/smallest-even-multiple/",
+        "problemId": "2413"
+      }
+    ]
+  },
+  {
+    "id": "subtract-the-product-and-sum-of-digits-of-an-integer",
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "leetcodeUrl": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+        "problemId": "1281"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-digits-in-base-k",
+    "title": "Sum of Digits in Base K",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-digits-in-base-k/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Math Techniques",
+    "pattern": "Math",
+    "tags": [
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-digits-in-base-k/",
+        "problemId": "1837"
+      }
+    ]
+  },
+  {
+    "id": "surface-area-of-3d-shapes",
+    "title": "Surface Area of 3D Shapes",
+    "leetcodeUrl": "https://leetcode.com/problems/surface-area-of-3d-shapes/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Geometry",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "geometry",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/surface-area-of-3d-shapes/",
+        "problemId": "892"
+      }
+    ]
+  },
+  {
+    "id": "three-divisors",
+    "title": "Three Divisors",
+    "leetcodeUrl": "https://leetcode.com/problems/three-divisors/",
+    "difficulty": "Easy",
+    "level": "advanced-algorithms",
+    "levelName": "Advanced Algorithms",
+    "category": "math-number-theory",
+    "categoryName": "Math & Number Theory",
+    "subcategory": "Number Theory",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "enumeration",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/three-divisors/",
+        "problemId": "1952"
+      }
+    ]
+  }
+]

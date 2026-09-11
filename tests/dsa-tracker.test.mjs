@@ -5,12 +5,19 @@ import { LEVELS, CATEGORIES, buildRoadmapLookups } from  '../src/data/roadmap.js
 import { validateDataset, mergeProblemSets, detectImportShape } from  '../src/utils/dataValidation.js';
 import { filterProblems, DEFAULT_FILTERS, buildSearchIndex } from  '../src/utils/filterUtils.js';
 import { computeStats, countStarred, countSolvedToday, countRevisionProblems, countLevelsCompleted, countTopicsCompleted } from  '../src/utils/trackerUtils.js';
+import { getConceptDetails, buildAiPrompt } from '../src/data/conceptNotes.js';
+import { AI_PROVIDERS } from '../src/utils/aiLinks.js';
 
 test('dataset is structurally valid and duplicate-free', () => {
   const result = validateDataset(PROBLEMS);
   assert.equal(result.valid, true, result.errors.slice(0, 5).map(e => `${e.id}:${e.field} ${e.message}`).join('\n'));
   assert.equal(new Set(PROBLEMS.map(p => p.id)).size, PROBLEMS.length);
-  assert.equal(PROBLEMS.length, 450);
+  assert.equal(PROBLEMS.length, 1500);
+});
+
+test('dataset exposes extensible platform mappings', () => {
+  assert.ok(PROBLEMS.every(p => Array.isArray(p.platforms) && p.platforms.length >= 1));
+  assert.ok(PROBLEMS.every(p => p.platforms.some(platform => platform.id === 'leetcode')));
 });
 
 test('roadmap categories belong to declared levels', () => {
@@ -81,4 +88,19 @@ test('supported import shapes are detected', () => {
   assert.equal(detectImportShape({ problems: PROBLEMS }), 'dataset');
   assert.equal(detectImportShape({ completed: [], starred: [], notes: {} }), 'progress');
   assert.equal(detectImportShape({ problems: PROBLEMS, completed: [], starred: [], notes: {} }), 'backup');
+});
+
+
+test('every roadmap concept has a quick-learning note and AI prompt', () => {
+  for (const category of CATEGORIES) {
+    for (const concept of category.concepts) {
+      const details = getConceptDetails(category, concept);
+      assert.ok(details.summary.length > 20, `${category.id}: ${concept}`);
+      assert.ok(details.points.length >= 3, `${category.id}: ${concept}`);
+      const prompt = buildAiPrompt(category, concept, LEVELS.find(l => l.id === category.level));
+      assert.ok(prompt.includes(concept));
+    }
+  }
+  assert.ok(AI_PROVIDERS.length >= 4);
+  assert.ok(AI_PROVIDERS.every(p => p.baseUrl.startsWith('https://')));
 });

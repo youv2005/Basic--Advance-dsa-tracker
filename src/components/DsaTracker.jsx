@@ -178,8 +178,8 @@ export default function DsaTracker() {
 
       <header className="flex flex-col gap-1 sm:flex-row sm:items-end sm:justify-between">
         <div>
-          <h1 className="text-2xl font-bold tracking-tight">DSA Tracker</h1>
-          <p className="text-sm text-text-muted font-mono">{problems.length} problems tracked</p>
+          <h1 className="text-2xl font-bold tracking-tight">DSA Master</h1>
+          <p className="text-sm text-text-muted font-mono">Beginner → Advanced · {problems.length} problems</p>
         </div>
         <button
           ref={settingsButtonRef}

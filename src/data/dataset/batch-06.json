@@ -1,982 +1,1387 @@
 [
   {
-    "id": "find-k-closest-elements",
-    "title": "Find K Closest Elements",
-    "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+    "id": "multiply-strings",
+    "title": "Multiply Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
     "difficulty": "Medium",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Array / Two Pointers",
-    "pattern": "Heap (Priority Queue)",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Math",
     "tags": [
-      "array",
-      "two-pointers",
-      "binary-search",
-      "sliding-window",
-      "sorting",
-      "heap-priority-queue"
+      "math",
+      "string",
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/multiply-strings/",
+        "problemId": "43"
+      }
+    ]
   },
   {
-    "id": "merge-k-sorted-lists",
-    "title": "Merge k Sorted Lists",
-    "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "id": "number-of-substrings-with-only-1s",
+    "title": "Number of Substrings With Only 1s",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-with-only-1s/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-substrings-with-only-1s/",
+        "problemId": "1513"
+      }
+    ]
+  },
+  {
+    "id": "number-of-ways-to-split-a-string",
+    "title": "Number of Ways to Split a String",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-split-a-string/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-ways-to-split-a-string/",
+        "problemId": "1573"
+      }
+    ]
+  },
+  {
+    "id": "people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
+    "title": "People Whose List of Favorite Companies Is Not a Subset of Another List",
+    "leetcodeUrl": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/",
+        "problemId": "1452"
+      }
+    ]
+  },
+  {
+    "id": "print-words-vertically",
+    "title": "Print Words Vertically",
+    "leetcodeUrl": "https://leetcode.com/problems/print-words-vertically/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/print-words-vertically/",
+        "problemId": "1324"
+      }
+    ]
+  },
+  {
+    "id": "reconstruct-original-digits-from-english",
+    "title": "Reconstruct Original Digits from English",
+    "leetcodeUrl": "https://leetcode.com/problems/reconstruct-original-digits-from-english/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "math",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reconstruct-original-digits-from-english/",
+        "problemId": "423"
+      }
+    ]
+  },
+  {
+    "id": "remove-comments",
+    "title": "Remove Comments",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-comments/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-comments/",
+        "problemId": "722"
+      }
+    ]
+  },
+  {
+    "id": "robot-bounded-in-circle",
+    "title": "Robot Bounded In Circle",
+    "leetcodeUrl": "https://leetcode.com/problems/robot-bounded-in-circle/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/robot-bounded-in-circle/",
+        "problemId": "1041"
+      }
+    ]
+  },
+  {
+    "id": "solve-the-equation",
+    "title": "Solve the Equation",
+    "leetcodeUrl": "https://leetcode.com/problems/solve-the-equation/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/solve-the-equation/",
+        "problemId": "640"
+      }
+    ]
+  },
+  {
+    "id": "string-to-integer-atoi",
+    "title": "String to Integer (atoi)",
+    "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "problemId": "8"
+      }
+    ]
+  },
+  {
+    "id": "subdomain-visit-count",
+    "title": "Subdomain Visit Count",
+    "leetcodeUrl": "https://leetcode.com/problems/subdomain-visit-count/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/subdomain-visit-count/",
+        "problemId": "811"
+      }
+    ]
+  },
+  {
+    "id": "validate-ip-address",
+    "title": "Validate IP Address",
+    "leetcodeUrl": "https://leetcode.com/problems/validate-ip-address/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/validate-ip-address/",
+        "problemId": "468"
+      }
+    ]
+  },
+  {
+    "id": "vowel-spellchecker",
+    "title": "Vowel Spellchecker",
+    "leetcodeUrl": "https://leetcode.com/problems/vowel-spellchecker/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/vowel-spellchecker/",
+        "problemId": "966"
+      }
+    ]
+  },
+  {
+    "id": "word-subsets",
+    "title": "Word Subsets",
+    "leetcodeUrl": "https://leetcode.com/problems/word-subsets/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/word-subsets/",
+        "problemId": "916"
+      }
+    ]
+  },
+  {
+    "id": "zigzag-conversion",
+    "title": "Zigzag Conversion",
+    "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/zigzag-conversion/",
+        "problemId": "6"
+      }
+    ]
+  },
+  {
+    "id": "equal-rational-numbers",
+    "title": "Equal Rational Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/equal-rational-numbers/",
     "difficulty": "Hard",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Linked List / Divide and Conquer",
-    "pattern": "Heap (Priority Queue)",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/equal-rational-numbers/",
+        "problemId": "972"
+      }
+    ]
+  },
+  {
+    "id": "find-the-closest-palindrome",
+    "title": "Find the Closest Palindrome",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-closest-palindrome/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-closest-palindrome/",
+        "problemId": "564"
+      }
+    ]
+  },
+  {
+    "id": "process-string-with-special-operations-ii",
+    "title": "Process String with Special Operations II",
+    "leetcodeUrl": "https://leetcode.com/problems/process-string-with-special-operations-ii/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/process-string-with-special-operations-ii/",
+        "problemId": "3614"
+      }
+    ]
+  },
+  {
+    "id": "super-palindromes",
+    "title": "Super Palindromes",
+    "leetcodeUrl": "https://leetcode.com/problems/super-palindromes/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "string",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/super-palindromes/",
+        "problemId": "906"
+      }
+    ]
+  },
+  {
+    "id": "text-justification",
+    "title": "Text Justification",
+    "leetcodeUrl": "https://leetcode.com/problems/text-justification/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/text-justification/",
+        "problemId": "68"
+      }
+    ]
+  },
+  {
+    "id": "valid-number",
+    "title": "Valid Number",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-number/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "strings-basics",
+    "categoryName": "Strings",
+    "subcategory": "String Fundamentals",
+    "pattern": "String",
+    "tags": [
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/valid-number/",
+        "problemId": "65"
+      }
+    ]
+  },
+  {
+    "id": "convert-binary-number-in-a-linked-list-to-integer",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "leetcodeUrl": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
     "tags": [
       "linked-list",
-      "divide-and-conquer",
-      "heap-priority-queue",
-      "merge-sort"
+      "math"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+        "problemId": "1290"
+      }
+    ]
   },
   {
-    "id": "sliding-window-maximum",
-    "title": "Sliding Window Maximum",
-    "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
-    "difficulty": "Hard",
-    "level": "heaps",
-    "levelName": "Heaps",
-    "category": "heaps",
-    "categoryName": "Heaps",
-    "subcategory": "Array / Queue",
-    "pattern": "Heap (Priority Queue)",
-    "tags": [
-      "array",
-      "queue",
-      "sliding-window",
-      "heap-priority-queue",
-      "monotonic-queue"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "longest-palindrome",
-    "title": "Longest Palindrome",
-    "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome/",
+    "id": "design-hashmap",
+    "title": "Design HashMap",
+    "leetcodeUrl": "https://leetcode.com/problems/design-hashmap/",
     "difficulty": "Easy",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Hash Table / String",
-    "pattern": "Greedy",
-    "tags": [
-      "hash-table",
-      "string",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "assign-cookies",
-    "title": "Assign Cookies",
-    "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
-    "difficulty": "Easy",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array / Two Pointers",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "two-pointers",
-      "greedy",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "array-partition",
-    "title": "Array Partition",
-    "leetcodeUrl": "https://leetcode.com/problems/array-partition/",
-    "difficulty": "Easy",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array / Sorting",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "greedy",
-      "sorting",
-      "counting-sort"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "can-place-flowers",
-    "title": "Can Place Flowers",
-    "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers/",
-    "difficulty": "Easy",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "valid-palindrome-ii",
-    "title": "Valid Palindrome II",
-    "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome-ii/",
-    "difficulty": "Easy",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Two Pointers / String",
-    "pattern": "Greedy",
-    "tags": [
-      "two-pointers",
-      "string",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "lemonade-change",
-    "title": "Lemonade Change",
-    "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
-    "difficulty": "Easy",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "di-string-match",
-    "title": "DI String Match",
-    "leetcodeUrl": "https://leetcode.com/problems/di-string-match/",
-    "difficulty": "Easy",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array / Two Pointers",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "two-pointers",
-      "string",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "gas-station",
-    "title": "Gas Station",
-    "leetcodeUrl": "https://leetcode.com/problems/gas-station/",
-    "difficulty": "Medium",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "largest-number",
-    "title": "Largest Number",
-    "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
-    "difficulty": "Medium",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array / String",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "string",
-      "greedy",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "remove-duplicate-letters",
-    "title": "Remove Duplicate Letters",
-    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters/",
-    "difficulty": "Medium",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "String / Stack",
-    "pattern": "Greedy",
-    "tags": [
-      "string",
-      "stack",
-      "greedy",
-      "monotonic-stack"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "wiggle-sort-ii",
-    "title": "Wiggle Sort II",
-    "leetcodeUrl": "https://leetcode.com/problems/wiggle-sort-ii/",
-    "difficulty": "Medium",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array / Divide and Conquer",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "divide-and-conquer",
-      "greedy",
-      "sorting",
-      "quickselect"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "increasing-triplet-subsequence",
-    "title": "Increasing Triplet Subsequence",
-    "leetcodeUrl": "https://leetcode.com/problems/increasing-triplet-subsequence/",
-    "difficulty": "Medium",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "remove-k-digits",
-    "title": "Remove K Digits",
-    "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
-    "difficulty": "Medium",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "String / Stack",
-    "pattern": "Greedy",
-    "tags": [
-      "string",
-      "stack",
-      "greedy",
-      "monotonic-stack"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "minimum-number-of-arrows-to-burst-balloons",
-    "title": "Minimum Number of Arrows to Burst Balloons",
-    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
-    "difficulty": "Medium",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array / Sorting",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "greedy",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "shortest-unsorted-continuous-subarray",
-    "title": "Shortest Unsorted Continuous Subarray",
-    "leetcodeUrl": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/",
-    "difficulty": "Medium",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array / Two Pointers",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "two-pointers",
-      "stack",
-      "greedy",
-      "sorting",
-      "monotonic-stack"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "valid-triangle-number",
-    "title": "Valid Triangle Number",
-    "leetcodeUrl": "https://leetcode.com/problems/valid-triangle-number/",
-    "difficulty": "Medium",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array / Two Pointers",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "two-pointers",
-      "binary-search",
-      "greedy",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "maximum-distance-in-arrays",
-    "title": "Maximum Distance in Arrays",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-distance-in-arrays/",
-    "difficulty": "Medium",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "candy",
-    "title": "Candy",
-    "leetcodeUrl": "https://leetcode.com/problems/candy/",
-    "difficulty": "Hard",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "create-maximum-number",
-    "title": "Create Maximum Number",
-    "leetcodeUrl": "https://leetcode.com/problems/create-maximum-number/",
-    "difficulty": "Hard",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array / Two Pointers",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "two-pointers",
-      "stack",
-      "greedy",
-      "monotonic-stack"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "patching-array",
-    "title": "Patching Array",
-    "leetcodeUrl": "https://leetcode.com/problems/patching-array/",
-    "difficulty": "Hard",
-    "level": "greedy",
-    "levelName": "Greedy",
-    "category": "greedy",
-    "categoryName": "Greedy",
-    "subcategory": "Array",
-    "pattern": "Greedy",
-    "tags": [
-      "array",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "find-the-town-judge",
-    "title": "Find the Town Judge",
-    "leetcodeUrl": "https://leetcode.com/problems/find-the-town-judge/",
-    "difficulty": "Easy",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Graph",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Array",
     "tags": [
       "array",
       "hash-table",
-      "graph"
+      "linked-list",
+      "design",
+      "hash-function"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-hashmap/",
+        "problemId": "706"
+      }
+    ]
   },
   {
-    "id": "find-center-of-star-graph",
-    "title": "Find Center of Star Graph",
-    "leetcodeUrl": "https://leetcode.com/problems/find-center-of-star-graph/",
+    "id": "design-hashset",
+    "title": "Design HashSet",
+    "leetcodeUrl": "https://leetcode.com/problems/design-hashset/",
     "difficulty": "Easy",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Graph",
-    "pattern": "Graph",
-    "tags": [
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "clone-graph",
-    "title": "Clone Graph",
-    "leetcodeUrl": "https://leetcode.com/problems/clone-graph/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Hash Table / Depth-First Search",
-    "pattern": "Graph",
-    "tags": [
-      "hash-table",
-      "depth-first-search",
-      "breadth-first-search",
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "course-schedule",
-    "title": "Course Schedule",
-    "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Depth-First Search / Breadth-First Search",
-    "pattern": "Topological Sort",
-    "tags": [
-      "depth-first-search",
-      "breadth-first-search",
-      "graph",
-      "topological-sort"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "course-schedule-ii",
-    "title": "Course Schedule II",
-    "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Depth-First Search / Breadth-First Search",
-    "pattern": "Topological Sort",
-    "tags": [
-      "depth-first-search",
-      "breadth-first-search",
-      "graph",
-      "topological-sort"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "minimum-height-trees",
-    "title": "Minimum Height Trees",
-    "leetcodeUrl": "https://leetcode.com/problems/minimum-height-trees/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Depth-First Search / Breadth-First Search",
-    "pattern": "Topological Sort",
-    "tags": [
-      "depth-first-search",
-      "breadth-first-search",
-      "graph",
-      "topological-sort"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "all-paths-from-source-to-target",
-    "title": "All Paths From Source to Target",
-    "leetcodeUrl": "https://leetcode.com/problems/all-paths-from-source-to-target/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Backtracking / Depth-First Search",
-    "pattern": "Graph",
-    "tags": [
-      "backtracking",
-      "depth-first-search",
-      "breadth-first-search",
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "find-eventual-safe-states",
-    "title": "Find Eventual Safe States",
-    "leetcodeUrl": "https://leetcode.com/problems/find-eventual-safe-states/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Depth-First Search / Breadth-First Search",
-    "pattern": "Topological Sort",
-    "tags": [
-      "depth-first-search",
-      "breadth-first-search",
-      "graph",
-      "topological-sort"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "keys-and-rooms",
-    "title": "Keys and Rooms",
-    "leetcodeUrl": "https://leetcode.com/problems/keys-and-rooms/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Depth-First Search / Breadth-First Search",
-    "pattern": "Graph",
-    "tags": [
-      "depth-first-search",
-      "breadth-first-search",
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "loud-and-rich",
-    "title": "Loud and Rich",
-    "leetcodeUrl": "https://leetcode.com/problems/loud-and-rich/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Depth-First Search",
-    "pattern": "Topological Sort",
-    "tags": [
-      "array",
-      "depth-first-search",
-      "graph",
-      "topological-sort"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "flower-planting-with-no-adjacent",
-    "title": "Flower Planting With No Adjacent",
-    "leetcodeUrl": "https://leetcode.com/problems/flower-planting-with-no-adjacent/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Depth-First Search / Breadth-First Search",
-    "pattern": "Graph",
-    "tags": [
-      "depth-first-search",
-      "breadth-first-search",
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "shortest-path-with-alternating-colors",
-    "title": "Shortest Path with Alternating Colors",
-    "leetcodeUrl": "https://leetcode.com/problems/shortest-path-with-alternating-colors/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Breadth-First Search",
-    "pattern": "Graph",
-    "tags": [
-      "breadth-first-search",
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "get-watched-videos-by-your-friends",
-    "title": "Get Watched Videos by Your Friends",
-    "leetcodeUrl": "https://leetcode.com/problems/get-watched-videos-by-your-friends/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Graph",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Array",
     "tags": [
       "array",
       "hash-table",
-      "breadth-first-search",
-      "graph",
-      "sorting"
+      "linked-list",
+      "design",
+      "hash-function"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-hashset/",
+        "problemId": "705"
+      }
+    ]
   },
   {
-    "id": "course-schedule-iv",
-    "title": "Course Schedule IV",
-    "leetcodeUrl": "https://leetcode.com/problems/course-schedule-iv/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Depth-First Search / Breadth-First Search",
-    "pattern": "Topological Sort",
+    "id": "merge-two-sorted-lists",
+    "title": "Merge Two Sorted Lists",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
     "tags": [
-      "depth-first-search",
-      "breadth-first-search",
-      "graph",
-      "topological-sort"
+      "linked-list",
+      "recursion"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "problemId": "21"
+      }
+    ]
   },
   {
-    "id": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
-    "title": "Reorder Routes to Make All Paths Lead to the City Zero",
-    "leetcodeUrl": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Depth-First Search / Breadth-First Search",
-    "pattern": "Graph",
+    "id": "remove-duplicates-from-sorted-list",
+    "title": "Remove Duplicates from Sorted List",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
     "tags": [
-      "depth-first-search",
-      "breadth-first-search",
-      "graph"
+      "linked-list"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+        "problemId": "83"
+      }
+    ]
   },
   {
-    "id": "minimum-number-of-vertices-to-reach-all-nodes",
-    "title": "Minimum Number of Vertices to Reach All Nodes",
-    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Graph",
-    "pattern": "Graph",
+    "id": "remove-linked-list-elements",
+    "title": "Remove Linked List Elements",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
     "tags": [
-      "graph"
+      "linked-list",
+      "recursion"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-linked-list-elements/",
+        "problemId": "203"
+      }
+    ]
   },
   {
-    "id": "maximal-network-rank",
-    "title": "Maximal Network Rank",
-    "leetcodeUrl": "https://leetcode.com/problems/maximal-network-rank/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Graph",
-    "pattern": "Graph",
+    "id": "reverse-linked-list",
+    "title": "Reverse Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
     "tags": [
-      "graph"
+      "linked-list",
+      "recursion"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-linked-list/",
+        "problemId": "206"
+      }
+    ]
   },
   {
-    "id": "the-time-when-the-network-becomes-idle",
-    "title": "The Time When the Network Becomes Idle",
-    "leetcodeUrl": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle/",
+    "id": "add-two-numbers",
+    "title": "Add Two Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
     "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Breadth-First Search",
-    "pattern": "Graph",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
     "tags": [
-      "array",
-      "breadth-first-search",
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "detonate-the-maximum-bombs",
-    "title": "Detonate the Maximum Bombs",
-    "leetcodeUrl": "https://leetcode.com/problems/detonate-the-maximum-bombs/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Math",
-    "pattern": "Graph",
-    "tags": [
-      "array",
+      "linked-list",
       "math",
-      "depth-first-search",
-      "breadth-first-search",
-      "graph",
-      "geometry"
+      "recursion"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/add-two-numbers/",
+        "problemId": "2"
+      }
+    ]
   },
   {
-    "id": "find-all-possible-recipes-from-given-supplies",
-    "title": "Find All Possible Recipes from Given Supplies",
-    "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/",
+    "id": "add-two-numbers-ii",
+    "title": "Add Two Numbers II",
+    "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers-ii/",
     "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Topological Sort",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "math",
+      "stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/add-two-numbers-ii/",
+        "problemId": "445"
+      }
+    ]
+  },
+  {
+    "id": "copy-list-with-random-pointer",
+    "title": "Copy List with Random Pointer",
+    "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "linked-list"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "problemId": "138"
+      }
+    ]
+  },
+  {
+    "id": "delete-node-in-a-linked-list",
+    "title": "Delete Node in a Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "problemId": "237"
+      }
+    ]
+  },
+  {
+    "id": "design-authentication-manager",
+    "title": "Design Authentication Manager",
+    "leetcodeUrl": "https://leetcode.com/problems/design-authentication-manager/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "linked-list",
+      "design",
+      "doubly-linked-list"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-authentication-manager/",
+        "problemId": "1797"
+      }
+    ]
+  },
+  {
+    "id": "design-browser-history",
+    "title": "Design Browser History",
+    "leetcodeUrl": "https://leetcode.com/problems/design-browser-history/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "linked-list",
+      "stack",
+      "design",
+      "doubly-linked-list",
+      "data-stream"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-browser-history/",
+        "problemId": "1472"
+      }
+    ]
+  },
+  {
+    "id": "design-circular-deque",
+    "title": "Design Circular Deque",
+    "leetcodeUrl": "https://leetcode.com/problems/design-circular-deque/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "linked-list",
+      "design",
+      "queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-circular-deque/",
+        "problemId": "641"
+      }
+    ]
+  },
+  {
+    "id": "design-circular-queue",
+    "title": "Design Circular Queue",
+    "leetcodeUrl": "https://leetcode.com/problems/design-circular-queue/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "linked-list",
+      "design",
+      "queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-circular-queue/",
+        "problemId": "622"
+      }
+    ]
+  },
+  {
+    "id": "design-front-middle-back-queue",
+    "title": "Design Front Middle Back Queue",
+    "leetcodeUrl": "https://leetcode.com/problems/design-front-middle-back-queue/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "linked-list",
+      "design",
+      "queue",
+      "data-stream"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-front-middle-back-queue/",
+        "problemId": "1670"
+      }
+    ]
+  },
+  {
+    "id": "design-linked-list",
+    "title": "Design Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/design-linked-list/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "design"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-linked-list/",
+        "problemId": "707"
+      }
+    ]
+  },
+  {
+    "id": "double-a-number-represented-as-a-linked-list",
+    "title": "Double a Number Represented as a Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "math",
+      "stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/",
+        "problemId": "2816"
+      }
+    ]
+  },
+  {
+    "id": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
+        "problemId": "2058"
+      }
+    ]
+  },
+  {
+    "id": "insert-greatest-common-divisors-in-linked-list",
+    "title": "Insert Greatest Common Divisors in Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "math",
+      "number-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/",
+        "problemId": "2807"
+      }
+    ]
+  },
+  {
+    "id": "linked-list-components",
+    "title": "Linked List Components",
+    "leetcodeUrl": "https://leetcode.com/problems/linked-list-components/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Array",
     "tags": [
       "array",
       "hash-table",
-      "string",
-      "graph",
-      "topological-sort"
+      "linked-list"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/linked-list-components/",
+        "problemId": "817"
+      }
+    ]
   },
   {
-    "id": "all-ancestors-of-a-node-in-a-directed-acyclic-graph",
-    "title": "All Ancestors of a Node in a Directed Acyclic Graph",
-    "leetcodeUrl": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/",
+    "id": "linked-list-random-node",
+    "title": "Linked List Random Node",
+    "leetcodeUrl": "https://leetcode.com/problems/linked-list-random-node/",
     "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Depth-First Search / Breadth-First Search",
-    "pattern": "Topological Sort",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
     "tags": [
-      "depth-first-search",
-      "breadth-first-search",
-      "graph",
-      "topological-sort"
+      "linked-list",
+      "math",
+      "reservoir-sampling",
+      "randomized"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/linked-list-random-node/",
+        "problemId": "382"
+      }
+    ]
   },
   {
-    "id": "maximum-total-importance-of-roads",
-    "title": "Maximum Total Importance of Roads",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-total-importance-of-roads/",
+    "id": "lru-cache",
+    "title": "LRU Cache",
+    "leetcodeUrl": "https://leetcode.com/problems/lru-cache/",
     "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Greedy / Sorting",
-    "pattern": "Graph",
-    "tags": [
-      "greedy",
-      "graph",
-      "sorting",
-      "heap-priority-queue"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "find-closest-node-to-given-two-nodes",
-    "title": "Find Closest Node to Given Two Nodes",
-    "leetcodeUrl": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Depth-First Search",
-    "pattern": "Graph",
-    "tags": [
-      "depth-first-search",
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "node-with-highest-edge-score",
-    "title": "Node With Highest Edge Score",
-    "leetcodeUrl": "https://leetcode.com/problems/node-with-highest-edge-score/",
-    "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Hash Table",
-    "pattern": "Graph",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Hash Table",
     "tags": [
       "hash-table",
-      "graph"
+      "linked-list",
+      "design",
+      "doubly-linked-list"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/lru-cache/",
+        "problemId": "146"
+      }
+    ]
   },
   {
-    "id": "most-profitable-path-in-a-tree",
-    "title": "Most Profitable Path in a Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/most-profitable-path-in-a-tree/",
+    "id": "merge-in-between-linked-lists",
+    "title": "Merge In Between Linked Lists",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-in-between-linked-lists/",
     "difficulty": "Medium",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Tree",
-    "pattern": "Graph",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
     "tags": [
-      "array",
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "graph"
+      "linked-list"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/merge-in-between-linked-lists/",
+        "problemId": "1669"
+      }
+    ]
   },
   {
-    "id": "longest-increasing-path-in-a-matrix",
-    "title": "Longest Increasing Path in a Matrix",
-    "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Dynamic Programming",
-    "pattern": "Topological Sort",
+    "id": "merge-nodes-in-between-zeros",
+    "title": "Merge Nodes in Between Zeros",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-nodes-in-between-zeros/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
     "tags": [
-      "array",
-      "dynamic-programming",
-      "depth-first-search",
-      "breadth-first-search",
-      "graph",
-      "topological-sort",
-      "memoization",
-      "matrix"
+      "linked-list",
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/merge-nodes-in-between-zeros/",
+        "problemId": "2181"
+      }
+    ]
   },
   {
-    "id": "sum-of-distances-in-tree",
-    "title": "Sum of Distances in Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/sum-of-distances-in-tree/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Dynamic Programming / Tree",
-    "pattern": "Graph",
+    "id": "next-greater-node-in-linked-list",
+    "title": "Next Greater Node In Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/next-greater-node-in-linked-list/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Array",
     "tags": [
-      "dynamic-programming",
-      "tree",
-      "depth-first-search",
-      "graph"
+      "array",
+      "linked-list",
+      "stack",
+      "monotonic-stack"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/next-greater-node-in-linked-list/",
+        "problemId": "1019"
+      }
+    ]
+  },
+  {
+    "id": "odd-even-linked-list",
+    "title": "Odd Even Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/odd-even-linked-list/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/odd-even-linked-list/",
+        "problemId": "328"
+      }
+    ]
+  },
+  {
+    "id": "remove-nodes-from-linked-list",
+    "title": "Remove Nodes From Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-nodes-from-linked-list/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "stack",
+      "recursion",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-nodes-from-linked-list/",
+        "problemId": "2487"
+      }
+    ]
+  },
+  {
+    "id": "remove-zero-sum-consecutive-nodes-from-linked-list",
+    "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "linked-list"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/",
+        "problemId": "1171"
+      }
+    ]
   }
 ]

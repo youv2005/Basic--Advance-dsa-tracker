@@ -1,943 +1,1382 @@
 [
   {
-    "id": "remove-duplicates-from-sorted-list-ii",
-    "title": "Remove Duplicates from Sorted List II",
-    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+    "id": "spiral-matrix",
+    "title": "Spiral Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
     "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Linked List",
-    "pattern": "Two Pointers",
-    "tags": [
-      "linked-list",
-      "two-pointers"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "partition-list",
-    "title": "Partition List",
-    "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Linked List",
-    "pattern": "Two Pointers",
-    "tags": [
-      "linked-list",
-      "two-pointers"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "linked-list-cycle-ii",
-    "title": "Linked List Cycle II",
-    "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Hash Table / Linked List",
-    "pattern": "Two Pointers",
-    "tags": [
-      "hash-table",
-      "linked-list",
-      "two-pointers"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "reorder-list",
-    "title": "Reorder List",
-    "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Linked List / Stack",
-    "pattern": "Two Pointers",
-    "tags": [
-      "linked-list",
-      "two-pointers",
-      "stack",
-      "recursion"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "substring-with-concatenation-of-all-words",
-    "title": "Substring with Concatenation of All Words",
-    "leetcodeUrl": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
-    "difficulty": "Hard",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Hash Table / String",
-    "pattern": "Sliding Window",
-    "tags": [
-      "hash-table",
-      "string",
-      "sliding-window"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "minimum-window-substring",
-    "title": "Minimum Window Substring",
-    "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
-    "difficulty": "Hard",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Hash Table / String",
-    "pattern": "Sliding Window",
-    "tags": [
-      "hash-table",
-      "string",
-      "sliding-window"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "contains-duplicate-iii",
-    "title": "Contains Duplicate III",
-    "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-iii/",
-    "difficulty": "Hard",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "sliding-window-two-pointer",
-    "categoryName": "Sliding Window / Two Pointer",
-    "subcategory": "Array / Sorting",
-    "pattern": "Sliding Window",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
     "tags": [
       "array",
-      "sliding-window",
-      "sorting",
-      "bucket-sort",
-      "ordered-set"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "reverse-bits",
-    "title": "Reverse Bits",
-    "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
-    "difficulty": "Easy",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Divide and Conquer",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "divide-and-conquer",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "number-of-1-bits",
-    "title": "Number of 1 Bits",
-    "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
-    "difficulty": "Easy",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Divide and Conquer",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "divide-and-conquer",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "convert-a-number-to-hexadecimal",
-    "title": "Convert a Number to Hexadecimal",
-    "leetcodeUrl": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
-    "difficulty": "Easy",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Math / String",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "math",
-      "string",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "hamming-distance",
-    "title": "Hamming Distance",
-    "leetcodeUrl": "https://leetcode.com/problems/hamming-distance/",
-    "difficulty": "Easy",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Bit Manipulation",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "number-complement",
-    "title": "Number Complement",
-    "leetcodeUrl": "https://leetcode.com/problems/number-complement/",
-    "difficulty": "Easy",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Bit Manipulation",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "set-mismatch",
-    "title": "Set Mismatch",
-    "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
-    "difficulty": "Easy",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "array",
-      "hash-table",
-      "bit-manipulation",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "divide-two-integers",
-    "title": "Divide Two Integers",
-    "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Math",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "math",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "single-number-ii",
-    "title": "Single Number II",
-    "leetcodeUrl": "https://leetcode.com/problems/single-number-ii/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Array",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "array",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "bitwise-and-of-numbers-range",
-    "title": "Bitwise AND of Numbers Range",
-    "leetcodeUrl": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Bit Manipulation",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "single-number-iii",
-    "title": "Single Number III",
-    "leetcodeUrl": "https://leetcode.com/problems/single-number-iii/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Array",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "array",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "maximum-product-of-word-lengths",
-    "title": "Maximum Product of Word Lengths",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-word-lengths/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Array / String",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "array",
-      "string",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "sum-of-two-integers",
-    "title": "Sum of Two Integers",
-    "leetcodeUrl": "https://leetcode.com/problems/sum-of-two-integers/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Math",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "math",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "utf-8-validation",
-    "title": "UTF-8 Validation",
-    "leetcodeUrl": "https://leetcode.com/problems/utf-8-validation/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Array",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "array",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "total-hamming-distance",
-    "title": "Total Hamming Distance",
-    "leetcodeUrl": "https://leetcode.com/problems/total-hamming-distance/",
-    "difficulty": "Medium",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Array / Math",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "array",
-      "math",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "transform-to-chessboard",
-    "title": "Transform to Chessboard",
-    "leetcodeUrl": "https://leetcode.com/problems/transform-to-chessboard/",
-    "difficulty": "Hard",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Array / Math",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "array",
-      "math",
-      "bit-manipulation",
-      "matrix"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "chalkboard-xor-game",
-    "title": "Chalkboard XOR Game",
-    "leetcodeUrl": "https://leetcode.com/problems/chalkboard-xor-game/",
-    "difficulty": "Hard",
-    "level": "core-patterns",
-    "levelName": "Core Patterns",
-    "category": "bit-manipulation",
-    "categoryName": "Bit Manipulation",
-    "subcategory": "Array / Math",
-    "pattern": "Bit Manipulation",
-    "tags": [
-      "array",
-      "math",
-      "bit-manipulation",
-      "brainteaser",
-      "game-theory"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "unique-3-digit-even-numbers",
-    "title": "Unique 3-Digit Even Numbers",
-    "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
-    "difficulty": "Easy",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "recursion",
-    "categoryName": "Recursion",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Recursion",
-    "tags": [
-      "array",
-      "hash-table",
-      "recursion",
-      "enumeration"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "powx-n",
-    "title": "Pow(x, n)",
-    "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
-    "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "recursion",
-    "categoryName": "Recursion",
-    "subcategory": "Math",
-    "pattern": "Recursion",
-    "tags": [
-      "math",
-      "recursion"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "elimination-game",
-    "title": "Elimination Game",
-    "leetcodeUrl": "https://leetcode.com/problems/elimination-game/",
-    "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "recursion",
-    "categoryName": "Recursion",
-    "subcategory": "Math",
-    "pattern": "Recursion",
-    "tags": [
-      "math",
-      "recursion"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "find-kth-bit-in-nth-binary-string",
-    "title": "Find Kth Bit in Nth Binary String",
-    "leetcodeUrl": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
-    "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "recursion",
-    "categoryName": "Recursion",
-    "subcategory": "String / Simulation",
-    "pattern": "Recursion",
-    "tags": [
-      "string",
-      "recursion",
+      "matrix",
       "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/spiral-matrix/",
+        "problemId": "54"
+      }
+    ]
   },
   {
-    "id": "count-good-numbers",
-    "title": "Count Good Numbers",
-    "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers/",
+    "id": "spiral-matrix-ii",
+    "title": "Spiral Matrix II",
+    "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-ii/",
     "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "recursion",
-    "categoryName": "Recursion",
-    "subcategory": "Math",
-    "pattern": "Recursion",
-    "tags": [
-      "math",
-      "recursion"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "count-collisions-of-monkeys-on-a-polygon",
-    "title": "Count Collisions of Monkeys on a Polygon",
-    "leetcodeUrl": "https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/",
-    "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "recursion",
-    "categoryName": "Recursion",
-    "subcategory": "Math",
-    "pattern": "Recursion",
-    "tags": [
-      "math",
-      "recursion"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "permutation-sequence",
-    "title": "Permutation Sequence",
-    "leetcodeUrl": "https://leetcode.com/problems/permutation-sequence/",
-    "difficulty": "Hard",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "recursion",
-    "categoryName": "Recursion",
-    "subcategory": "Math",
-    "pattern": "Recursion",
-    "tags": [
-      "math",
-      "recursion"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "integer-to-english-words",
-    "title": "Integer to English Words",
-    "leetcodeUrl": "https://leetcode.com/problems/integer-to-english-words/",
-    "difficulty": "Hard",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "recursion",
-    "categoryName": "Recursion",
-    "subcategory": "Math / String",
-    "pattern": "Recursion",
-    "tags": [
-      "math",
-      "string",
-      "recursion"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "special-binary-string",
-    "title": "Special Binary String",
-    "leetcodeUrl": "https://leetcode.com/problems/special-binary-string/",
-    "difficulty": "Hard",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "recursion",
-    "categoryName": "Recursion",
-    "subcategory": "String",
-    "pattern": "Recursion",
-    "tags": [
-      "string",
-      "recursion"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "binary-tree-paths",
-    "title": "Binary Tree Paths",
-    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
-    "difficulty": "Easy",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "String / Tree",
-    "pattern": "Backtracking",
-    "tags": [
-      "string",
-      "backtracking",
-      "tree",
-      "depth-first-search",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "binary-watch",
-    "title": "Binary Watch",
-    "leetcodeUrl": "https://leetcode.com/problems/binary-watch/",
-    "difficulty": "Easy",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Bit Manipulation",
-    "pattern": "Backtracking",
-    "tags": [
-      "backtracking",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "sum-of-all-subset-xor-totals",
-    "title": "Sum of All Subset XOR Totals",
-    "leetcodeUrl": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
-    "difficulty": "Easy",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Array / Math",
-    "pattern": "Backtracking",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
     "tags": [
       "array",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/spiral-matrix-ii/",
+        "problemId": "59"
+      }
+    ]
+  },
+  {
+    "id": "spiral-matrix-iii",
+    "title": "Spiral Matrix III",
+    "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-iii/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/spiral-matrix-iii/",
+        "problemId": "885"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-beauty-in-the-array",
+    "title": "Sum of Beauty in the Array",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-beauty-in-the-array/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-beauty-in-the-array/",
+        "problemId": "2012"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-even-numbers-after-queries",
+    "title": "Sum of Even Numbers After Queries",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-even-numbers-after-queries/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-even-numbers-after-queries/",
+        "problemId": "985"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-number-and-its-reverse",
+    "title": "Sum of Number and Its Reverse",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-number-and-its-reverse/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Math",
+    "tags": [
       "math",
-      "backtracking",
-      "bit-manipulation",
-      "combinatorics",
       "enumeration"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-number-and-its-reverse/",
+        "problemId": "2443"
+      }
+    ]
   },
   {
-    "id": "letter-combinations-of-a-phone-number",
-    "title": "Letter Combinations of a Phone Number",
-    "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "id": "valid-tic-tac-toe-state",
+    "title": "Valid Tic-Tac-Toe State",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-tic-tac-toe-state/",
     "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Hash Table / String",
-    "pattern": "Backtracking",
-    "tags": [
-      "hash-table",
-      "string",
-      "backtracking"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "combination-sum",
-    "title": "Combination Sum",
-    "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
-    "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Array",
-    "pattern": "Backtracking",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
     "tags": [
       "array",
-      "backtracking"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "combination-sum-ii",
-    "title": "Combination Sum II",
-    "leetcodeUrl": "https://leetcode.com/problems/combination-sum-ii/",
-    "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Array",
-    "pattern": "Backtracking",
-    "tags": [
-      "array",
-      "backtracking"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "permutations",
-    "title": "Permutations",
-    "leetcodeUrl": "https://leetcode.com/problems/permutations/",
-    "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Array",
-    "pattern": "Backtracking",
-    "tags": [
-      "array",
-      "backtracking"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "permutations-ii",
-    "title": "Permutations II",
-    "leetcodeUrl": "https://leetcode.com/problems/permutations-ii/",
-    "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Array / Sorting",
-    "pattern": "Backtracking",
-    "tags": [
-      "array",
-      "backtracking",
-      "sorting"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "combinations",
-    "title": "Combinations",
-    "leetcodeUrl": "https://leetcode.com/problems/combinations/",
-    "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Backtracking",
-    "pattern": "Backtracking",
-    "tags": [
-      "backtracking"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "subsets",
-    "title": "Subsets",
-    "leetcodeUrl": "https://leetcode.com/problems/subsets/",
-    "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Array / Bit Manipulation",
-    "pattern": "Backtracking",
-    "tags": [
-      "array",
-      "backtracking",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "word-search",
-    "title": "Word Search",
-    "leetcodeUrl": "https://leetcode.com/problems/word-search/",
-    "difficulty": "Medium",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Array / String",
-    "pattern": "Backtracking",
-    "tags": [
-      "array",
-      "string",
-      "backtracking",
-      "depth-first-search",
       "matrix"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/valid-tic-tac-toe-state/",
+        "problemId": "794"
+      }
+    ]
   },
   {
-    "id": "sudoku-solver",
-    "title": "Sudoku Solver",
-    "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
-    "difficulty": "Hard",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Backtracking",
+    "id": "water-bottles-ii",
+    "title": "Water Bottles II",
+    "leetcodeUrl": "https://leetcode.com/problems/water-bottles-ii/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/water-bottles-ii/",
+        "problemId": "3100"
+      }
+    ]
+  },
+  {
+    "id": "watering-plants",
+    "title": "Watering Plants",
+    "leetcodeUrl": "https://leetcode.com/problems/watering-plants/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
     "tags": [
       "array",
-      "hash-table",
-      "backtracking",
-      "matrix"
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/watering-plants/",
+        "problemId": "2079"
+      }
+    ]
   },
   {
-    "id": "n-queens",
-    "title": "N-Queens",
-    "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
-    "difficulty": "Hard",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Array",
-    "pattern": "Backtracking",
+    "id": "where-will-the-ball-fall",
+    "title": "Where Will the Ball Fall",
+    "leetcodeUrl": "https://leetcode.com/problems/where-will-the-ball-fall/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
     "tags": [
       "array",
-      "backtracking"
+      "matrix",
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/where-will-the-ball-fall/",
+        "problemId": "1706"
+      }
+    ]
   },
   {
-    "id": "n-queens-ii",
-    "title": "N-Queens II",
-    "leetcodeUrl": "https://leetcode.com/problems/n-queens-ii/",
+    "id": "consecutive-numbers-sum",
+    "title": "Consecutive Numbers Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/consecutive-numbers-sum/",
     "difficulty": "Hard",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Backtracking",
-    "pattern": "Backtracking",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Math",
     "tags": [
-      "backtracking"
+      "math",
+      "enumeration"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/consecutive-numbers-sum/",
+        "problemId": "829"
+      }
+    ]
   },
   {
-    "id": "word-ladder-ii",
-    "title": "Word Ladder II",
-    "leetcodeUrl": "https://leetcode.com/problems/word-ladder-ii/",
+    "id": "find-array-given-subset-sums",
+    "title": "Find Array Given Subset Sums",
+    "leetcodeUrl": "https://leetcode.com/problems/find-array-given-subset-sums/",
     "difficulty": "Hard",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Hash Table / String",
-    "pattern": "Backtracking",
-    "tags": [
-      "hash-table",
-      "string",
-      "backtracking",
-      "breadth-first-search"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "word-search-ii",
-    "title": "Word Search II",
-    "leetcodeUrl": "https://leetcode.com/problems/word-search-ii/",
-    "difficulty": "Hard",
-    "level": "recursion-backtracking",
-    "levelName": "Recursion & Backtracking",
-    "category": "backtracking",
-    "categoryName": "Backtracking",
-    "subcategory": "Array / String",
-    "pattern": "Backtracking",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
     "tags": [
       "array",
-      "string",
-      "backtracking",
-      "trie",
-      "matrix"
+      "divide-and-conquer"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-array-given-subset-sums/",
+        "problemId": "1982"
+      }
+    ]
   },
   {
-    "id": "binary-tree-inorder-traversal",
-    "title": "Binary Tree Inorder Traversal",
-    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "id": "find-the-minimum-area-to-cover-all-ones-ii",
+    "title": "Find the Minimum Area to Cover All Ones II",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "2D Arrays & Matrices",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "matrix",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/",
+        "problemId": "3197"
+      }
+    ]
+  },
+  {
+    "id": "largest-palindrome-product",
+    "title": "Largest Palindrome Product",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-palindrome-product/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-palindrome-product/",
+        "problemId": "479"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-k-mirror-numbers",
+    "title": "Sum of k-Mirror Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-k-mirror-numbers/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-k-mirror-numbers/",
+        "problemId": "2081"
+      }
+    ]
+  },
+  {
+    "id": "three-equal-parts",
+    "title": "Three Equal Parts",
+    "leetcodeUrl": "https://leetcode.com/problems/three-equal-parts/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "arrays",
+    "categoryName": "Arrays",
+    "subcategory": "1D Arrays",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/three-equal-parts/",
+        "problemId": "927"
+      }
+    ]
+  },
+  {
+    "id": "best-poker-hand",
+    "title": "Best Poker Hand",
+    "leetcodeUrl": "https://leetcode.com/problems/best-poker-hand/",
     "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Stack / Tree",
-    "pattern": "Binary Tree",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
     "tags": [
-      "stack",
-      "tree",
-      "depth-first-search",
-      "binary-tree"
+      "array",
+      "hash-table",
+      "counting"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/best-poker-hand/",
+        "problemId": "2347"
+      }
+    ]
   },
   {
-    "id": "same-tree",
-    "title": "Same Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+    "id": "check-array-formation-through-concatenation",
+    "title": "Check Array Formation Through Concatenation",
+    "leetcodeUrl": "https://leetcode.com/problems/check-array-formation-through-concatenation/",
     "difficulty": "Easy",
-    "level": "trees",
-    "levelName": "Trees",
-    "category": "binary-trees",
-    "categoryName": "Binary Trees",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Binary Tree",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
     "tags": [
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "binary-tree"
+      "array",
+      "hash-table"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/check-array-formation-through-concatenation/",
+        "problemId": "1640"
+      }
+    ]
+  },
+  {
+    "id": "check-if-every-row-and-column-contains-all-numbers",
+    "title": "Check if Every Row and Column Contains All Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/",
+        "problemId": "2133"
+      }
+    ]
+  },
+  {
+    "id": "count-largest-group",
+    "title": "Count Largest Group",
+    "leetcodeUrl": "https://leetcode.com/problems/count-largest-group/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "math"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-largest-group/",
+        "problemId": "1399"
+      }
+    ]
+  },
+  {
+    "id": "count-number-of-pairs-with-absolute-difference-k",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "leetcodeUrl": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/",
+        "problemId": "2006"
+      }
+    ]
+  },
+  {
+    "id": "count-special-quadruplets",
+    "title": "Count Special Quadruplets",
+    "leetcodeUrl": "https://leetcode.com/problems/count-special-quadruplets/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-special-quadruplets/",
+        "problemId": "1995"
+      }
+    ]
+  },
+  {
+    "id": "degree-of-an-array",
+    "title": "Degree of an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/degree-of-an-array/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/degree-of-an-array/",
+        "problemId": "697"
+      }
+    ]
+  },
+  {
+    "id": "distribute-candies",
+    "title": "Distribute Candies",
+    "leetcodeUrl": "https://leetcode.com/problems/distribute-candies/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/distribute-candies/",
+        "problemId": "575"
+      }
+    ]
+  },
+  {
+    "id": "find-lucky-integer-in-an-array",
+    "title": "Find Lucky Integer in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+        "problemId": "1394"
+      }
+    ]
+  },
+  {
+    "id": "find-subarrays-with-equal-sum",
+    "title": "Find Subarrays With Equal Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/find-subarrays-with-equal-sum/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-subarrays-with-equal-sum/",
+        "problemId": "2395"
+      }
+    ]
+  },
+  {
+    "id": "find-the-difference-of-two-arrays",
+    "title": "Find the Difference of Two Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-difference-of-two-arrays/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-difference-of-two-arrays/",
+        "problemId": "2215"
+      }
+    ]
+  },
+  {
+    "id": "find-winner-on-a-tic-tac-toe-game",
+    "title": "Find Winner on a Tic Tac Toe Game",
+    "leetcodeUrl": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/",
+        "problemId": "1275"
+      }
+    ]
+  },
+  {
+    "id": "maximum-number-of-balls-in-a-box",
+    "title": "Maximum Number of Balls in a Box",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "math",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/",
+        "problemId": "1742"
+      }
+    ]
+  },
+  {
+    "id": "maximum-number-of-pairs-in-array",
+    "title": "Maximum Number of Pairs in Array",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-pairs-in-array/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-number-of-pairs-in-array/",
+        "problemId": "2341"
+      }
+    ]
+  },
+  {
+    "id": "most-frequent-number-following-key-in-an-array",
+    "title": "Most Frequent Number Following Key In an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/",
+        "problemId": "2190"
+      }
+    ]
+  },
+  {
+    "id": "n-repeated-element-in-size-2n-array",
+    "title": "N-Repeated Element in Size 2N Array",
+    "leetcodeUrl": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array/",
+        "problemId": "961"
+      }
+    ]
+  },
+  {
+    "id": "number-of-equivalent-domino-pairs",
+    "title": "Number of Equivalent Domino Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-equivalent-domino-pairs/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-equivalent-domino-pairs/",
+        "problemId": "1128"
+      }
+    ]
+  },
+  {
+    "id": "number-of-good-pairs",
+    "title": "Number of Good Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-good-pairs/",
+        "problemId": "1512"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-unique-elements",
+    "title": "Sum of Unique Elements",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-unique-elements/",
+        "problemId": "1748"
+      }
+    ]
+  },
+  {
+    "id": "unique-number-of-occurrences",
+    "title": "Unique Number of Occurrences",
+    "leetcodeUrl": "https://leetcode.com/problems/unique-number-of-occurrences/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/unique-number-of-occurrences/",
+        "problemId": "1207"
+      }
+    ]
+  },
+  {
+    "id": "4sum-ii",
+    "title": "4Sum II",
+    "leetcodeUrl": "https://leetcode.com/problems/4sum-ii/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/4sum-ii/",
+        "problemId": "454"
+      }
+    ]
+  },
+  {
+    "id": "brick-wall",
+    "title": "Brick Wall",
+    "leetcodeUrl": "https://leetcode.com/problems/brick-wall/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/brick-wall/",
+        "problemId": "554"
+      }
+    ]
+  },
+  {
+    "id": "card-flipping-game",
+    "title": "Card Flipping Game",
+    "leetcodeUrl": "https://leetcode.com/problems/card-flipping-game/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/card-flipping-game/",
+        "problemId": "822"
+      }
+    ]
+  },
+  {
+    "id": "check-if-array-pairs-are-divisible-by-k",
+    "title": "Check If Array Pairs Are Divisible by k",
+    "leetcodeUrl": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/",
+        "problemId": "1497"
+      }
+    ]
+  },
+  {
+    "id": "count-artifacts-that-can-be-extracted",
+    "title": "Count Artifacts That Can Be Extracted",
+    "leetcodeUrl": "https://leetcode.com/problems/count-artifacts-that-can-be-extracted/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-artifacts-that-can-be-extracted/",
+        "problemId": "2201"
+      }
+    ]
+  },
+  {
+    "id": "count-good-meals",
+    "title": "Count Good Meals",
+    "leetcodeUrl": "https://leetcode.com/problems/count-good-meals/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-good-meals/",
+        "problemId": "1711"
+      }
+    ]
+  },
+  {
+    "id": "count-nice-pairs-in-an-array",
+    "title": "Count Nice Pairs in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/count-nice-pairs-in-an-array/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-nice-pairs-in-an-array/",
+        "problemId": "1814"
+      }
+    ]
+  },
+  {
+    "id": "count-number-of-bad-pairs",
+    "title": "Count Number of Bad Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/count-number-of-bad-pairs/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-number-of-bad-pairs/",
+        "problemId": "2364"
+      }
+    ]
+  },
+  {
+    "id": "equal-row-and-column-pairs",
+    "title": "Equal Row and Column Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/equal-row-and-column-pairs/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "matrix",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/equal-row-and-column-pairs/",
+        "problemId": "2352"
+      }
+    ]
+  },
+  {
+    "id": "find-all-duplicates-in-an-array",
+    "title": "Find All Duplicates in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+        "problemId": "442"
+      }
+    ]
+  },
+  {
+    "id": "find-all-lonely-numbers-in-the-array",
+    "title": "Find All Lonely Numbers in the Array",
+    "leetcodeUrl": "https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/",
+        "problemId": "2150"
+      }
+    ]
+  },
+  {
+    "id": "finding-the-users-active-minutes",
+    "title": "Finding the Users Active Minutes",
+    "leetcodeUrl": "https://leetcode.com/problems/finding-the-users-active-minutes/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/finding-the-users-active-minutes/",
+        "problemId": "1817"
+      }
+    ]
+  },
+  {
+    "id": "flip-columns-for-maximum-number-of-equal-rows",
+    "title": "Flip Columns For Maximum Number of Equal Rows",
+    "leetcodeUrl": "https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/",
+        "problemId": "1072"
+      }
+    ]
+  },
+  {
+    "id": "magic-squares-in-grid",
+    "title": "Magic Squares In Grid",
+    "leetcodeUrl": "https://leetcode.com/problems/magic-squares-in-grid/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "hashing",
+    "categoryName": "Hashing",
+    "subcategory": "Hash Maps & Sets",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/magic-squares-in-grid/",
+        "problemId": "840"
+      }
+    ]
   }
 ]

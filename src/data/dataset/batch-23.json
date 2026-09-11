@@ -1,0 +1,1403 @@
+[
+  {
+    "id": "filling-bookcase-shelves",
+    "title": "Filling Bookcase Shelves",
+    "leetcodeUrl": "https://leetcode.com/problems/filling-bookcase-shelves/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/filling-bookcase-shelves/",
+        "problemId": "1105"
+      }
+    ]
+  },
+  {
+    "id": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+    "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "binary-search",
+      "dynamic-programming",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/",
+        "problemId": "1477"
+      }
+    ]
+  },
+  {
+    "id": "flip-string-to-monotone-increasing",
+    "title": "Flip String to Monotone Increasing",
+    "leetcodeUrl": "https://leetcode.com/problems/flip-string-to-monotone-increasing/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/flip-string-to-monotone-increasing/",
+        "problemId": "926"
+      }
+    ]
+  },
+  {
+    "id": "generate-parentheses",
+    "title": "Generate Parentheses",
+    "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming",
+      "backtracking"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/generate-parentheses/",
+        "problemId": "22"
+      }
+    ]
+  },
+  {
+    "id": "greatest-sum-divisible-by-three",
+    "title": "Greatest Sum Divisible by Three",
+    "leetcodeUrl": "https://leetcode.com/problems/greatest-sum-divisible-by-three/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/greatest-sum-divisible-by-three/",
+        "problemId": "1262"
+      }
+    ]
+  },
+  {
+    "id": "guess-number-higher-or-lower-ii",
+    "title": "Guess Number Higher or Lower II",
+    "leetcodeUrl": "https://leetcode.com/problems/guess-number-higher-or-lower-ii/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/guess-number-higher-or-lower-ii/",
+        "problemId": "375"
+      }
+    ]
+  },
+  {
+    "id": "house-robber",
+    "title": "House Robber",
+    "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/house-robber/",
+        "problemId": "198"
+      }
+    ]
+  },
+  {
+    "id": "house-robber-ii",
+    "title": "House Robber II",
+    "leetcodeUrl": "https://leetcode.com/problems/house-robber-ii/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/house-robber-ii/",
+        "problemId": "213"
+      }
+    ]
+  },
+  {
+    "id": "integer-break",
+    "title": "Integer Break",
+    "leetcodeUrl": "https://leetcode.com/problems/integer-break/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/integer-break/",
+        "problemId": "343"
+      }
+    ]
+  },
+  {
+    "id": "integer-replacement",
+    "title": "Integer Replacement",
+    "leetcodeUrl": "https://leetcode.com/problems/integer-replacement/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming",
+      "greedy",
+      "bit-manipulation",
+      "memoization"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/integer-replacement/",
+        "problemId": "397"
+      }
+    ]
+  },
+  {
+    "id": "interleaving-string",
+    "title": "Interleaving String",
+    "leetcodeUrl": "https://leetcode.com/problems/interleaving-string/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/interleaving-string/",
+        "problemId": "97"
+      }
+    ]
+  },
+  {
+    "id": "jump-game",
+    "title": "Jump Game",
+    "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/jump-game/",
+        "problemId": "55"
+      }
+    ]
+  },
+  {
+    "id": "jump-game-ii",
+    "title": "Jump Game II",
+    "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/jump-game-ii/",
+        "problemId": "45"
+      }
+    ]
+  },
+  {
+    "id": "k-concatenation-maximum-sum",
+    "title": "K-Concatenation Maximum Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/k-concatenation-maximum-sum/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/k-concatenation-maximum-sum/",
+        "problemId": "1191"
+      }
+    ]
+  },
+  {
+    "id": "knight-dialer",
+    "title": "Knight Dialer",
+    "leetcodeUrl": "https://leetcode.com/problems/knight-dialer/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/knight-dialer/",
+        "problemId": "935"
+      }
+    ]
+  },
+  {
+    "id": "knight-probability-in-chessboard",
+    "title": "Knight Probability in Chessboard",
+    "leetcodeUrl": "https://leetcode.com/problems/knight-probability-in-chessboard/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/knight-probability-in-chessboard/",
+        "problemId": "688"
+      }
+    ]
+  },
+  {
+    "id": "largest-1-bordered-square",
+    "title": "Largest 1-Bordered Square",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-1-bordered-square/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "2D / Grid DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-1-bordered-square/",
+        "problemId": "1139"
+      }
+    ]
+  },
+  {
+    "id": "largest-divisible-subset",
+    "title": "Largest Divisible Subset",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-divisible-subset/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "dynamic-programming",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-divisible-subset/",
+        "problemId": "368"
+      }
+    ]
+  },
+  {
+    "id": "largest-plus-sign",
+    "title": "Largest Plus Sign",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-plus-sign/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-plus-sign/",
+        "problemId": "764"
+      }
+    ]
+  },
+  {
+    "id": "largest-sum-of-averages",
+    "title": "Largest Sum of Averages",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-sum-of-averages/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-sum-of-averages/",
+        "problemId": "813"
+      }
+    ]
+  },
+  {
+    "id": "last-stone-weight-ii",
+    "title": "Last Stone Weight II",
+    "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight-ii/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/last-stone-weight-ii/",
+        "problemId": "1049"
+      }
+    ]
+  },
+  {
+    "id": "length-of-longest-fibonacci-subsequence",
+    "title": "Length of Longest Fibonacci Subsequence",
+    "leetcodeUrl": "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/",
+        "problemId": "873"
+      }
+    ]
+  },
+  {
+    "id": "longest-arithmetic-subsequence",
+    "title": "Longest Arithmetic Subsequence",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-arithmetic-subsequence/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "binary-search",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-arithmetic-subsequence/",
+        "problemId": "1027"
+      }
+    ]
+  },
+  {
+    "id": "longest-arithmetic-subsequence-of-given-difference",
+    "title": "Longest Arithmetic Subsequence of Given Difference",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/",
+        "problemId": "1218"
+      }
+    ]
+  },
+  {
+    "id": "longest-common-subsequence",
+    "title": "Longest Common Subsequence",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-common-subsequence/",
+        "problemId": "1143"
+      }
+    ]
+  },
+  {
+    "id": "longest-increasing-subsequence",
+    "title": "Longest Increasing Subsequence",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "problemId": "300"
+      }
+    ]
+  },
+  {
+    "id": "longest-mountain-in-array",
+    "title": "Longest Mountain in Array",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-mountain-in-array/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "dynamic-programming",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-mountain-in-array/",
+        "problemId": "845"
+      }
+    ]
+  },
+  {
+    "id": "longest-palindromic-subsequence",
+    "title": "Longest Palindromic Subsequence",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+        "problemId": "516"
+      }
+    ]
+  },
+  {
+    "id": "longest-palindromic-substring",
+    "title": "Longest Palindromic Substring",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "problemId": "5"
+      }
+    ]
+  },
+  {
+    "id": "longest-string-chain",
+    "title": "Longest String Chain",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-string-chain/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "two-pointers",
+      "string",
+      "dynamic-programming",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-string-chain/",
+        "problemId": "1048"
+      }
+    ]
+  },
+  {
+    "id": "longest-subarray-of-1s-after-deleting-one-element",
+    "title": "Longest Subarray of 1's After Deleting One Element",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/",
+        "problemId": "1493"
+      }
+    ]
+  },
+  {
+    "id": "longest-turbulent-subarray",
+    "title": "Longest Turbulent Subarray",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-turbulent-subarray/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-turbulent-subarray/",
+        "problemId": "978"
+      }
+    ]
+  },
+  {
+    "id": "matchsticks-to-square",
+    "title": "Matchsticks to Square",
+    "leetcodeUrl": "https://leetcode.com/problems/matchsticks-to-square/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "backtracking",
+      "bit-manipulation",
+      "bitmask"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/matchsticks-to-square/",
+        "problemId": "473"
+      }
+    ]
+  },
+  {
+    "id": "maximal-square",
+    "title": "Maximal Square",
+    "leetcodeUrl": "https://leetcode.com/problems/maximal-square/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "2D / Grid DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximal-square/",
+        "problemId": "221"
+      }
+    ]
+  },
+  {
+    "id": "maximum-length-of-pair-chain",
+    "title": "Maximum Length of Pair Chain",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-pair-chain/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-length-of-pair-chain/",
+        "problemId": "646"
+      }
+    ]
+  },
+  {
+    "id": "maximum-length-of-repeated-subarray",
+    "title": "Maximum Length of Repeated Subarray",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming",
+      "sliding-window",
+      "rolling-hash",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/",
+        "problemId": "718"
+      }
+    ]
+  },
+  {
+    "id": "maximum-length-of-subarray-with-positive-product",
+    "title": "Maximum Length of Subarray With Positive Product",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/",
+        "problemId": "1567"
+      }
+    ]
+  },
+  {
+    "id": "maximum-non-negative-product-in-a-matrix",
+    "title": "Maximum Non Negative Product in a Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "2D / Grid DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/",
+        "problemId": "1594"
+      }
+    ]
+  },
+  {
+    "id": "maximum-product-subarray",
+    "title": "Maximum Product Subarray",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-product-subarray/",
+        "problemId": "152"
+      }
+    ]
+  },
+  {
+    "id": "maximum-subarray",
+    "title": "Maximum Subarray",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-subarray/",
+        "problemId": "53"
+      }
+    ]
+  },
+  {
+    "id": "maximum-subarray-sum-with-one-deletion",
+    "title": "Maximum Subarray Sum with One Deletion",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/",
+        "problemId": "1186"
+      }
+    ]
+  },
+  {
+    "id": "maximum-sum-circular-subarray",
+    "title": "Maximum Sum Circular Subarray",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "dynamic-programming",
+      "queue",
+      "monotonic-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+        "problemId": "918"
+      }
+    ]
+  },
+  {
+    "id": "maximum-sum-of-two-non-overlapping-subarrays",
+    "title": "Maximum Sum of Two Non-Overlapping Subarrays",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Subsequence & Subarray DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/",
+        "problemId": "1031"
+      }
+    ]
+  },
+  {
+    "id": "minimum-ascii-delete-sum-for-two-strings",
+    "title": "Minimum ASCII Delete Sum for Two Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/",
+        "problemId": "712"
+      }
+    ]
+  },
+  {
+    "id": "minimum-cost-for-tickets",
+    "title": "Minimum Cost For Tickets",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-for-tickets/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-cost-for-tickets/",
+        "problemId": "983"
+      }
+    ]
+  },
+  {
+    "id": "minimum-cost-tree-from-leaf-values",
+    "title": "Minimum Cost Tree From Leaf Values",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "stack",
+      "greedy",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/",
+        "problemId": "1130"
+      }
+    ]
+  },
+  {
+    "id": "minimum-falling-path-sum",
+    "title": "Minimum Falling Path Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-falling-path-sum/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "2D / Grid DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-falling-path-sum/",
+        "problemId": "931"
+      }
+    ]
+  },
+  {
+    "id": "minimum-path-sum",
+    "title": "Minimum Path Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-path-sum/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "2D / Grid DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-path-sum/",
+        "problemId": "64"
+      }
+    ]
+  },
+  {
+    "id": "minimum-score-triangulation-of-polygon",
+    "title": "Minimum Score Triangulation of Polygon",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-score-triangulation-of-polygon/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-score-triangulation-of-polygon/",
+        "problemId": "1039"
+      }
+    ]
+  },
+  {
+    "id": "minimum-time-to-make-rope-colorful",
+    "title": "Minimum Time to Make Rope Colorful",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/",
+    "difficulty": "Medium",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "dynamic-programming",
+      "greedy"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/",
+        "problemId": "1578"
+      }
+    ]
+  }
+]

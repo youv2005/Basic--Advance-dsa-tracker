@@ -1,0 +1,1445 @@
+[
+  {
+    "id": "paint-house-iii",
+    "title": "Paint House III",
+    "leetcodeUrl": "https://leetcode.com/problems/paint-house-iii/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/paint-house-iii/",
+        "problemId": "1473"
+      }
+    ]
+  },
+  {
+    "id": "palindrome-partitioning-ii",
+    "title": "Palindrome Partitioning II",
+    "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+        "problemId": "132"
+      }
+    ]
+  },
+  {
+    "id": "palindrome-partitioning-iii",
+    "title": "Palindrome Partitioning III",
+    "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-iii/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/palindrome-partitioning-iii/",
+        "problemId": "1278"
+      }
+    ]
+  },
+  {
+    "id": "pizza-with-3n-slices",
+    "title": "Pizza With 3n Slices",
+    "leetcodeUrl": "https://leetcode.com/problems/pizza-with-3n-slices/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "greedy",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/pizza-with-3n-slices/",
+        "problemId": "1388"
+      }
+    ]
+  },
+  {
+    "id": "poor-pigs",
+    "title": "Poor Pigs",
+    "leetcodeUrl": "https://leetcode.com/problems/poor-pigs/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "combinatorics"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/poor-pigs/",
+        "problemId": "458"
+      }
+    ]
+  },
+  {
+    "id": "probability-of-a-two-boxes-having-the-same-number-of-distinct-balls",
+    "title": "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+    "leetcodeUrl": "https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "dynamic-programming",
+      "backtracking",
+      "combinatorics",
+      "probability-and-statistics"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/",
+        "problemId": "1467"
+      }
+    ]
+  },
+  {
+    "id": "profitable-schemes",
+    "title": "Profitable Schemes",
+    "leetcodeUrl": "https://leetcode.com/problems/profitable-schemes/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/profitable-schemes/",
+        "problemId": "879"
+      }
+    ]
+  },
+  {
+    "id": "race-car",
+    "title": "Race Car",
+    "leetcodeUrl": "https://leetcode.com/problems/race-car/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/race-car/",
+        "problemId": "818"
+      }
+    ]
+  },
+  {
+    "id": "reducing-dishes",
+    "title": "Reducing Dishes",
+    "leetcodeUrl": "https://leetcode.com/problems/reducing-dishes/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "greedy",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reducing-dishes/",
+        "problemId": "1402"
+      }
+    ]
+  },
+  {
+    "id": "regular-expression-matching",
+    "title": "Regular Expression Matching",
+    "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/regular-expression-matching/",
+        "problemId": "10"
+      }
+    ]
+  },
+  {
+    "id": "remove-boxes",
+    "title": "Remove Boxes",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-boxes/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "memoization"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-boxes/",
+        "problemId": "546"
+      }
+    ]
+  },
+  {
+    "id": "restore-the-array",
+    "title": "Restore The Array",
+    "leetcodeUrl": "https://leetcode.com/problems/restore-the-array/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/restore-the-array/",
+        "problemId": "1416"
+      }
+    ]
+  },
+  {
+    "id": "russian-doll-envelopes",
+    "title": "Russian Doll Envelopes",
+    "leetcodeUrl": "https://leetcode.com/problems/russian-doll-envelopes/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/russian-doll-envelopes/",
+        "problemId": "354"
+      }
+    ]
+  },
+  {
+    "id": "scramble-string",
+    "title": "Scramble String",
+    "leetcodeUrl": "https://leetcode.com/problems/scramble-string/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/scramble-string/",
+        "problemId": "87"
+      }
+    ]
+  },
+  {
+    "id": "shortest-common-supersequence",
+    "title": "Shortest Common Supersequence ",
+    "leetcodeUrl": "https://leetcode.com/problems/shortest-common-supersequence/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/shortest-common-supersequence/",
+        "problemId": "1092"
+      }
+    ]
+  },
+  {
+    "id": "smallest-sufficient-team",
+    "title": "Smallest Sufficient Team",
+    "leetcodeUrl": "https://leetcode.com/problems/smallest-sufficient-team/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "bit-manipulation",
+      "bitmask"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/smallest-sufficient-team/",
+        "problemId": "1125"
+      }
+    ]
+  },
+  {
+    "id": "split-array-largest-sum",
+    "title": "Split Array Largest Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming",
+      "greedy",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/split-array-largest-sum/",
+        "problemId": "410"
+      }
+    ]
+  },
+  {
+    "id": "split-array-with-same-average",
+    "title": "Split Array With Same Average",
+    "leetcodeUrl": "https://leetcode.com/problems/split-array-with-same-average/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "dynamic-programming",
+      "bit-manipulation",
+      "bitmask"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/split-array-with-same-average/",
+        "problemId": "805"
+      }
+    ]
+  },
+  {
+    "id": "stickers-to-spell-word",
+    "title": "Stickers to Spell Word",
+    "leetcodeUrl": "https://leetcode.com/problems/stickers-to-spell-word/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "dynamic-programming",
+      "backtracking",
+      "bit-manipulation",
+      "memoization",
+      "bitmask"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/stickers-to-spell-word/",
+        "problemId": "691"
+      }
+    ]
+  },
+  {
+    "id": "stone-game-iii",
+    "title": "Stone Game III",
+    "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "dynamic-programming",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/stone-game-iii/",
+        "problemId": "1406"
+      }
+    ]
+  },
+  {
+    "id": "stone-game-iv",
+    "title": "Stone Game IV",
+    "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "dynamic-programming",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/stone-game-iv/",
+        "problemId": "1510"
+      }
+    ]
+  },
+  {
+    "id": "stone-game-v",
+    "title": "Stone Game V",
+    "leetcodeUrl": "https://leetcode.com/problems/stone-game-v/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "dynamic-programming",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/stone-game-v/",
+        "problemId": "1563"
+      }
+    ]
+  },
+  {
+    "id": "strange-printer",
+    "title": "Strange Printer",
+    "leetcodeUrl": "https://leetcode.com/problems/strange-printer/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/strange-printer/",
+        "problemId": "664"
+      }
+    ]
+  },
+  {
+    "id": "string-compression-ii",
+    "title": "String Compression II",
+    "leetcodeUrl": "https://leetcode.com/problems/string-compression-ii/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "String DP",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/string-compression-ii/",
+        "problemId": "1531"
+      }
+    ]
+  },
+  {
+    "id": "student-attendance-record-ii",
+    "title": "Student Attendance Record II",
+    "leetcodeUrl": "https://leetcode.com/problems/student-attendance-record-ii/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Dynamic Programming",
+    "tags": [
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/student-attendance-record-ii/",
+        "problemId": "552"
+      }
+    ]
+  },
+  {
+    "id": "super-egg-drop",
+    "title": "Super Egg Drop",
+    "leetcodeUrl": "https://leetcode.com/problems/super-egg-drop/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "binary-search",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/super-egg-drop/",
+        "problemId": "887"
+      }
+    ]
+  },
+  {
+    "id": "tallest-billboard",
+    "title": "Tallest Billboard",
+    "leetcodeUrl": "https://leetcode.com/problems/tallest-billboard/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/tallest-billboard/",
+        "problemId": "956"
+      }
+    ]
+  },
+  {
+    "id": "trapping-rain-water",
+    "title": "Trapping Rain Water",
+    "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "dynamic-programming",
+      "stack",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/trapping-rain-water/",
+        "problemId": "42"
+      }
+    ]
+  },
+  {
+    "id": "valid-permutations-for-di-sequence",
+    "title": "Valid Permutations for DI Sequence",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-permutations-for-di-sequence/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/valid-permutations-for-di-sequence/",
+        "problemId": "903"
+      }
+    ]
+  },
+  {
+    "id": "wildcard-matching",
+    "title": "Wildcard Matching",
+    "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
+    "difficulty": "Hard",
+    "level": "dynamic-programming",
+    "levelName": "Dynamic Programming",
+    "category": "dynamic-programming",
+    "categoryName": "Dynamic Programming",
+    "subcategory": "Core DP & State Transitions",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "dynamic-programming",
+      "greedy",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/wildcard-matching/",
+        "problemId": "44"
+      }
+    ]
+  },
+  {
+    "id": "count-prefix-and-suffix-pairs-i",
+    "title": "Count Prefix and Suffix Pairs I",
+    "leetcodeUrl": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/",
+    "difficulty": "Easy",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "trie",
+      "rolling-hash",
+      "string-matching",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/",
+        "problemId": "3042"
+      }
+    ]
+  },
+  {
+    "id": "longest-common-prefix",
+    "title": "Longest Common Prefix",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+    "difficulty": "Easy",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-common-prefix/",
+        "problemId": "14"
+      }
+    ]
+  },
+  {
+    "id": "maximum-strong-pair-xor-i",
+    "title": "Maximum Strong Pair XOR I",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-strong-pair-xor-i/",
+    "difficulty": "Easy",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "bit-manipulation",
+      "trie",
+      "sliding-window"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-strong-pair-xor-i/",
+        "problemId": "2932"
+      }
+    ]
+  },
+  {
+    "id": "camelcase-matching",
+    "title": "Camelcase Matching",
+    "leetcodeUrl": "https://leetcode.com/problems/camelcase-matching/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "string",
+      "trie",
+      "string-matching"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/camelcase-matching/",
+        "problemId": "1023"
+      }
+    ]
+  },
+  {
+    "id": "extra-characters-in-a-string",
+    "title": "Extra Characters in a String",
+    "leetcodeUrl": "https://leetcode.com/problems/extra-characters-in-a-string/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "dynamic-programming",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/extra-characters-in-a-string/",
+        "problemId": "2707"
+      }
+    ]
+  },
+  {
+    "id": "find-the-length-of-the-longest-common-prefix",
+    "title": "Find the Length of the Longest Common Prefix",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
+        "problemId": "3043"
+      }
+    ]
+  },
+  {
+    "id": "implement-trie-prefix-tree",
+    "title": "Implement Trie (Prefix Tree)",
+    "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "design",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "problemId": "208"
+      }
+    ]
+  },
+  {
+    "id": "k-divisible-elements-subarrays",
+    "title": "K Divisible Elements Subarrays",
+    "leetcodeUrl": "https://leetcode.com/problems/k-divisible-elements-subarrays/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "trie",
+      "rolling-hash",
+      "hash-function",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/k-divisible-elements-subarrays/",
+        "problemId": "2261"
+      }
+    ]
+  },
+  {
+    "id": "longest-word-in-dictionary",
+    "title": "Longest Word in Dictionary",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-word-in-dictionary/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "trie",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-word-in-dictionary/",
+        "problemId": "720"
+      }
+    ]
+  },
+  {
+    "id": "map-sum-pairs",
+    "title": "Map Sum Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/map-sum-pairs/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "design",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/map-sum-pairs/",
+        "problemId": "677"
+      }
+    ]
+  },
+  {
+    "id": "maximum-xor-of-two-numbers-in-an-array",
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "bit-manipulation",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+        "problemId": "421"
+      }
+    ]
+  },
+  {
+    "id": "number-of-matching-subsequences",
+    "title": "Number of Matching Subsequences",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-matching-subsequences/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "binary-search",
+      "dynamic-programming",
+      "trie",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-matching-subsequences/",
+        "problemId": "792"
+      }
+    ]
+  },
+  {
+    "id": "replace-words",
+    "title": "Replace Words",
+    "leetcodeUrl": "https://leetcode.com/problems/replace-words/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/replace-words/",
+        "problemId": "648"
+      }
+    ]
+  },
+  {
+    "id": "search-suggestions-system",
+    "title": "Search Suggestions System",
+    "leetcodeUrl": "https://leetcode.com/problems/search-suggestions-system/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "binary-search",
+      "trie",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/search-suggestions-system/",
+        "problemId": "1268"
+      }
+    ]
+  },
+  {
+    "id": "short-encoding-of-words",
+    "title": "Short Encoding of Words",
+    "leetcodeUrl": "https://leetcode.com/problems/short-encoding-of-words/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/short-encoding-of-words/",
+        "problemId": "820"
+      }
+    ]
+  },
+  {
+    "id": "shortest-uncommon-substring-in-an-array",
+    "title": "Shortest Uncommon Substring in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/",
+        "problemId": "3076"
+      }
+    ]
+  },
+  {
+    "id": "top-k-frequent-words",
+    "title": "Top K Frequent Words",
+    "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "trie",
+      "sorting",
+      "heap-priority-queue",
+      "bucket-sort",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/top-k-frequent-words/",
+        "problemId": "692"
+      }
+    ]
+  },
+  {
+    "id": "word-break",
+    "title": "Word Break",
+    "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "dynamic-programming",
+      "trie",
+      "memoization"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/word-break/",
+        "problemId": "139"
+      }
+    ]
+  },
+  {
+    "id": "words-within-two-edits-of-dictionary",
+    "title": "Words Within Two Edits of Dictionary",
+    "leetcodeUrl": "https://leetcode.com/problems/words-within-two-edits-of-dictionary/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/words-within-two-edits-of-dictionary/",
+        "problemId": "2452"
+      }
+    ]
+  },
+  {
+    "id": "count-pairs-with-xor-in-a-range",
+    "title": "Count Pairs With XOR in a Range",
+    "leetcodeUrl": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range/",
+        "problemId": "1803"
+      }
+    ]
+  }
+]

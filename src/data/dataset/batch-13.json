@@ -1,0 +1,1396 @@
+[
+  {
+    "id": "rotate-list",
+    "title": "Rotate List",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "two-pointers"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/rotate-list/",
+        "problemId": "61"
+      }
+    ]
+  },
+  {
+    "id": "sort-colors",
+    "title": "Sort Colors",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sort-colors/",
+        "problemId": "75"
+      }
+    ]
+  },
+  {
+    "id": "sort-list",
+    "title": "Sort List",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "two-pointers",
+      "divide-and-conquer",
+      "sorting",
+      "merge-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sort-list/",
+        "problemId": "148"
+      }
+    ]
+  },
+  {
+    "id": "string-compression",
+    "title": "String Compression",
+    "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/string-compression/",
+        "problemId": "443"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-square-numbers",
+    "title": "Sum of Square Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-square-numbers/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "two-pointers",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-square-numbers/",
+        "problemId": "633"
+      }
+    ]
+  },
+  {
+    "id": "two-sum-ii-input-array-is-sorted",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+        "problemId": "167"
+      }
+    ]
+  },
+  {
+    "id": "count-the-number-of-incremovable-subarrays-ii",
+    "title": "Count the Number of Incremovable Subarrays II",
+    "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii/",
+        "problemId": "2972"
+      }
+    ]
+  },
+  {
+    "id": "find-k-th-smallest-pair-distance",
+    "title": "Find K-th Smallest Pair Distance",
+    "leetcodeUrl": "https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "binary-search",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
+        "problemId": "719"
+      }
+    ]
+  },
+  {
+    "id": "last-substring-in-lexicographical-order",
+    "title": "Last Substring in Lexicographical Order",
+    "leetcodeUrl": "https://leetcode.com/problems/last-substring-in-lexicographical-order/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/last-substring-in-lexicographical-order/",
+        "problemId": "1163"
+      }
+    ]
+  },
+  {
+    "id": "maximum-score-of-a-good-subarray",
+    "title": "Maximum Score of a Good Subarray",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-score-of-a-good-subarray/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "binary-search",
+      "stack",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-score-of-a-good-subarray/",
+        "problemId": "1793"
+      }
+    ]
+  },
+  {
+    "id": "recover-the-original-array",
+    "title": "Recover the Original Array",
+    "leetcodeUrl": "https://leetcode.com/problems/recover-the-original-array/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "two-pointers",
+      "sorting",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/recover-the-original-array/",
+        "problemId": "2122"
+      }
+    ]
+  },
+  {
+    "id": "subsequence-with-the-minimum-score",
+    "title": "Subsequence With the Minimum Score",
+    "leetcodeUrl": "https://leetcode.com/problems/subsequence-with-the-minimum-score/",
+    "difficulty": "Hard",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "two-pointers",
+    "categoryName": "Two Pointers",
+    "subcategory": "Two Pointers",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string",
+      "binary-search"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/subsequence-with-the-minimum-score/",
+        "problemId": "2565"
+      }
+    ]
+  },
+  {
+    "id": "binary-gap",
+    "title": "Binary Gap",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-gap/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-gap/",
+        "problemId": "868"
+      }
+    ]
+  },
+  {
+    "id": "binary-number-with-alternating-bits",
+    "title": "Binary Number with Alternating Bits",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+        "problemId": "693"
+      }
+    ]
+  },
+  {
+    "id": "binary-prefix-divisible-by-5",
+    "title": "Binary Prefix Divisible By 5",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-prefix-divisible-by-5/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/binary-prefix-divisible-by-5/",
+        "problemId": "1018"
+      }
+    ]
+  },
+  {
+    "id": "complement-of-base-10-integer",
+    "title": "Complement of Base 10 Integer",
+    "leetcodeUrl": "https://leetcode.com/problems/complement-of-base-10-integer/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/complement-of-base-10-integer/",
+        "problemId": "1009"
+      }
+    ]
+  },
+  {
+    "id": "count-the-number-of-consistent-strings",
+    "title": "Count the Number of Consistent Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-consistent-strings/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "bit-manipulation",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-the-number-of-consistent-strings/",
+        "problemId": "1684"
+      }
+    ]
+  },
+  {
+    "id": "decode-xored-array",
+    "title": "Decode XORed Array",
+    "leetcodeUrl": "https://leetcode.com/problems/decode-xored-array/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/decode-xored-array/",
+        "problemId": "1720"
+      }
+    ]
+  },
+  {
+    "id": "divide-array-into-equal-pairs",
+    "title": "Divide Array Into Equal Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/divide-array-into-equal-pairs/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "bit-manipulation",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/divide-array-into-equal-pairs/",
+        "problemId": "2206"
+      }
+    ]
+  },
+  {
+    "id": "minimum-bit-flips-to-convert-number",
+    "title": "Minimum Bit Flips to Convert Number",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+        "problemId": "2220"
+      }
+    ]
+  },
+  {
+    "id": "missing-number",
+    "title": "Missing Number",
+    "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "math",
+      "binary-search",
+      "bit-manipulation",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/missing-number/",
+        "problemId": "268"
+      }
+    ]
+  },
+  {
+    "id": "number-of-1-bits",
+    "title": "Number of 1 Bits",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Divide and Conquer",
+    "tags": [
+      "divide-and-conquer",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-1-bits/",
+        "problemId": "191"
+      }
+    ]
+  },
+  {
+    "id": "number-of-steps-to-reduce-a-number-to-zero",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+        "problemId": "1342"
+      }
+    ]
+  },
+  {
+    "id": "power-of-four",
+    "title": "Power of Four",
+    "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "bit-manipulation",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/power-of-four/",
+        "problemId": "342"
+      }
+    ]
+  },
+  {
+    "id": "power-of-two",
+    "title": "Power of Two",
+    "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "bit-manipulation",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/power-of-two/",
+        "problemId": "231"
+      }
+    ]
+  },
+  {
+    "id": "prime-number-of-set-bits-in-binary-representation",
+    "title": "Prime Number of Set Bits in Binary Representation",
+    "leetcodeUrl": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/",
+        "problemId": "762"
+      }
+    ]
+  },
+  {
+    "id": "reverse-bits",
+    "title": "Reverse Bits",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Divide and Conquer",
+    "tags": [
+      "divide-and-conquer",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-bits/",
+        "problemId": "190"
+      }
+    ]
+  },
+  {
+    "id": "set-mismatch",
+    "title": "Set Mismatch",
+    "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "bit-manipulation",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/set-mismatch/",
+        "problemId": "645"
+      }
+    ]
+  },
+  {
+    "id": "sort-integers-by-the-number-of-1-bits",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation",
+      "sorting",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+        "problemId": "1356"
+      }
+    ]
+  },
+  {
+    "id": "two-out-of-three",
+    "title": "Two Out of Three",
+    "leetcodeUrl": "https://leetcode.com/problems/two-out-of-three/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/two-out-of-three/",
+        "problemId": "2032"
+      }
+    ]
+  },
+  {
+    "id": "xor-operation-in-an-array",
+    "title": "XOR Operation in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/xor-operation-in-an-array/",
+    "difficulty": "Easy",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/xor-operation-in-an-array/",
+        "problemId": "1486"
+      }
+    ]
+  },
+  {
+    "id": "apply-bitwise-operations-to-make-strings-equal",
+    "title": "Apply Bitwise Operations to Make Strings Equal",
+    "leetcodeUrl": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/",
+        "problemId": "2546"
+      }
+    ]
+  },
+  {
+    "id": "bitwise-and-of-numbers-range",
+    "title": "Bitwise AND of Numbers Range",
+    "leetcodeUrl": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
+        "problemId": "201"
+      }
+    ]
+  },
+  {
+    "id": "bitwise-xor-of-all-pairings",
+    "title": "Bitwise XOR of All Pairings",
+    "leetcodeUrl": "https://leetcode.com/problems/bitwise-xor-of-all-pairings/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation",
+      "brainteaser"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/bitwise-xor-of-all-pairings/",
+        "problemId": "2425"
+      }
+    ]
+  },
+  {
+    "id": "check-if-a-string-contains-all-binary-codes-of-size-k",
+    "title": "Check If a String Contains All Binary Codes of Size K",
+    "leetcodeUrl": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "bit-manipulation",
+      "rolling-hash",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
+        "problemId": "1461"
+      }
+    ]
+  },
+  {
+    "id": "concatenation-of-consecutive-binary-numbers",
+    "title": "Concatenation of Consecutive Binary Numbers",
+    "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "bit-manipulation",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/",
+        "problemId": "1680"
+      }
+    ]
+  },
+  {
+    "id": "count-words-obtained-after-adding-a-letter",
+    "title": "Count Words Obtained After Adding a Letter",
+    "leetcodeUrl": "https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "bit-manipulation",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/",
+        "problemId": "2135"
+      }
+    ]
+  },
+  {
+    "id": "decode-xored-permutation",
+    "title": "Decode XORed Permutation",
+    "leetcodeUrl": "https://leetcode.com/problems/decode-xored-permutation/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/decode-xored-permutation/",
+        "problemId": "1734"
+      }
+    ]
+  },
+  {
+    "id": "divide-two-integers",
+    "title": "Divide Two Integers",
+    "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/divide-two-integers/",
+        "problemId": "29"
+      }
+    ]
+  },
+  {
+    "id": "find-the-original-array-of-prefix-xor",
+    "title": "Find The Original Array of Prefix Xor",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor/",
+        "problemId": "2433"
+      }
+    ]
+  },
+  {
+    "id": "find-the-prefix-common-array-of-two-arrays",
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/",
+        "problemId": "2657"
+      }
+    ]
+  },
+  {
+    "id": "find-xor-beauty-of-array",
+    "title": "Find Xor-Beauty of Array",
+    "leetcodeUrl": "https://leetcode.com/problems/find-xor-beauty-of-array/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-xor-beauty-of-array/",
+        "problemId": "2527"
+      }
+    ]
+  },
+  {
+    "id": "k-th-symbol-in-grammar",
+    "title": "K-th Symbol in Grammar",
+    "leetcodeUrl": "https://leetcode.com/problems/k-th-symbol-in-grammar/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "bit-manipulation",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/k-th-symbol-in-grammar/",
+        "problemId": "779"
+      }
+    ]
+  },
+  {
+    "id": "largest-combination-with-bitwise-and-greater-than-zero",
+    "title": "Largest Combination With Bitwise AND Greater Than Zero",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "bit-manipulation",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/",
+        "problemId": "2275"
+      }
+    ]
+  },
+  {
+    "id": "longest-subarray-with-maximum-bitwise-and",
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation",
+      "brainteaser"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/",
+        "problemId": "2419"
+      }
+    ]
+  },
+  {
+    "id": "maximum-product-of-word-lengths",
+    "title": "Maximum Product of Word Lengths",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-word-lengths/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-product-of-word-lengths/",
+        "problemId": "318"
+      }
+    ]
+  },
+  {
+    "id": "maximum-xor-after-operations",
+    "title": "Maximum XOR After Operations ",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-after-operations/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-xor-after-operations/",
+        "problemId": "2317"
+      }
+    ]
+  },
+  {
+    "id": "minimum-flips-to-make-a-or-b-equal-to-c",
+    "title": "Minimum Flips to Make a OR b Equal to c",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "bit-manipulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/",
+        "problemId": "1318"
+      }
+    ]
+  },
+  {
+    "id": "minimum-impossible-or",
+    "title": "Minimum Impossible OR",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-impossible-or/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation",
+      "brainteaser"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-impossible-or/",
+        "problemId": "2568"
+      }
+    ]
+  },
+  {
+    "id": "minimum-operations-to-make-the-integer-zero",
+    "title": "Minimum Operations to Make the Integer Zero",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/",
+    "difficulty": "Medium",
+    "level": "core-patterns",
+    "levelName": "Core Problem-Solving Patterns",
+    "category": "bit-manipulation",
+    "categoryName": "Bit Manipulation",
+    "subcategory": "Bit Tricks & XOR",
+    "pattern": "Bit Manipulation",
+    "tags": [
+      "bit-manipulation",
+      "brainteaser",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/",
+        "problemId": "2749"
+      }
+    ]
+  }
+]

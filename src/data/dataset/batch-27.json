@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "delete-duplicate-folders-in-system",
+    "title": "Delete Duplicate Folders in System",
+    "leetcodeUrl": "https://leetcode.com/problems/delete-duplicate-folders-in-system/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "trie",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/delete-duplicate-folders-in-system/",
+        "problemId": "1948"
+      }
+    ]
+  },
+  {
+    "id": "distinct-echo-substrings",
+    "title": "Distinct Echo Substrings",
+    "leetcodeUrl": "https://leetcode.com/problems/distinct-echo-substrings/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "trie",
+      "rolling-hash",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/distinct-echo-substrings/",
+        "problemId": "1316"
+      }
+    ]
+  },
+  {
+    "id": "encrypt-and-decrypt-strings",
+    "title": "Encrypt and Decrypt Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/encrypt-and-decrypt-strings/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "design",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/encrypt-and-decrypt-strings/",
+        "problemId": "2227"
+      }
+    ]
+  },
+  {
+    "id": "k-th-smallest-in-lexicographical-order",
+    "title": "K-th Smallest in Lexicographical Order",
+    "leetcodeUrl": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Trie",
+    "tags": [
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/",
+        "problemId": "440"
+      }
+    ]
+  },
+  {
+    "id": "maximum-xor-with-an-element-from-array",
+    "title": "Maximum XOR With an Element From Array",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "bit-manipulation",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+        "problemId": "1707"
+      }
+    ]
+  },
+  {
+    "id": "number-of-valid-words-for-each-puzzle",
+    "title": "Number of Valid Words for Each Puzzle",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "bit-manipulation",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/",
+        "problemId": "1178"
+      }
+    ]
+  },
+  {
+    "id": "palindrome-pairs",
+    "title": "Palindrome Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/palindrome-pairs/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/palindrome-pairs/",
+        "problemId": "336"
+      }
+    ]
+  },
+  {
+    "id": "prefix-and-suffix-search",
+    "title": "Prefix and Suffix Search",
+    "leetcodeUrl": "https://leetcode.com/problems/prefix-and-suffix-search/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "design",
+      "trie"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/prefix-and-suffix-search/",
+        "problemId": "745"
+      }
+    ]
+  },
+  {
+    "id": "stream-of-characters",
+    "title": "Stream of Characters",
+    "leetcodeUrl": "https://leetcode.com/problems/stream-of-characters/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "design",
+      "trie",
+      "data-stream"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/stream-of-characters/",
+        "problemId": "1032"
+      }
+    ]
+  },
+  {
+    "id": "sum-of-prefix-scores-of-strings",
+    "title": "Sum of Prefix Scores of Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/sum-of-prefix-scores-of-strings/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "trie",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sum-of-prefix-scores-of-strings/",
+        "problemId": "2416"
+      }
+    ]
+  },
+  {
+    "id": "word-break-ii",
+    "title": "Word Break II",
+    "leetcodeUrl": "https://leetcode.com/problems/word-break-ii/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "string",
+      "dynamic-programming",
+      "backtracking",
+      "trie",
+      "memoization"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/word-break-ii/",
+        "problemId": "140"
+      }
+    ]
+  },
+  {
+    "id": "word-search-ii",
+    "title": "Word Search II",
+    "leetcodeUrl": "https://leetcode.com/problems/word-search-ii/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "tries",
+    "categoryName": "Tries",
+    "subcategory": "Tries",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "backtracking",
+      "trie",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/word-search-ii/",
+        "problemId": "212"
+      }
+    ]
+  },
+  {
+    "id": "fruits-into-baskets-ii",
+    "title": "Fruits Into Baskets II",
+    "leetcodeUrl": "https://leetcode.com/problems/fruits-into-baskets-ii/",
+    "difficulty": "Easy",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "segment-tree",
+      "simulation",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/fruits-into-baskets-ii/",
+        "problemId": "3477"
+      }
+    ]
+  },
+  {
+    "id": "count-number-of-rectangles-containing-each-point",
+    "title": "Count Number of Rectangles Containing Each Point",
+    "leetcodeUrl": "https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "binary-search",
+      "binary-indexed-tree",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/",
+        "problemId": "2250"
+      }
+    ]
+  },
+  {
+    "id": "count-number-of-teams",
+    "title": "Count Number of Teams",
+    "leetcodeUrl": "https://leetcode.com/problems/count-number-of-teams/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "binary-indexed-tree",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-number-of-teams/",
+        "problemId": "1395"
+      }
+    ]
+  },
+  {
+    "id": "fruits-into-baskets-iii",
+    "title": "Fruits Into Baskets III",
+    "leetcodeUrl": "https://leetcode.com/problems/fruits-into-baskets-iii/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "segment-tree",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/fruits-into-baskets-iii/",
+        "problemId": "3479"
+      }
+    ]
+  },
+  {
+    "id": "longest-uploaded-prefix",
+    "title": "Longest Uploaded Prefix",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-uploaded-prefix/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "binary-search",
+      "union-find",
+      "design",
+      "binary-indexed-tree",
+      "segment-tree",
+      "heap-priority-queue",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-uploaded-prefix/",
+        "problemId": "2424"
+      }
+    ]
+  },
+  {
+    "id": "maximum-area-rectangle-with-point-constraints-i",
+    "title": "Maximum Area Rectangle With Point Constraints I",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "binary-indexed-tree",
+      "segment-tree",
+      "geometry",
+      "sorting",
+      "enumeration"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/",
+        "problemId": "3380"
+      }
+    ]
+  },
+  {
+    "id": "minimum-number-of-valid-strings-to-form-target-i",
+    "title": "Minimum Number of Valid Strings to Form Target I",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "binary-search",
+      "dynamic-programming",
+      "trie",
+      "segment-tree",
+      "rolling-hash",
+      "string-matching",
+      "hash-function"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/",
+        "problemId": "3291"
+      }
+    ]
+  },
+  {
+    "id": "my-calendar-i",
+    "title": "My Calendar I",
+    "leetcodeUrl": "https://leetcode.com/problems/my-calendar-i/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "design",
+      "segment-tree",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/my-calendar-i/",
+        "problemId": "729"
+      }
+    ]
+  },
+  {
+    "id": "my-calendar-ii",
+    "title": "My Calendar II",
+    "leetcodeUrl": "https://leetcode.com/problems/my-calendar-ii/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "design",
+      "segment-tree",
+      "prefix-sum",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/my-calendar-ii/",
+        "problemId": "731"
+      }
+    ]
+  },
+  {
+    "id": "number-of-longest-increasing-subsequence",
+    "title": "Number of Longest Increasing Subsequence",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "binary-indexed-tree",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+        "problemId": "673"
+      }
+    ]
+  },
+  {
+    "id": "queries-on-a-permutation-with-key",
+    "title": "Queries on a Permutation With Key",
+    "leetcodeUrl": "https://leetcode.com/problems/queries-on-a-permutation-with-key/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-indexed-tree",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/queries-on-a-permutation-with-key/",
+        "problemId": "1409"
+      }
+    ]
+  },
+  {
+    "id": "queue-reconstruction-by-height",
+    "title": "Queue Reconstruction by Height",
+    "leetcodeUrl": "https://leetcode.com/problems/queue-reconstruction-by-height/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-indexed-tree",
+      "segment-tree",
+      "sorting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/queue-reconstruction-by-height/",
+        "problemId": "406"
+      }
+    ]
+  },
+  {
+    "id": "range-frequency-queries",
+    "title": "Range Frequency Queries",
+    "leetcodeUrl": "https://leetcode.com/problems/range-frequency-queries/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "binary-search",
+      "design",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/range-frequency-queries/",
+        "problemId": "2080"
+      }
+    ]
+  },
+  {
+    "id": "range-sum-query-mutable",
+    "title": "Range Sum Query - Mutable",
+    "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-mutable/",
+    "difficulty": "Medium",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "design",
+      "binary-indexed-tree",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/range-sum-query-mutable/",
+        "problemId": "307"
+      }
+    ]
+  },
+  {
+    "id": "booking-concert-tickets-in-groups",
+    "title": "Booking Concert Tickets in Groups",
+    "leetcodeUrl": "https://leetcode.com/problems/booking-concert-tickets-in-groups/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Binary Search",
+    "tags": [
+      "binary-search",
+      "design",
+      "binary-indexed-tree",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/booking-concert-tickets-in-groups/",
+        "problemId": "2286"
+      }
+    ]
+  },
+  {
+    "id": "count-good-triplets-in-an-array",
+    "title": "Count Good Triplets in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/count-good-triplets-in-an-array/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "divide-and-conquer",
+      "binary-indexed-tree",
+      "segment-tree",
+      "merge-sort",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-good-triplets-in-an-array/",
+        "problemId": "2179"
+      }
+    ]
+  },
+  {
+    "id": "count-increasing-quadruplets",
+    "title": "Count Increasing Quadruplets",
+    "leetcodeUrl": "https://leetcode.com/problems/count-increasing-quadruplets/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "binary-indexed-tree",
+      "enumeration",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-increasing-quadruplets/",
+        "problemId": "2552"
+      }
+    ]
+  },
+  {
+    "id": "count-integers-in-intervals",
+    "title": "Count Integers in Intervals",
+    "leetcodeUrl": "https://leetcode.com/problems/count-integers-in-intervals/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Design",
+    "tags": [
+      "design",
+      "segment-tree",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-integers-in-intervals/",
+        "problemId": "2276"
+      }
+    ]
+  },
+  {
+    "id": "count-of-range-sum",
+    "title": "Count of Range Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/count-of-range-sum/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "divide-and-conquer",
+      "binary-indexed-tree",
+      "segment-tree",
+      "merge-sort",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-of-range-sum/",
+        "problemId": "327"
+      }
+    ]
+  },
+  {
+    "id": "count-of-smaller-numbers-after-self",
+    "title": "Count of Smaller Numbers After Self",
+    "leetcodeUrl": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "divide-and-conquer",
+      "binary-indexed-tree",
+      "segment-tree",
+      "merge-sort",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
+        "problemId": "315"
+      }
+    ]
+  },
+  {
+    "id": "create-sorted-array-through-instructions",
+    "title": "Create Sorted Array through Instructions",
+    "leetcodeUrl": "https://leetcode.com/problems/create-sorted-array-through-instructions/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "divide-and-conquer",
+      "binary-indexed-tree",
+      "segment-tree",
+      "merge-sort",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/create-sorted-array-through-instructions/",
+        "problemId": "1649"
+      }
+    ]
+  },
+  {
+    "id": "delivering-boxes-from-storage-to-ports",
+    "title": "Delivering Boxes from Storage to Ports",
+    "leetcodeUrl": "https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "dynamic-programming",
+      "segment-tree",
+      "queue",
+      "heap-priority-queue",
+      "prefix-sum",
+      "monotonic-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/",
+        "problemId": "1687"
+      }
+    ]
+  },
+  {
+    "id": "distribute-elements-into-two-arrays-ii",
+    "title": "Distribute Elements Into Two Arrays II",
+    "leetcodeUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-indexed-tree",
+      "segment-tree",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/",
+        "problemId": "3072"
+      }
+    ]
+  },
+  {
+    "id": "falling-squares",
+    "title": "Falling Squares",
+    "leetcodeUrl": "https://leetcode.com/problems/falling-squares/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "segment-tree",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/falling-squares/",
+        "problemId": "699"
+      }
+    ]
+  },
+  {
+    "id": "fancy-sequence",
+    "title": "Fancy Sequence",
+    "leetcodeUrl": "https://leetcode.com/problems/fancy-sequence/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "design",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/fancy-sequence/",
+        "problemId": "1622"
+      }
+    ]
+  },
+  {
+    "id": "find-a-value-of-a-mysterious-function-closest-to-target",
+    "title": "Find a Value of a Mysterious Function Closest to Target",
+    "leetcodeUrl": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "bit-manipulation",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/",
+        "problemId": "1521"
+      }
+    ]
+  },
+  {
+    "id": "find-building-where-alice-and-bob-can-meet",
+    "title": "Find Building Where Alice and Bob Can Meet",
+    "leetcodeUrl": "https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "stack",
+      "binary-indexed-tree",
+      "segment-tree",
+      "heap-priority-queue",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/",
+        "problemId": "2940"
+      }
+    ]
+  },
+  {
+    "id": "find-the-longest-valid-obstacle-course-at-each-position",
+    "title": "Find the Longest Valid Obstacle Course at Each Position",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "binary-indexed-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/",
+        "problemId": "1964"
+      }
+    ]
+  },
+  {
+    "id": "handling-sum-queries-after-update",
+    "title": "Handling Sum Queries After Update",
+    "leetcodeUrl": "https://leetcode.com/problems/handling-sum-queries-after-update/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/handling-sum-queries-after-update/",
+        "problemId": "2569"
+      }
+    ]
+  },
+  {
+    "id": "longest-increasing-subsequence-ii",
+    "title": "Longest Increasing Subsequence II",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence-ii/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "dynamic-programming",
+      "binary-indexed-tree",
+      "segment-tree",
+      "queue",
+      "monotonic-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-increasing-subsequence-ii/",
+        "problemId": "2407"
+      }
+    ]
+  },
+  {
+    "id": "longest-substring-of-one-repeating-character",
+    "title": "Longest Substring of One Repeating Character",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "segment-tree",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
+        "problemId": "2213"
+      }
+    ]
+  },
+  {
+    "id": "make-array-empty",
+    "title": "Make Array Empty",
+    "leetcodeUrl": "https://leetcode.com/problems/make-array-empty/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "greedy",
+      "binary-indexed-tree",
+      "segment-tree",
+      "sorting",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/make-array-empty/",
+        "problemId": "2659"
+      }
+    ]
+  },
+  {
+    "id": "maximum-balanced-subsequence-sum",
+    "title": "Maximum Balanced Subsequence Sum",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-balanced-subsequence-sum/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming",
+      "binary-indexed-tree",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-balanced-subsequence-sum/",
+        "problemId": "2926"
+      }
+    ]
+  },
+  {
+    "id": "maximum-sum-queries",
+    "title": "Maximum Sum Queries",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-queries/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "stack",
+      "binary-indexed-tree",
+      "segment-tree",
+      "sorting",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-sum-queries/",
+        "problemId": "2736"
+      }
+    ]
+  },
+  {
+    "id": "minimum-number-of-moves-to-make-palindrome",
+    "title": "Minimum Number of Moves to Make Palindrome",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "string",
+      "greedy",
+      "binary-indexed-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/",
+        "problemId": "2193"
+      }
+    ]
+  },
+  {
+    "id": "minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
+    "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "greedy",
+      "binary-indexed-tree",
+      "segment-tree"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/",
+        "problemId": "1505"
+      }
+    ]
+  },
+  {
+    "id": "minimum-sum-of-values-by-dividing-array",
+    "title": "Minimum Sum of Values by Dividing Array",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "dynamic-programming",
+      "bit-manipulation",
+      "segment-tree",
+      "queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/",
+        "problemId": "3117"
+      }
+    ]
+  },
+  {
+    "id": "my-calendar-iii",
+    "title": "My Calendar III",
+    "leetcodeUrl": "https://leetcode.com/problems/my-calendar-iii/",
+    "difficulty": "Hard",
+    "level": "advanced-ds",
+    "levelName": "Advanced Data Structures",
+    "category": "segment-trees",
+    "categoryName": "Segment Trees & Fenwick Trees",
+    "subcategory": "Segment Trees & Fenwick Trees",
+    "pattern": "Binary Search",
+    "tags": [
+      "binary-search",
+      "design",
+      "segment-tree",
+      "prefix-sum",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/my-calendar-iii/",
+        "problemId": "732"
+      }
+    ]
+  }
+]

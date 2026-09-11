@@ -1,0 +1,1484 @@
+[
+  {
+    "id": "maximum-product-of-two-elements-in-an-array",
+    "title": "Maximum Product of Two Elements in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+        "problemId": "1464"
+      }
+    ]
+  },
+  {
+    "id": "minimum-amount-of-time-to-fill-cups",
+    "title": "Minimum Amount of Time to Fill Cups",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/",
+        "problemId": "2335"
+      }
+    ]
+  },
+  {
+    "id": "minimum-number-game",
+    "title": "Minimum Number Game",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-game/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sorting",
+      "heap-priority-queue",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-number-game/",
+        "problemId": "2974"
+      }
+    ]
+  },
+  {
+    "id": "minimum-pair-removal-to-sort-array-i",
+    "title": "Minimum Pair Removal to Sort Array I",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "linked-list",
+      "heap-priority-queue",
+      "simulation",
+      "doubly-linked-list",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/",
+        "problemId": "3507"
+      }
+    ]
+  },
+  {
+    "id": "relative-ranks",
+    "title": "Relative Ranks",
+    "leetcodeUrl": "https://leetcode.com/problems/relative-ranks/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/relative-ranks/",
+        "problemId": "506"
+      }
+    ]
+  },
+  {
+    "id": "take-gifts-from-the-richest-pile",
+    "title": "Take Gifts From the Richest Pile",
+    "leetcodeUrl": "https://leetcode.com/problems/take-gifts-from-the-richest-pile/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "heap-priority-queue",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/take-gifts-from-the-richest-pile/",
+        "problemId": "2558"
+      }
+    ]
+  },
+  {
+    "id": "the-k-weakest-rows-in-a-matrix",
+    "title": "The K Weakest Rows in a Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/",
+    "difficulty": "Easy",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "sorting",
+      "heap-priority-queue",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/",
+        "problemId": "1337"
+      }
+    ]
+  },
+  {
+    "id": "avoid-flood-in-the-city",
+    "title": "Avoid Flood in The City",
+    "leetcodeUrl": "https://leetcode.com/problems/avoid-flood-in-the-city/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "binary-search",
+      "greedy",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/avoid-flood-in-the-city/",
+        "problemId": "1488"
+      }
+    ]
+  },
+  {
+    "id": "car-pooling",
+    "title": "Car Pooling",
+    "leetcodeUrl": "https://leetcode.com/problems/car-pooling/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sorting",
+      "heap-priority-queue",
+      "simulation",
+      "prefix-sum"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/car-pooling/",
+        "problemId": "1094"
+      }
+    ]
+  },
+  {
+    "id": "design-twitter",
+    "title": "Design Twitter",
+    "leetcodeUrl": "https://leetcode.com/problems/design-twitter/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "linked-list",
+      "design",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-twitter/",
+        "problemId": "355"
+      }
+    ]
+  },
+  {
+    "id": "diagonal-traverse-ii",
+    "title": "Diagonal Traverse II",
+    "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse-ii/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/diagonal-traverse-ii/",
+        "problemId": "1424"
+      }
+    ]
+  },
+  {
+    "id": "distant-barcodes",
+    "title": "Distant Barcodes",
+    "leetcodeUrl": "https://leetcode.com/problems/distant-barcodes/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "greedy",
+      "sorting",
+      "heap-priority-queue",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/distant-barcodes/",
+        "problemId": "1054"
+      }
+    ]
+  },
+  {
+    "id": "exam-room",
+    "title": "Exam Room",
+    "leetcodeUrl": "https://leetcode.com/problems/exam-room/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Design",
+    "tags": [
+      "design",
+      "heap-priority-queue",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/exam-room/",
+        "problemId": "855"
+      }
+    ]
+  },
+  {
+    "id": "find-k-closest-elements",
+    "title": "Find K Closest Elements",
+    "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "binary-search",
+      "sliding-window",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-k-closest-elements/",
+        "problemId": "658"
+      }
+    ]
+  },
+  {
+    "id": "find-k-pairs-with-smallest-sums",
+    "title": "Find K Pairs with Smallest Sums",
+    "leetcodeUrl": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
+        "problemId": "373"
+      }
+    ]
+  },
+  {
+    "id": "find-kth-largest-xor-coordinate-value",
+    "title": "Find Kth Largest XOR Coordinate Value",
+    "leetcodeUrl": "https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "bit-manipulation",
+      "sorting",
+      "heap-priority-queue",
+      "matrix",
+      "prefix-sum",
+      "quickselect"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/",
+        "problemId": "1738"
+      }
+    ]
+  },
+  {
+    "id": "furthest-building-you-can-reach",
+    "title": "Furthest Building You Can Reach",
+    "leetcodeUrl": "https://leetcode.com/problems/furthest-building-you-can-reach/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/furthest-building-you-can-reach/",
+        "problemId": "1642"
+      }
+    ]
+  },
+  {
+    "id": "k-closest-points-to-origin",
+    "title": "K Closest Points to Origin",
+    "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "divide-and-conquer",
+      "geometry",
+      "sorting",
+      "heap-priority-queue",
+      "quickselect"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/k-closest-points-to-origin/",
+        "problemId": "973"
+      }
+    ]
+  },
+  {
+    "id": "k-th-smallest-prime-fraction",
+    "title": "K-th Smallest Prime Fraction",
+    "leetcodeUrl": "https://leetcode.com/problems/k-th-smallest-prime-fraction/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "two-pointers",
+      "binary-search",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/k-th-smallest-prime-fraction/",
+        "problemId": "786"
+      }
+    ]
+  },
+  {
+    "id": "kth-largest-element-in-an-array",
+    "title": "Kth Largest Element in an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "sorting",
+      "heap-priority-queue",
+      "quickselect"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "problemId": "215"
+      }
+    ]
+  },
+  {
+    "id": "kth-smallest-element-in-a-sorted-matrix",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "sorting",
+      "heap-priority-queue",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+        "problemId": "378"
+      }
+    ]
+  },
+  {
+    "id": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "queue",
+      "sliding-window",
+      "heap-priority-queue",
+      "ordered-set",
+      "monotonic-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/",
+        "problemId": "1438"
+      }
+    ]
+  },
+  {
+    "id": "longest-happy-string",
+    "title": "Longest Happy String",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-happy-string/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "greedy",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/longest-happy-string/",
+        "problemId": "1405"
+      }
+    ]
+  },
+  {
+    "id": "maximum-average-pass-ratio",
+    "title": "Maximum Average Pass Ratio",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-average-pass-ratio/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-average-pass-ratio/",
+        "problemId": "1792"
+      }
+    ]
+  },
+  {
+    "id": "maximum-number-of-eaten-apples",
+    "title": "Maximum Number of Eaten Apples",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-eaten-apples/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-number-of-eaten-apples/",
+        "problemId": "1705"
+      }
+    ]
+  },
+  {
+    "id": "maximum-number-of-events-that-can-be-attended",
+    "title": "Maximum Number of Events That Can Be Attended",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/",
+        "problemId": "1353"
+      }
+    ]
+  },
+  {
+    "id": "maximum-score-from-removing-stones",
+    "title": "Maximum Score From Removing Stones",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-score-from-removing-stones/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Math",
+    "tags": [
+      "math",
+      "greedy",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-score-from-removing-stones/",
+        "problemId": "1753"
+      }
+    ]
+  },
+  {
+    "id": "number-of-orders-in-the-backlog",
+    "title": "Number of Orders in the Backlog",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-orders-in-the-backlog/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "heap-priority-queue",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-orders-in-the-backlog/",
+        "problemId": "1801"
+      }
+    ]
+  },
+  {
+    "id": "reduce-array-size-to-the-half",
+    "title": "Reduce Array Size to The Half",
+    "leetcodeUrl": "https://leetcode.com/problems/reduce-array-size-to-the-half/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "greedy",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reduce-array-size-to-the-half/",
+        "problemId": "1338"
+      }
+    ]
+  },
+  {
+    "id": "reorganize-string",
+    "title": "Reorganize String",
+    "leetcodeUrl": "https://leetcode.com/problems/reorganize-string/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "greedy",
+      "sorting",
+      "heap-priority-queue",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reorganize-string/",
+        "problemId": "767"
+      }
+    ]
+  },
+  {
+    "id": "sell-diminishing-valued-colored-balls",
+    "title": "Sell Diminishing-Valued Colored Balls",
+    "leetcodeUrl": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "binary-search",
+      "greedy",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls/",
+        "problemId": "1648"
+      }
+    ]
+  },
+  {
+    "id": "sort-an-array",
+    "title": "Sort an Array",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "divide-and-conquer",
+      "sorting",
+      "heap-priority-queue",
+      "merge-sort",
+      "bucket-sort",
+      "radix-sort",
+      "counting-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sort-an-array/",
+        "problemId": "912"
+      }
+    ]
+  },
+  {
+    "id": "sort-characters-by-frequency",
+    "title": "Sort Characters By Frequency",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "sorting",
+      "heap-priority-queue",
+      "bucket-sort",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sort-characters-by-frequency/",
+        "problemId": "451"
+      }
+    ]
+  },
+  {
+    "id": "split-array-into-consecutive-subsequences",
+    "title": "Split Array into Consecutive Subsequences",
+    "leetcodeUrl": "https://leetcode.com/problems/split-array-into-consecutive-subsequences/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "greedy",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/split-array-into-consecutive-subsequences/",
+        "problemId": "659"
+      }
+    ]
+  },
+  {
+    "id": "stone-game-vi",
+    "title": "Stone Game VI",
+    "leetcodeUrl": "https://leetcode.com/problems/stone-game-vi/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "greedy",
+      "sorting",
+      "heap-priority-queue",
+      "game-theory"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/stone-game-vi/",
+        "problemId": "1686"
+      }
+    ]
+  },
+  {
+    "id": "task-scheduler",
+    "title": "Task Scheduler",
+    "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "greedy",
+      "sorting",
+      "heap-priority-queue",
+      "counting"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/task-scheduler/",
+        "problemId": "621"
+      }
+    ]
+  },
+  {
+    "id": "top-k-frequent-elements",
+    "title": "Top K Frequent Elements",
+    "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "difficulty": "Medium",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "hash-table",
+      "divide-and-conquer",
+      "sorting",
+      "heap-priority-queue",
+      "bucket-sort",
+      "counting",
+      "quickselect"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+        "problemId": "347"
+      }
+    ]
+  },
+  {
+    "id": "construct-target-array-with-multiple-sums",
+    "title": "Construct Target Array With Multiple Sums",
+    "leetcodeUrl": "https://leetcode.com/problems/construct-target-array-with-multiple-sums/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/construct-target-array-with-multiple-sums/",
+        "problemId": "1354"
+      }
+    ]
+  },
+  {
+    "id": "course-schedule-iii",
+    "title": "Course Schedule III",
+    "leetcodeUrl": "https://leetcode.com/problems/course-schedule-iii/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/course-schedule-iii/",
+        "problemId": "630"
+      }
+    ]
+  },
+  {
+    "id": "dinner-plate-stacks",
+    "title": "Dinner Plate Stacks",
+    "leetcodeUrl": "https://leetcode.com/problems/dinner-plate-stacks/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "stack",
+      "design",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/dinner-plate-stacks/",
+        "problemId": "1172"
+      }
+    ]
+  },
+  {
+    "id": "find-median-from-data-stream",
+    "title": "Find Median from Data Stream",
+    "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Two Pointers",
+    "tags": [
+      "two-pointers",
+      "design",
+      "sorting",
+      "heap-priority-queue",
+      "data-stream"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "problemId": "295"
+      }
+    ]
+  },
+  {
+    "id": "find-servers-that-handled-most-number-of-requests",
+    "title": "Find Servers That Handled Most Number of Requests",
+    "leetcodeUrl": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "heap-priority-queue",
+      "ordered-set"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/",
+        "problemId": "1606"
+      }
+    ]
+  },
+  {
+    "id": "find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows",
+    "title": "Find the Kth Smallest Sum of a Matrix With Sorted Rows",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "heap-priority-queue",
+      "matrix"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/",
+        "problemId": "1439"
+      }
+    ]
+  },
+  {
+    "id": "ipo",
+    "title": "IPO",
+    "leetcodeUrl": "https://leetcode.com/problems/ipo/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/ipo/",
+        "problemId": "502"
+      }
+    ]
+  },
+  {
+    "id": "max-value-of-equation",
+    "title": "Max Value of Equation",
+    "leetcodeUrl": "https://leetcode.com/problems/max-value-of-equation/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "queue",
+      "sliding-window",
+      "heap-priority-queue",
+      "monotonic-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/max-value-of-equation/",
+        "problemId": "1499"
+      }
+    ]
+  },
+  {
+    "id": "maximum-performance-of-a-team",
+    "title": "Maximum Performance of a Team",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-performance-of-a-team/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-performance-of-a-team/",
+        "problemId": "1383"
+      }
+    ]
+  },
+  {
+    "id": "merge-k-sorted-lists",
+    "title": "Merge k Sorted Lists",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "divide-and-conquer",
+      "heap-priority-queue",
+      "merge-sort"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "problemId": "23"
+      }
+    ]
+  },
+  {
+    "id": "minimum-cost-to-hire-k-workers",
+    "title": "Minimum Cost to Hire K Workers",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Heap + Greedy",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "greedy",
+      "sorting",
+      "heap-priority-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/",
+        "problemId": "857"
+      }
+    ]
+  },
+  {
+    "id": "shortest-subarray-with-sum-at-least-k",
+    "title": "Shortest Subarray with Sum at Least K",
+    "leetcodeUrl": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "binary-search",
+      "queue",
+      "sliding-window",
+      "heap-priority-queue",
+      "prefix-sum",
+      "monotonic-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
+        "problemId": "862"
+      }
+    ]
+  },
+  {
+    "id": "sliding-window-maximum",
+    "title": "Sliding Window Maximum",
+    "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+    "difficulty": "Hard",
+    "level": "heaps",
+    "levelName": "Heaps & Priority Queues",
+    "category": "heaps",
+    "categoryName": "Heaps & Priority Queues",
+    "subcategory": "Priority Queue Patterns",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "queue",
+      "sliding-window",
+      "heap-priority-queue",
+      "monotonic-queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/sliding-window-maximum/",
+        "problemId": "239"
+      }
+    ]
+  }
+]

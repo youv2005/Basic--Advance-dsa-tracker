@@ -1,983 +1,1391 @@
 [
   {
-    "id": "shortest-path-visiting-all-nodes",
-    "title": "Shortest Path Visiting All Nodes",
-    "leetcodeUrl": "https://leetcode.com/problems/shortest-path-visiting-all-nodes/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Dynamic Programming / Bit Manipulation",
-    "pattern": "Graph",
+    "id": "reverse-linked-list-ii",
+    "title": "Reverse Linked List II",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list-ii/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
     "tags": [
-      "dynamic-programming",
-      "bit-manipulation",
-      "breadth-first-search",
-      "graph",
-      "bitmask"
+      "linked-list"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-linked-list-ii/",
+        "problemId": "92"
+      }
+    ]
   },
   {
-    "id": "cat-and-mouse",
-    "title": "Cat and Mouse",
-    "leetcodeUrl": "https://leetcode.com/problems/cat-and-mouse/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Math / Dynamic Programming",
-    "pattern": "Topological Sort",
+    "id": "reverse-nodes-in-even-length-groups",
+    "title": "Reverse Nodes in Even Length Groups",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
     "tags": [
-      "math",
-      "dynamic-programming",
-      "graph",
-      "topological-sort",
-      "memoization",
-      "game-theory"
+      "linked-list"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups/",
+        "problemId": "2074"
+      }
+    ]
   },
   {
-    "id": "sort-items-by-groups-respecting-dependencies",
-    "title": "Sort Items by Groups Respecting Dependencies",
-    "leetcodeUrl": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Depth-First Search / Breadth-First Search",
-    "pattern": "Topological Sort",
-    "tags": [
-      "depth-first-search",
-      "breadth-first-search",
-      "graph",
-      "topological-sort"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "maximum-candies-you-can-get-from-boxes",
-    "title": "Maximum Candies You Can Get from Boxes",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Breadth-First Search",
-    "pattern": "Graph",
+    "id": "spiral-matrix-iv",
+    "title": "Spiral Matrix IV",
+    "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-iv/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Array",
     "tags": [
       "array",
-      "breadth-first-search",
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "frog-position-after-t-seconds",
-    "title": "Frog Position After T Seconds",
-    "leetcodeUrl": "https://leetcode.com/problems/frog-position-after-t-seconds/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Tree / Depth-First Search",
-    "pattern": "Graph",
-    "tags": [
-      "tree",
-      "depth-first-search",
-      "breadth-first-search",
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "parallel-courses-ii",
-    "title": "Parallel Courses II",
-    "leetcodeUrl": "https://leetcode.com/problems/parallel-courses-ii/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Dynamic Programming / Bit Manipulation",
-    "pattern": "Graph",
-    "tags": [
-      "dynamic-programming",
-      "bit-manipulation",
-      "graph",
-      "bitmask"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "strange-printer-ii",
-    "title": "Strange Printer II",
-    "leetcodeUrl": "https://leetcode.com/problems/strange-printer-ii/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Graph",
-    "pattern": "Topological Sort",
-    "tags": [
-      "array",
-      "graph",
-      "topological-sort",
-      "matrix"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "number-of-ways-to-reconstruct-a-tree",
-    "title": "Number Of Ways To Reconstruct A Tree",
-    "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Tree",
-    "pattern": "Graph",
-    "tags": [
-      "tree",
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "cat-and-mouse-ii",
-    "title": "Cat and Mouse II",
-    "leetcodeUrl": "https://leetcode.com/problems/cat-and-mouse-ii/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Math",
-    "pattern": "Topological Sort",
-    "tags": [
-      "array",
-      "math",
-      "dynamic-programming",
-      "graph",
-      "topological-sort",
-      "memoization",
+      "linked-list",
       "matrix",
-      "game-theory"
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/spiral-matrix-iv/",
+        "problemId": "2326"
+      }
+    ]
   },
   {
-    "id": "minimum-degree-of-a-connected-trio-in-a-graph",
-    "title": "Minimum Degree of a Connected Trio in a Graph",
-    "leetcodeUrl": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Enumeration",
-    "pattern": "Graph",
+    "id": "split-linked-list-in-parts",
+    "title": "Split Linked List in Parts",
+    "leetcodeUrl": "https://leetcode.com/problems/split-linked-list-in-parts/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
     "tags": [
-      "graph",
-      "enumeration"
+      "linked-list"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/split-linked-list-in-parts/",
+        "problemId": "725"
+      }
+    ]
   },
   {
-    "id": "count-pairs-of-nodes",
-    "title": "Count Pairs Of Nodes",
-    "leetcodeUrl": "https://leetcode.com/problems/count-pairs-of-nodes/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Graph",
+    "id": "steps-to-make-array-non-decreasing",
+    "title": "Steps to Make Array Non-decreasing",
+    "leetcodeUrl": "https://leetcode.com/problems/steps-to-make-array-non-decreasing/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Array",
     "tags": [
       "array",
+      "linked-list",
+      "stack",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/steps-to-make-array-non-decreasing/",
+        "problemId": "2289"
+      }
+    ]
+  },
+  {
+    "id": "swap-nodes-in-pairs",
+    "title": "Swap Nodes in Pairs",
+    "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+        "problemId": "24"
+      }
+    ]
+  },
+  {
+    "id": "all-oone-data-structure",
+    "title": "All O`one Data Structure",
+    "leetcodeUrl": "https://leetcode.com/problems/all-oone-data-structure/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Hash Table",
+    "tags": [
       "hash-table",
-      "two-pointers",
-      "binary-search",
-      "graph",
-      "sorting",
+      "linked-list",
+      "design",
+      "doubly-linked-list"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/all-oone-data-structure/",
+        "problemId": "432"
+      }
+    ]
+  },
+  {
+    "id": "design-a-text-editor",
+    "title": "Design a Text Editor",
+    "leetcodeUrl": "https://leetcode.com/problems/design-a-text-editor/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "string",
+      "stack",
+      "design",
+      "simulation",
+      "doubly-linked-list"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-a-text-editor/",
+        "problemId": "2296"
+      }
+    ]
+  },
+  {
+    "id": "design-skiplist",
+    "title": "Design Skiplist",
+    "leetcodeUrl": "https://leetcode.com/problems/design-skiplist/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "design"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-skiplist/",
+        "problemId": "1206"
+      }
+    ]
+  },
+  {
+    "id": "lfu-cache",
+    "title": "LFU Cache",
+    "leetcodeUrl": "https://leetcode.com/problems/lfu-cache/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "linked-list",
+      "design",
+      "doubly-linked-list"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/lfu-cache/",
+        "problemId": "460"
+      }
+    ]
+  },
+  {
+    "id": "reverse-nodes-in-k-group",
+    "title": "Reverse Nodes in k-Group",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+    "difficulty": "Hard",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "linked-list",
+    "categoryName": "Linked List",
+    "subcategory": "Linked List",
+    "pattern": "Linked List",
+    "tags": [
+      "linked-list",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "problemId": "25"
+      }
+    ]
+  },
+  {
+    "id": "baseball-game",
+    "title": "Baseball Game",
+    "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "stack",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/baseball-game/",
+        "problemId": "682"
+      }
+    ]
+  },
+  {
+    "id": "crawler-log-folder",
+    "title": "Crawler Log Folder",
+    "leetcodeUrl": "https://leetcode.com/problems/crawler-log-folder/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "string",
+      "stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/crawler-log-folder/",
+        "problemId": "1598"
+      }
+    ]
+  },
+  {
+    "id": "final-prices-with-a-special-discount-in-a-shop",
+    "title": "Final Prices With a Special Discount in a Shop",
+    "leetcodeUrl": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "stack",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/",
+        "problemId": "1475"
+      }
+    ]
+  },
+  {
+    "id": "first-unique-character-in-a-string",
+    "title": "First Unique Character in a String",
+    "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Hash Table",
+    "tags": [
+      "hash-table",
+      "string",
+      "queue",
       "counting"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+        "problemId": "387"
+      }
+    ]
   },
   {
-    "id": "largest-color-value-in-a-directed-graph",
-    "title": "Largest Color Value in a Directed Graph",
-    "leetcodeUrl": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Hash Table / Dynamic Programming",
-    "pattern": "Topological Sort",
+    "id": "implement-queue-using-stacks",
+    "title": "Implement Queue using Stacks",
+    "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Stack",
     "tags": [
+      "stack",
+      "design",
+      "queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "problemId": "232"
+      }
+    ]
+  },
+  {
+    "id": "implement-stack-using-queues",
+    "title": "Implement Stack using Queues",
+    "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Stack",
+    "tags": [
+      "stack",
+      "design",
+      "queue"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/implement-stack-using-queues/",
+        "problemId": "225"
+      }
+    ]
+  },
+  {
+    "id": "make-the-string-great",
+    "title": "Make The String Great",
+    "leetcodeUrl": "https://leetcode.com/problems/make-the-string-great/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/make-the-string-great/",
+        "problemId": "1544"
+      }
+    ]
+  },
+  {
+    "id": "maximum-nesting-depth-of-the-parentheses",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+        "problemId": "1614"
+      }
+    ]
+  },
+  {
+    "id": "minimum-string-length-after-removing-substrings",
+    "title": "Minimum String Length After Removing Substrings",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/",
+        "problemId": "2696"
+      }
+    ]
+  },
+  {
+    "id": "next-greater-element-i",
+    "title": "Next Greater Element I",
+    "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
       "hash-table",
-      "dynamic-programming",
-      "graph",
-      "topological-sort",
-      "memoization",
-      "counting"
+      "stack",
+      "monotonic-stack"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/next-greater-element-i/",
+        "problemId": "496"
+      }
+    ]
   },
   {
-    "id": "count-ways-to-build-rooms-in-an-ant-colony",
-    "title": "Count Ways to Build Rooms in an Ant Colony",
-    "leetcodeUrl": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Math / Dynamic Programming",
-    "pattern": "Topological Sort",
+    "id": "number-of-recent-calls",
+    "title": "Number of Recent Calls",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-recent-calls/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Design",
+    "tags": [
+      "design",
+      "queue",
+      "data-stream"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-recent-calls/",
+        "problemId": "933"
+      }
+    ]
+  },
+  {
+    "id": "number-of-students-unable-to-eat-lunch",
+    "title": "Number of Students Unable to Eat Lunch",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "stack",
+      "queue",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/",
+        "problemId": "1700"
+      }
+    ]
+  },
+  {
+    "id": "remove-all-adjacent-duplicates-in-string",
+    "title": "Remove All Adjacent Duplicates In String",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+        "problemId": "1047"
+      }
+    ]
+  },
+  {
+    "id": "remove-outermost-parentheses",
+    "title": "Remove Outermost Parentheses",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-outermost-parentheses/",
+        "problemId": "1021"
+      }
+    ]
+  },
+  {
+    "id": "time-needed-to-buy-tickets",
+    "title": "Time Needed to Buy Tickets",
+    "leetcodeUrl": "https://leetcode.com/problems/time-needed-to-buy-tickets/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "queue",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/time-needed-to-buy-tickets/",
+        "problemId": "2073"
+      }
+    ]
+  },
+  {
+    "id": "valid-parentheses",
+    "title": "Valid Parentheses",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+    "difficulty": "Easy",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/valid-parentheses/",
+        "problemId": "20"
+      }
+    ]
+  },
+  {
+    "id": "asteroid-collision",
+    "title": "Asteroid Collision",
+    "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "stack",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/asteroid-collision/",
+        "problemId": "735"
+      }
+    ]
+  },
+  {
+    "id": "basic-calculator-ii",
+    "title": "Basic Calculator II",
+    "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-ii/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Math",
     "tags": [
       "math",
-      "dynamic-programming",
-      "tree",
-      "graph",
-      "topological-sort",
-      "combinatorics"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "minimum-cost-to-reach-destination-in-time",
-    "title": "Minimum Cost to Reach Destination in Time",
-    "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Dynamic Programming",
-    "pattern": "Graph",
-    "tags": [
-      "array",
-      "dynamic-programming",
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "parallel-courses-iii",
-    "title": "Parallel Courses III",
-    "leetcodeUrl": "https://leetcode.com/problems/parallel-courses-iii/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Dynamic Programming",
-    "pattern": "Topological Sort",
-    "tags": [
-      "array",
-      "dynamic-programming",
-      "graph",
-      "topological-sort"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "maximum-path-quality-of-a-graph",
-    "title": "Maximum Path Quality of a Graph",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-path-quality-of-a-graph/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Backtracking",
-    "pattern": "Graph",
-    "tags": [
-      "array",
-      "backtracking",
-      "graph"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "maximum-employees-to-be-invited-to-a-meeting",
-    "title": "Maximum Employees to Be Invited to a Meeting",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Depth-First Search / Graph",
-    "pattern": "Topological Sort",
-    "tags": [
-      "depth-first-search",
-      "graph",
-      "topological-sort"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "maximum-score-of-a-node-sequence",
-    "title": "Maximum Score of a Node Sequence",
-    "leetcodeUrl": "https://leetcode.com/problems/maximum-score-of-a-node-sequence/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / Sorting",
-    "pattern": "Graph",
-    "tags": [
-      "array",
-      "graph",
-      "sorting",
-      "enumeration"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "longest-path-with-different-adjacent-characters",
-    "title": "Longest Path With Different Adjacent Characters",
-    "leetcodeUrl": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters/",
-    "difficulty": "Hard",
-    "level": "graphs",
-    "levelName": "Graphs",
-    "category": "graphs",
-    "categoryName": "Graphs",
-    "subcategory": "Array / String",
-    "pattern": "Topological Sort",
-    "tags": [
-      "array",
       "string",
-      "tree",
-      "depth-first-search",
-      "graph",
-      "topological-sort"
+      "stack"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/basic-calculator-ii/",
+        "problemId": "227"
+      }
+    ]
   },
   {
-    "id": "pascals-triangle-ii",
-    "title": "Pascal's Triangle II",
-    "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
-    "difficulty": "Easy",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array",
-    "pattern": "Dynamic Programming",
+    "id": "build-an-array-with-stack-operations",
+    "title": "Build an Array With Stack Operations",
+    "leetcodeUrl": "https://leetcode.com/problems/build-an-array-with-stack-operations/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
     "tags": [
       "array",
-      "dynamic-programming"
+      "stack",
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/build-an-array-with-stack-operations/",
+        "problemId": "1441"
+      }
+    ]
   },
   {
-    "id": "counting-bits",
-    "title": "Counting Bits",
-    "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
-    "difficulty": "Easy",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Bit Manipulation",
-    "pattern": "Dynamic Programming",
+    "id": "check-if-word-is-valid-after-substitutions",
+    "title": "Check If Word Is Valid After Substitutions",
+    "leetcodeUrl": "https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
     "tags": [
-      "dynamic-programming",
-      "bit-manipulation"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "is-subsequence",
-    "title": "Is Subsequence",
-    "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
-    "difficulty": "Easy",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Two Pointers / String",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "two-pointers",
       "string",
-      "dynamic-programming"
+      "stack"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/",
+        "problemId": "1003"
+      }
+    ]
   },
   {
-    "id": "fibonacci-number",
-    "title": "Fibonacci Number",
-    "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
-    "difficulty": "Easy",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Math / Recursion",
-    "pattern": "Dynamic Programming",
+    "id": "clumsy-factorial",
+    "title": "Clumsy Factorial",
+    "leetcodeUrl": "https://leetcode.com/problems/clumsy-factorial/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Math",
     "tags": [
       "math",
-      "dynamic-programming",
+      "stack",
+      "simulation"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/clumsy-factorial/",
+        "problemId": "1006"
+      }
+    ]
+  },
+  {
+    "id": "daily-temperatures",
+    "title": "Daily Temperatures",
+    "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "stack",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/daily-temperatures/",
+        "problemId": "739"
+      }
+    ]
+  },
+  {
+    "id": "decode-string",
+    "title": "Decode String",
+    "leetcodeUrl": "https://leetcode.com/problems/decode-string/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack",
+      "recursion"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/decode-string/",
+        "problemId": "394"
+      }
+    ]
+  },
+  {
+    "id": "decoded-string-at-index",
+    "title": "Decoded String at Index",
+    "leetcodeUrl": "https://leetcode.com/problems/decoded-string-at-index/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
+    "tags": [
+      "string",
+      "stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/decoded-string-at-index/",
+        "problemId": "880"
+      }
+    ]
+  },
+  {
+    "id": "design-a-stack-with-increment-operation",
+    "title": "Design a Stack With Increment Operation",
+    "leetcodeUrl": "https://leetcode.com/problems/design-a-stack-with-increment-operation/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "stack",
+      "design"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/design-a-stack-with-increment-operation/",
+        "problemId": "1381"
+      }
+    ]
+  },
+  {
+    "id": "evaluate-reverse-polish-notation",
+    "title": "Evaluate Reverse Polish Notation",
+    "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
+      "stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+        "problemId": "150"
+      }
+    ]
+  },
+  {
+    "id": "exclusive-time-of-functions",
+    "title": "Exclusive Time of Functions",
+    "leetcodeUrl": "https://leetcode.com/problems/exclusive-time-of-functions/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/exclusive-time-of-functions/",
+        "problemId": "636"
+      }
+    ]
+  },
+  {
+    "id": "find-the-winner-of-the-circular-game",
+    "title": "Find the Winner of the Circular Game",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-winner-of-the-circular-game/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "math",
       "recursion",
-      "memoization"
+      "queue",
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/find-the-winner-of-the-circular-game/",
+        "problemId": "1823"
+      }
+    ]
   },
   {
-    "id": "min-cost-climbing-stairs",
-    "title": "Min Cost Climbing Stairs",
-    "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
-    "difficulty": "Easy",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "array",
-      "dynamic-programming"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "divisor-game",
-    "title": "Divisor Game",
-    "leetcodeUrl": "https://leetcode.com/problems/divisor-game/",
-    "difficulty": "Easy",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Math / Brainteaser",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "math",
-      "dynamic-programming",
-      "brainteaser",
-      "game-theory"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "n-th-tribonacci-number",
-    "title": "N-th Tribonacci Number",
-    "leetcodeUrl": "https://leetcode.com/problems/n-th-tribonacci-number/",
-    "difficulty": "Easy",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Math / Memoization",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "math",
-      "dynamic-programming",
-      "memoization"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "longest-unequal-adjacent-groups-subsequence-i",
-    "title": "Longest Unequal Adjacent Groups Subsequence I",
-    "leetcodeUrl": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/",
-    "difficulty": "Easy",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array / String",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "array",
-      "string",
-      "dynamic-programming",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "longest-palindromic-substring",
-    "title": "Longest Palindromic Substring",
-    "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "id": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+    "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/",
     "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Two Pointers / String",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "two-pointers",
-      "string",
-      "dynamic-programming"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "generate-parentheses",
-    "title": "Generate Parentheses",
-    "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "String / Backtracking",
-    "pattern": "Dynamic Programming",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
     "tags": [
       "string",
-      "dynamic-programming",
-      "backtracking"
+      "stack"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/",
+        "problemId": "1111"
+      }
+    ]
   },
   {
-    "id": "jump-game-ii",
-    "title": "Jump Game II",
-    "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+    "id": "min-stack",
+    "title": "Min Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
     "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array / Greedy",
-    "pattern": "Dynamic Programming",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Stack",
     "tags": [
-      "array",
-      "dynamic-programming",
-      "greedy"
+      "stack",
+      "design"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/min-stack/",
+        "problemId": "155"
+      }
+    ]
   },
   {
-    "id": "jump-game",
-    "title": "Jump Game",
-    "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+    "id": "minimum-remove-to-make-valid-parentheses",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
     "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array / Greedy",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "array",
-      "dynamic-programming",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "unique-paths",
-    "title": "Unique Paths",
-    "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Math / Combinatorics",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "math",
-      "dynamic-programming",
-      "combinatorics"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "unique-paths-ii",
-    "title": "Unique Paths II",
-    "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array / Matrix",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "array",
-      "dynamic-programming",
-      "matrix"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "minimum-path-sum",
-    "title": "Minimum Path Sum",
-    "leetcodeUrl": "https://leetcode.com/problems/minimum-path-sum/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array / Matrix",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "array",
-      "dynamic-programming",
-      "matrix"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "edit-distance",
-    "title": "Edit Distance",
-    "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "String",
-    "pattern": "Dynamic Programming",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
     "tags": [
       "string",
-      "dynamic-programming"
+      "stack"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+        "problemId": "1249"
+      }
+    ]
   },
   {
-    "id": "decode-ways",
-    "title": "Decode Ways",
-    "leetcodeUrl": "https://leetcode.com/problems/decode-ways/",
+    "id": "next-greater-element-ii",
+    "title": "Next Greater Element II",
+    "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
     "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "String",
-    "pattern": "Dynamic Programming",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
+    "tags": [
+      "array",
+      "stack",
+      "monotonic-stack"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/next-greater-element-ii/",
+        "problemId": "503"
+      }
+    ]
+  },
+  {
+    "id": "online-stock-span",
+    "title": "Online Stock Span",
+    "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Stack",
+    "tags": [
+      "stack",
+      "design",
+      "monotonic-stack",
+      "data-stream"
+    ],
+    "companies": [],
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/online-stock-span/",
+        "problemId": "901"
+      }
+    ]
+  },
+  {
+    "id": "remove-all-adjacent-duplicates-in-string-ii",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/",
+    "difficulty": "Medium",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
     "tags": [
       "string",
-      "dynamic-programming"
+      "stack"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/",
+        "problemId": "1209"
+      }
+    ]
   },
   {
-    "id": "unique-binary-search-trees-ii",
-    "title": "Unique Binary Search Trees II",
-    "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees-ii/",
+    "id": "remove-all-occurrences-of-a-substring",
+    "title": "Remove All Occurrences of a Substring",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring/",
     "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Backtracking / Tree",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "dynamic-programming",
-      "backtracking",
-      "tree",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "unique-binary-search-trees",
-    "title": "Unique Binary Search Trees",
-    "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Math / Tree",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "math",
-      "dynamic-programming",
-      "tree",
-      "binary-search-tree",
-      "binary-tree"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "interleaving-string",
-    "title": "Interleaving String",
-    "leetcodeUrl": "https://leetcode.com/problems/interleaving-string/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "String",
-    "pattern": "Dynamic Programming",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
     "tags": [
       "string",
-      "dynamic-programming"
+      "stack",
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring/",
+        "problemId": "1910"
+      }
+    ]
   },
   {
-    "id": "triangle",
-    "title": "Triangle",
-    "leetcodeUrl": "https://leetcode.com/problems/triangle/",
+    "id": "reverse-substrings-between-each-pair-of-parentheses",
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/",
     "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "array",
-      "dynamic-programming"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "best-time-to-buy-and-sell-stock-ii",
-    "title": "Best Time to Buy and Sell Stock II",
-    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array / Greedy",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "array",
-      "dynamic-programming",
-      "greedy"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "palindrome-partitioning",
-    "title": "Palindrome Partitioning",
-    "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "String / Backtracking",
-    "pattern": "Dynamic Programming",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
     "tags": [
       "string",
-      "dynamic-programming",
-      "backtracking"
+      "stack"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/",
+        "problemId": "1190"
+      }
+    ]
   },
   {
-    "id": "word-break",
-    "title": "Word Break",
-    "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+    "id": "score-of-parentheses",
+    "title": "Score of Parentheses",
+    "leetcodeUrl": "https://leetcode.com/problems/score-of-parentheses/",
     "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array / Hash Table",
-    "pattern": "Dynamic Programming",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
     "tags": [
-      "array",
-      "hash-table",
       "string",
-      "dynamic-programming",
-      "trie",
-      "memoization"
+      "stack"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/score-of-parentheses/",
+        "problemId": "856"
+      }
+    ]
   },
   {
-    "id": "house-robber",
-    "title": "House Robber",
-    "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+    "id": "simplify-path",
+    "title": "Simplify Path",
+    "leetcodeUrl": "https://leetcode.com/problems/simplify-path/",
     "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array",
-    "pattern": "Dynamic Programming",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "String",
     "tags": [
-      "array",
-      "dynamic-programming"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "house-robber-ii",
-    "title": "House Robber II",
-    "leetcodeUrl": "https://leetcode.com/problems/house-robber-ii/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "array",
-      "dynamic-programming"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "maximal-square",
-    "title": "Maximal Square",
-    "leetcodeUrl": "https://leetcode.com/problems/maximal-square/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array / Matrix",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "array",
-      "dynamic-programming",
-      "matrix"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "different-ways-to-add-parentheses",
-    "title": "Different Ways to Add Parentheses",
-    "leetcodeUrl": "https://leetcode.com/problems/different-ways-to-add-parentheses/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Math / String",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "math",
       "string",
-      "dynamic-programming",
-      "recursion",
-      "memoization"
+      "stack"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/simplify-path/",
+        "problemId": "71"
+      }
+    ]
   },
   {
-    "id": "ugly-number-ii",
-    "title": "Ugly Number II",
-    "leetcodeUrl": "https://leetcode.com/problems/ugly-number-ii/",
+    "id": "validate-stack-sequences",
+    "title": "Validate Stack Sequences",
+    "leetcodeUrl": "https://leetcode.com/problems/validate-stack-sequences/",
     "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Hash Table / Math",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "hash-table",
-      "math",
-      "dynamic-programming",
-      "heap-priority-queue"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "perfect-squares",
-    "title": "Perfect Squares",
-    "leetcodeUrl": "https://leetcode.com/problems/perfect-squares/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Math / Breadth-First Search",
-    "pattern": "Dynamic Programming",
-    "tags": [
-      "math",
-      "dynamic-programming",
-      "breadth-first-search"
-    ],
-    "companies": [],
-    "revisionLevel": 0
-  },
-  {
-    "id": "longest-increasing-subsequence",
-    "title": "Longest Increasing Subsequence",
-    "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
-    "difficulty": "Medium",
-    "level": "dynamic-programming",
-    "levelName": "Dynamic Programming",
-    "category": "dynamic-programming",
-    "categoryName": "Dynamic Programming",
-    "subcategory": "Array / Binary Search",
-    "pattern": "Dynamic Programming",
+    "level": "fundamental-ds",
+    "levelName": "Fundamental Data Structures",
+    "category": "stacks-queues",
+    "categoryName": "Stack & Queue",
+    "subcategory": "Stack & Queue",
+    "pattern": "Array",
     "tags": [
       "array",
-      "binary-search",
-      "dynamic-programming"
+      "stack",
+      "simulation"
     ],
     "companies": [],
-    "revisionLevel": 0
+    "revisionLevel": 0,
+    "section": "practice",
+    "platforms": [
+      {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/problems/validate-stack-sequences/",
+        "problemId": "946"
+      }
+    ]
   }
 ]
