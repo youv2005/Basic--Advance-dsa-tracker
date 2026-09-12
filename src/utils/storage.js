@@ -1,5 +1,5 @@
-// All browser-local persistence lives here. No backend, no network
-// calls — everything is localStorage plus client-side file downloads.
+// Scoped browser-local persistence.
+// Guest and signed-in accounts get separate progress stores.
 
 export const STORAGE_KEYS = {
   PROBLEMS: "dsa-tracker:problems",
@@ -9,17 +9,26 @@ export const STORAGE_KEYS = {
   NOTES: "dsa-tracker:notes",
 };
 
+const GUEST_SCOPE = "guest";
+
+function getScopedKey(key, userId = null) {
+  const scope = userId || GUEST_SCOPE;
+
+  if (key === STORAGE_KEYS.PROBLEMS) {
+    return `dsa-tracker:${scope}:problems`;
+  }
+
+  return `dsa-tracker:${scope}:${key.replace("dsa-tracker:", "")}`;
+}
+
 function safeGet(key) {
   try {
     return localStorage.getItem(key);
   } catch {
-    return null; // private browsing / storage disabled
+    return null;
   }
 }
 
-// Returns true on success, false if the write was blocked (private
-// browsing, storage disabled, quota exceeded) — callers can surface
-// that to the user instead of silently losing data.
 function safeSet(key, value) {
   try {
     localStorage.setItem(key, value);
@@ -33,15 +42,13 @@ function safeRemove(key) {
   try {
     localStorage.removeItem(key);
   } catch {
-    /* no-op */
+    // Ignore storage errors.
   }
 }
 
-// A real write/read/remove round trip, not just "does the API exist" —
-// private browsing in some browsers exposes localStorage but throws
-// on the first write, which a typeof check alone wouldn't catch.
 export function isStorageAvailable() {
   const probeKey = "dsa-tracker:__probe__";
+
   try {
     localStorage.setItem(probeKey, "1");
     localStorage.removeItem(probeKey);
@@ -51,99 +58,176 @@ export function isStorageAvailable() {
   }
 }
 
-export function loadProblems(fallback) {
-  const raw = safeGet(STORAGE_KEYS.PROBLEMS);
+// ---------------------------------------------------------
+// Problems
+// ---------------------------------------------------------
+
+export function loadProblems(fallback, userId = null) {
+  const raw = safeGet(getScopedKey(STORAGE_KEYS.PROBLEMS, userId));
+
   if (!raw) return fallback;
+
   try {
     const parsed = JSON.parse(raw);
-    if (!Array.isArray(parsed) || parsed.length === 0) return fallback;
 
-    // Dataset upgrades are metadata migrations, not progress resets.
-    // Replace bundled problem metadata with the newest version while
-    // preserving user-owned fields such as revisionLevel on matching IDs.
-    const storedById = new Map(parsed.map((p) => [p?.id, p]));
+    if (!Array.isArray(parsed) || parsed.length === 0) {
+      return fallback;
+    }
+
+    const storedById = new Map(
+      parsed.map((p) => [p?.id, p])
+    );
+
     const migrated = fallback.map((problem) => {
       const old = storedById.get(problem.id);
+
       if (!old) return problem;
+
       return {
         ...problem,
-        revisionLevel: Number.isFinite(Number(old.revisionLevel)) ? Number(old.revisionLevel) : problem.revisionLevel,
+        revisionLevel: Number.isFinite(
+          Number(old.revisionLevel)
+        )
+          ? Number(old.revisionLevel)
+          : problem.revisionLevel,
       };
     });
 
-    // Preserve genuinely custom imported problems that are not part of the
-    // bundled curriculum. They remain available after an app upgrade.
-    const bundledIds = new Set(fallback.map((p) => p.id));
+    const bundledIds = new Set(
+      fallback.map((p) => p.id)
+    );
+
     for (const problem of parsed) {
-      if (problem?.id && !bundledIds.has(problem.id)) migrated.push(problem);
+      if (
+        problem?.id &&
+        !bundledIds.has(problem.id)
+      ) {
+        migrated.push(problem);
+      }
     }
+
     return migrated;
   } catch {
     return fallback;
   }
 }
 
-export function saveProblems(problems) {
-  return safeSet(STORAGE_KEYS.PROBLEMS, JSON.stringify(problems));
+export function saveProblems(problems, userId = null) {
+  return safeSet(
+    getScopedKey(STORAGE_KEYS.PROBLEMS, userId),
+    JSON.stringify(problems)
+  );
 }
 
-export function loadIdSet(key) {
-  const raw = safeGet(key);
+// ---------------------------------------------------------
+// Sets
+// ---------------------------------------------------------
+
+export function loadIdSet(key, userId = null) {
+  const raw = safeGet(getScopedKey(key, userId));
+
   if (!raw) return new Set();
+
   try {
     const parsed = JSON.parse(raw);
-    return Array.isArray(parsed) ? new Set(parsed) : new Set();
+
+    return Array.isArray(parsed)
+      ? new Set(parsed)
+      : new Set();
   } catch {
     return new Set();
   }
 }
 
-export function saveIdSet(key, set) {
-  return safeSet(key, JSON.stringify(Array.from(set)));
+export function saveIdSet(key, set, userId = null) {
+  return safeSet(
+    getScopedKey(key, userId),
+    JSON.stringify(Array.from(set))
+  );
 }
 
-// Generic plain-object store, shared by notes and completedAt so the
-// load/save/fallback/error-handling logic exists in exactly one place.
-export function loadObject(key) {
-  const raw = safeGet(key);
+// ---------------------------------------------------------
+// Objects
+// ---------------------------------------------------------
+
+export function loadObject(key, userId = null) {
+  const raw = safeGet(getScopedKey(key, userId));
+
   if (!raw) return {};
+
   try {
     const parsed = JSON.parse(raw);
-    return parsed && typeof parsed === "object" && !Array.isArray(parsed) ? parsed : {};
+
+    return parsed &&
+      typeof parsed === "object" &&
+      !Array.isArray(parsed)
+      ? parsed
+      : {};
   } catch {
     return {};
   }
 }
 
-export function saveObject(key, obj) {
-  return safeSet(key, JSON.stringify(obj));
+export function saveObject(key, obj, userId = null) {
+  return safeSet(
+    getScopedKey(key, userId),
+    JSON.stringify(obj)
+  );
 }
 
-export const loadNotes = () => loadObject(STORAGE_KEYS.NOTES);
-export const saveNotes = (notes) => saveObject(STORAGE_KEYS.NOTES, notes);
+// ---------------------------------------------------------
+// Convenience helpers
+// ---------------------------------------------------------
 
-export const loadCompletedAt = () => loadObject(STORAGE_KEYS.COMPLETED_AT);
-export const saveCompletedAt = (completedAt) => saveObject(STORAGE_KEYS.COMPLETED_AT, completedAt);
+export const loadNotes = (userId = null) =>
+  loadObject(STORAGE_KEYS.NOTES, userId);
 
-// Clears completed/starred/notes/completedAt only — the problem
-// dataset itself is left untouched, per the "Clear Progress" spec.
-export function clearProgressStorage() {
-  safeRemove(STORAGE_KEYS.COMPLETED);
-  safeRemove(STORAGE_KEYS.COMPLETED_AT);
-  safeRemove(STORAGE_KEYS.STARRED);
-  safeRemove(STORAGE_KEYS.NOTES);
+export const saveNotes = (notes, userId = null) =>
+  saveObject(STORAGE_KEYS.NOTES, notes, userId);
+
+export const loadCompletedAt = (userId = null) =>
+  loadObject(STORAGE_KEYS.COMPLETED_AT, userId);
+
+export const saveCompletedAt = (
+  completedAt,
+  userId = null
+) =>
+  saveObject(
+    STORAGE_KEYS.COMPLETED_AT,
+    completedAt,
+    userId
+  );
+
+// ---------------------------------------------------------
+// Clear current scope
+// ---------------------------------------------------------
+
+export function clearProgressStorage(userId = null) {
+  safeRemove(getScopedKey(STORAGE_KEYS.COMPLETED, userId));
+  safeRemove(getScopedKey(STORAGE_KEYS.COMPLETED_AT, userId));
+  safeRemove(getScopedKey(STORAGE_KEYS.STARRED, userId));
+  safeRemove(getScopedKey(STORAGE_KEYS.NOTES, userId));
 }
 
-// Triggers a browser download of `data` as a formatted JSON file.
-// Pure client-side Blob + object URL — no server involved.
+// ---------------------------------------------------------
+// JSON download
+// ---------------------------------------------------------
+
 export function downloadJSON(filename, data) {
-  const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+  const blob = new Blob(
+    [JSON.stringify(data, null, 2)],
+    { type: "application/json" }
+  );
+
   const url = URL.createObjectURL(blob);
+
   const link = document.createElement("a");
   link.href = url;
   link.download = filename;
+
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
+
   URL.revokeObjectURL(url);
 }
